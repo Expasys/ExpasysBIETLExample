@@ -1,0 +1,1423 @@
+,map,district,district_key,iso_okato,region,region_key,iso_code
+1,Altai_Territory,Павловский,_Pavlovsky,RU-ALT-01230000000,Алтайский край   ,Altayskiy,RU-ALT
+2,Altai_Territory,Косихинский,_Kosikhinsky,RU-ALT-01218000000,Алтайский край   ,Altayskiy,RU-ALT
+3,Altai_Territory,Кытмановский,_Kytmanovsky,RU-ALT-01224000000,Алтайский край   ,Altayskiy,RU-ALT
+4,Altai_Territory,Заринский,_Zarinsky,RU-ALT-01204824000,Алтайский край   ,Altayskiy,RU-ALT
+5,Altai_Territory,Залесовский,_Zalesovsky,RU-ALT-53223804000,Алтайский край   ,Altayskiy,RU-ALT
+6,Altai_Territory,Тальменский,_Talmensky,RU-ALT-01247000000,Алтайский край   ,Altayskiy,RU-ALT
+7,Altai_Territory,Калманский,_Kalmansky,RU-ALT-01215000000,Алтайский край   ,Altayskiy,RU-ALT
+8,Altai_Territory,Первомайский,_Pervomaisky,RU-ALT-01232000000,Алтайский край   ,Altayskiy,RU-ALT
+9,Altai_Territory,Тогульский,_Togulsky,RU-ALT-01248000000,Алтайский край   ,Altayskiy,RU-ALT
+10,Altai_Territory,Троицкий,_Troitsky,RU-ALT-01251000000,Алтайский край   ,Altayskiy,RU-ALT
+11,Altai_Territory,Целинный,_Celinny,RU-ALT-01257000000,Алтайский край   ,Altayskiy,RU-ALT
+12,Altai_Territory,Солтонский,_Soltonsky,RU-ALT-01244000000,Алтайский край   ,Altayskiy,RU-ALT
+13,Altai_Territory,Зональный,_Zonalny,RU-ALT-01229000000,Алтайский край   ,Altayskiy,RU-ALT
+14,Altai_Territory,Красногорский,_Krasnogorsky,RU-ALT-01219000000,Алтайский край   ,Altayskiy,RU-ALT
+15,Altai_Territory,Бийский,_Biysky,RU-ALT-01204000000,Алтайский край   ,Altayskiy,RU-ALT
+16,Altai_Territory,Угловский,_Uglovsky,RU-ALT-01253000000,Алтайский край   ,Altayskiy,RU-ALT
+17,Altai_Territory,Рубцовский,_Rubtsovsky,RU-ALT-01238000000,Алтайский край   ,Altayskiy,RU-ALT
+18,Altai_Territory,Змеиногорский,_Zmeinogorsky,RU-ALT-01214000000,Алтайский край   ,Altayskiy,RU-ALT
+19,Altai_Territory,Локтевский,_Loktevsky,RU-ALT-01225000000,Алтайский край   ,Altayskiy,RU-ALT
+20,Altai_Territory,Третьяковский,_Tretyakovsky,RU-ALT-01250000000,Алтайский край   ,Altayskiy,RU-ALT
+21,Altai_Territory,Чарышский,_Charyshsky,RU-ALT-01254866000,Алтайский край   ,Altayskiy,RU-ALT
+22,Altai_Territory,Краснощёковский,_Krasnoshchekovsky,RU-ALT-01220000000,Алтайский край   ,Altayskiy,RU-ALT
+23,Altai_Territory,Курьинский,_Kurinsky,RU-ALT-01223000000,Алтайский край   ,Altayskiy,RU-ALT
+24,Altai_Territory,Солонешенский,_Soloneshensky,RU-ALT-01243000000,Алтайский край   ,Altayskiy,RU-ALT
+25,Altai_Territory,Усть-Калманский,_Ust-Kalmansky,RU-ALT-01254000000,Алтайский край   ,Altayskiy,RU-ALT
+26,Altai_Territory,Топчихинский,_Topchikhinsky,RU-ALT-01249000000,Алтайский край   ,Altayskiy,RU-ALT
+27,Altai_Territory,Петропавловский,_Petropavlovsky,RU-ALT-01233000000,Алтайский край   ,Altayskiy,RU-ALT
+28,Altai_Territory,Усть-Пристанский,_Ust-Pristansky,RU-ALT-01255000000,Алтайский край   ,Altayskiy,RU-ALT
+29,Altai_Territory,Алтайский,_Altaisky,RU-ALT-01202000000,Алтайский край   ,Altayskiy,RU-ALT
+30,Altai_Territory,Смоленский,_Smolensky,RU-ALT-01240000000,Алтайский край   ,Altayskiy,RU-ALT
+31,Altai_Territory,Быстроистокский,_Bystroistoksky,RU-ALT-01207000000,Алтайский край   ,Altayskiy,RU-ALT
+32,Altai_Territory,Советский,_Sovetsky,RU-ALT-01242000000,Алтайский край   ,Altayskiy,RU-ALT
+33,Altai_Territory,Немецкий национальный,_Nemetsky Natsionalny,RU-ALT-01260000000,Алтайский край   ,Altayskiy,RU-ALT
+34,Altai_Territory,Бурлинский,_Burlinsky,RU-ALT-01206000000,Алтайский край   ,Altayskiy,RU-ALT
+35,Altai_Territory,Славгород,_Slavgorod,RU-ALT-01419000000,Алтайский край   ,Altayskiy,RU-ALT
+36,Altai_Territory,Табунский,_Tabunsky,RU-ALT-01246000000,Алтайский край   ,Altayskiy,RU-ALT
+37,Altai_Territory,Хабарский,_Khabarsky,RU-ALT-01256000000,Алтайский край   ,Altayskiy,RU-ALT
+38,Altai_Territory,Суетский,_Suyetskiy,RU-ALT-01241000000,Алтайский край   ,Altayskiy,RU-ALT
+39,Altai_Territory,Благовещенский,_Blagoveshchenskiy,RU-ALT-01205000000,Алтайский край   ,Altayskiy,RU-ALT
+40,Altai_Territory,Завьяловский,_Zavyalovsky,RU-ALT-01211000000,Алтайский край   ,Altayskiy,RU-ALT
+41,Altai_Territory,Баевский,_Baevsky,RU-ALT-01203000000,Алтайский край   ,Altayskiy,RU-ALT
+42,Altai_Territory,Панкрушихинский,_Pankrushikhinsky,RU-ALT-01231000000,Алтайский край   ,Altayskiy,RU-ALT
+43,Altai_Territory,Каменский,_Kamensky,RU-ALT-01216000000,Алтайский край   ,Altayskiy,RU-ALT
+44,Altai_Territory,Крутихинский,_Krutikhinsky,RU-ALT-01221000000,Алтайский край   ,Altayskiy,RU-ALT
+45,Altai_Territory,Тюменцевский,_Tyumentsevsky,RU-ALT-01252000000,Алтайский край   ,Altayskiy,RU-ALT
+46,Altai_Territory,Шелаболихинский,_Shelabolikhinsky,RU-ALT-01245000000,Алтайский край   ,Altayskiy,RU-ALT
+47,Altai_Territory,Кулундинский,_Kulundinsky,RU-ALT-01222000000,Алтайский край   ,Altayskiy,RU-ALT
+48,Altai_Territory,Родинский,_Rodinsky,RU-ALT-01236000000,Алтайский край   ,Altayskiy,RU-ALT
+49,Altai_Territory,Ключевский,_Klyuchevsky,RU-ALT-01249820000,Алтайский край   ,Altayskiy,RU-ALT
+50,Altai_Territory,Михайловский,_Mikhailovsky,RU-ALT-01227000000,Алтайский край   ,Altayskiy,RU-ALT
+51,Altai_Territory,Волчихинский,_Volchikhinsky,RU-ALT-01208000000,Алтайский край   ,Altayskiy,RU-ALT
+52,Altai_Territory,Егорьевский,_Egorievsky,RU-ALT-01209000000,Алтайский край   ,Altayskiy,RU-ALT
+53,Altai_Territory,Поспелихинский,_Pospelikhinsky,RU-ALT-01234000000,Алтайский край   ,Altayskiy,RU-ALT
+54,Altai_Territory,Новичихинский,_Novichikhinsky,RU-ALT-01228000000,Алтайский край   ,Altayskiy,RU-ALT
+55,Altai_Territory,Шипуновский,_Shipunovsky,RU-ALT-01259000000,Алтайский край   ,Altayskiy,RU-ALT
+56,Altai_Territory,Романовский,_Romanovsky,RU-ALT-01237000000,Алтайский край   ,Altayskiy,RU-ALT
+57,Altai_Territory,Мамонтовский,_Mamontovsky,RU-ALT-01226000000,Алтайский край   ,Altayskiy,RU-ALT
+58,Altai_Territory,Ребрихинский,_Rebrikhinsky,RU-ALT-01235000000,Алтайский край   ,Altayskiy,RU-ALT
+59,Altai_Territory,Алейский,_Aleisky,RU-ALT-01201000000,Алтайский край   ,Altayskiy,RU-ALT
+60,Altai_Territory,Барнаул,_Barnaul,RU-ALT-01401000000,Алтайский край   ,Altayskiy,RU-ALT
+61,Altai_Territory,Новоалтайск,Novoaltaisk,RU-ALT-01413000000,Алтайский край   ,Altayskiy,RU-ALT
+62,Altai_Territory,Алейск,Aleisk,RU-ALT-01403000000,Алтайский край   ,Altayskiy,RU-ALT
+63,Altai_Territory,Заринск,Zarinsk,RU-ALT-01406000000,Алтайский край   ,Altayskiy,RU-ALT
+64,Altai_Territory,Ельцовский,_Yeltsovsky,RU-ALT-01210000000,Алтайский край   ,Altayskiy,RU-ALT
+65,Altai_Territory,Бийск,Biysk,RU-ALT-01405000000,Алтайский край   ,Altayskiy,RU-ALT
+66,Altai_Territory,Белокуриха,Belokurikha,RU-ALT-01404000000,Алтайский край   ,Altayskiy,RU-ALT
+67,Altai_Territory,ЗАТО Сибирский,_ZATOSebirsky,RU-ALT-01555000000,Алтайский край   ,Altayskiy,RU-ALT
+68,Altai_Territory,Горняк,Gornyak,RU-ALT-01225501000,Алтайский край   ,Altayskiy,RU-ALT
+69,Altai_Territory,Змеиногорск,Zmeinogorsk,RU-ALT-01214501000,Алтайский край   ,Altayskiy,RU-ALT
+70,Altai_Territory,Рубцовск,Rubtsovsk,RU-ALT-01416000000,Алтайский край   ,Altayskiy,RU-ALT
+71,Altai_Territory,Яровое,Yarovoe,RU-ALT-01430000000,Алтайский край   ,Altayskiy,RU-ALT
+72,Arkhangelsk_Region,Приморский район,Primorsky,RU-ARK-11252000000,Архангельская область   ,Arhangelskaya,RU-ARK
+73,Arkhangelsk_Region,Архангельск,Arkhangelsk,RU-ARK-11401000000,Архангельская область   ,Arhangelskaya,RU-ARK
+74,Arkhangelsk_Region,Северодвинск,Severodvinsk,RU-ARK-11430000000,Архангельская область   ,Arhangelskaya,RU-ARK
+75,Arkhangelsk_Region,Вилегодский район,Vilegodsky,RU-ARK-11211000000,Архангельская область   ,Arhangelskaya,RU-ARK
+76,Arkhangelsk_Region,Красноборский район,Krasnoborsky,RU-ARK-11230000000,Архангельская область   ,Arhangelskaya,RU-ARK
+77,Arkhangelsk_Region,Коношский район,Konoshsky,RU-ARK-11222000000,Архангельская область   ,Arhangelskaya,RU-ARK
+78,Arkhangelsk_Region,Вельский район,Velsky,RU-ARK-11205000000,Архангельская область   ,Arhangelskaya,RU-ARK
+79,Arkhangelsk_Region,Котласский район,Kotlassky,RU-ARK-11227000000,Архангельская область   ,Arhangelskaya,RU-ARK
+80,Arkhangelsk_Region,Мезенский район,Mezensky,RU-ARK-11242000000,Архангельская область   ,Arhangelskaya,RU-ARK
+81,Arkhangelsk_Region,Каргопольский район,Kargopolsky,RU-ARK-11218000000,Архангельская область   ,Arhangelskaya,RU-ARK
+82,Arkhangelsk_Region,Плесецкий район,Plesetsky,RU-ARK-11250000000,Архангельская область   ,Arhangelskaya,RU-ARK
+83,Arkhangelsk_Region,Новодвинск,Novodvinsk,RU-ARK-11415000000,Архангельская область   ,Arhangelskaya,RU-ARK
+84,Arkhangelsk_Region,Коряжма,Koryazhma,RU-ARK-11408000000,Архангельская область   ,Arhangelskaya,RU-ARK
+85,Arkhangelsk_Region,Котлас,Kotlas,RU-ARK-11410000000,Архангельская область   ,Arhangelskaya,RU-ARK
+86,Arkhangelsk_Region,Онежский район,Onegsky,RU-ARK-11246000000,Архангельская область   ,Arhangelskaya,RU-ARK
+87,Arkhangelsk_Region,Холмогорский район,Kholmogorsky,RU-ARK-11256000000,Архангельская область   ,Arhangelskaya,RU-ARK
+88,Arkhangelsk_Region,Мирный,Mirny,RU-ARK-11525000000,Архангельская область   ,Arhangelskaya,RU-ARK
+89,Arkhangelsk_Region,Няндомский район,Nyandomsky,RU-ARK-11244000000,Архангельская область   ,Arhangelskaya,RU-ARK
+90,Arkhangelsk_Region,Пинежский район,Pinezhsky,RU-ARK-11248000000,Архангельская область   ,Arhangelskaya,RU-ARK
+91,Arkhangelsk_Region,Шенкурский район,Shenkursky,RU-ARK-11258000000,Архангельская область   ,Arhangelskaya,RU-ARK
+92,Arkhangelsk_Region,Устьянский район,Ustyansky,RU-ARK-11254000000,Архангельская область   ,Arhangelskaya,RU-ARK
+93,Arkhangelsk_Region,Лешуконский район,Leshukonsky,RU-ARK-11238000000,Архангельская область   ,Arhangelskaya,RU-ARK
+94,Arkhangelsk_Region,Виноградовский район,Vinogradovsky,RU-ARK-11214000000,Архангельская область   ,Arhangelskaya,RU-ARK
+95,Arkhangelsk_Region,Верхнетоемский район,Verkhnetoyemsky,RU-ARK-11208000000,Архангельская область   ,Arhangelskaya,RU-ARK
+96,Arkhangelsk_Region,Ленский район,Lensky,RU-ARK-11235000000,Архангельская область   ,Arhangelskaya,RU-ARK
+97,Astrakhan_Region,Черноярский,Chernoyarsky,RU-AST-12250000000,Астраханская область   ,Astrahanskaya,RU-AST
+98,Astrakhan_Region,Енотаевский,Enotaevsky,RU-AST-12215000000,Астраханская область   ,Astrahanskaya,RU-AST
+99,Astrakhan_Region,Икрянинский,Ikryaninsky,RU-AST,Астраханская область   ,Astrahanskaya,RU-AST
+100,Astrakhan_Region,Камызякский,Kamyzyaksky,RU-AST-12220000000,Астраханская область   ,Astrahanskaya,RU-AST
+101,Astrakhan_Region,Харабалинский,Kharabalinsky,RU-AST-12245000000,Астраханская область   ,Astrahanskaya,RU-AST
+102,Astrakhan_Region,Красноярский,Krasnoyarsky,RU-AST-12230000000,Астраханская область   ,Astrahanskaya,RU-AST
+103,Astrakhan_Region,Лиманский,Limansky,RU-AST-12235000000,Астраханская область   ,Astrahanskaya,RU-AST
+104,Astrakhan_Region,Наримановский,Narimanovsky,RU-AST-12240000000,Астраханская область   ,Astrahanskaya,RU-AST
+105,Astrakhan_Region,Приволжский,Privolzhsky,RU-AST-12242000000,Астраханская область   ,Astrahanskaya,RU-AST
+106,Astrakhan_Region,Володарский,Volodarsky,RU-AST-12210000000,Астраханская область   ,Astrahanskaya,RU-AST
+107,Astrakhan_Region,Ахтубинский,Akhtubinsky,RU-AST-12205000000,Астраханская область   ,Astrahanskaya,RU-AST
+108,Astrakhan_Region,Астрахань,Astrakhan,RU-AST-12401000000,Астраханская область   ,Astrahanskaya,RU-AST
+109,Chechen_Republic,Веденский район,Vedenskiy,RU-CE-96204000000,Чеченская Республика   ,Chechnya,RU-CE
+110,Chechen_Republic,Ножай-Юртовский район,Nozhai-Yurt,RU-CE-96225000000,Чеченская Республика   ,Chechnya,RU-CE
+111,Chechen_Republic,Гудермесский район,Gudermesskyi,RU-CE-96210000000,Чеченская Республика   ,Chechnya,RU-CE
+112,Chechen_Republic,Курчалоевский район,Kurchaloyevsky,RU-CE-96212000000,Чеченская Республика   ,Chechnya,RU-CE
+113,Chechen_Republic,Урус-Мартановский район,Urus-Martanovsky,RU-CE-96234000000,Чеченская Республика   ,Chechnya,RU-CE
+114,Chechen_Republic,Шатойский район,Shatoysky,RU-CE-96228000000,Чеченская Республика   ,Chechnya,RU-CE
+115,Chechen_Republic,Итум-Калинский район,ItumKalinsky,RU-CE-96211000000,Чеченская Республика   ,Chechnya,RU-CE
+116,Chechen_Republic,Ачхой-Мартановский район,AchkhoyMartanovsky,RU-CE-96202000000,Чеченская Республика   ,Chechnya,RU-CE
+117,Chechen_Republic,Шалинский район,Shalinsky,RU-CE-96237000000,Чеченская Республика   ,Chechnya,RU-CE
+118,Chechen_Republic,Грозный,Grozny,RU-CE-96401000000,Чеченская Республика   ,Chechnya,RU-CE
+119,Chechen_Republic,Аргун,Argun,RU-CE-96402000000,Чеченская Республика   ,Chechnya,RU-CE
+120,Chechen_Republic,Надтеречный район,Nadterechny,RU-CE-96216000000,Чеченская Республика   ,Chechnya,RU-CE
+121,Chechen_Republic,Шаройский район,Sharoysky,RU-CE-96291000000,Чеченская Республика   ,Chechnya,RU-CE
+122,Chechen_Republic,Грозненский район,Groznenskiy,RU-CE-96207000000,Чеченская Республика   ,Chechnya,RU-CE
+123,Chechen_Republic,Серноводский район,Sernovodsky,RU-CE-96231000000,Чеченская Республика   ,Chechnya,RU-CE
+124,Chechen_Republic,Шелковской район,Shelkovsky,RU-CE-96240000000,Чеченская Республика   ,Chechnya,RU-CE
+125,Chechen_Republic,Наурский район,Naursky,RU-CE-96222000000,Чеченская Республика   ,Chechnya,RU-CE
+126,Chuvash_Republic,Батыревский,Batyrevsky,RU-CU-97207000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+127,Chuvash_Republic,Порецкий,Poretsky,RU-CU-97235000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+128,Chuvash_Republic,Моргаушский,Morgaushsky,RU-CU-97232000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+129,Chuvash_Republic,Козловский,Kozlovsky,RU-CU-97219000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+130,Chuvash_Republic,Комсомольский,Komsomolsky,RU-CU-97221000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+131,Chuvash_Republic,Янтиковский,Yantikovsky,RU-CU-97258000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+132,Chuvash_Republic,Яльчикский,Yalchiksky,RU-CU-97255000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+133,Chuvash_Republic,Канаш,Kanash,RU-CU-97407000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+134,Chuvash_Republic,Аликовский,Alikovsky,RU-CU-97205000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+135,Chuvash_Republic,Алатырский,Alatyrsky,RU-CU-97203000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+136,Chuvash_Republic,Ядринский,Yadrinsky,RU-CU-97253000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+137,Chuvash_Republic,Шумерлинский,Shumerlinsky,RU-CU-97250000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+138,Chuvash_Republic,Шемуршинский,Shemurshinsky,RU-CU-97247000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+139,Chuvash_Republic,Чебоксарский,Cheboksarsky,RU-CU-97244000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+140,Chuvash_Republic,Цивильский,Tsivilsky,RU-CU-97241000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+141,Chuvash_Republic,Урмарский,Urmarsky,RU-CU-97238000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+142,Chuvash_Republic,Канашский,Kanashsky,RU-CU-97216000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+143,Chuvash_Republic,Ибресинский,Ibresinsky,RU-CU-97213000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+144,Chuvash_Republic,Чебоксары,Cheboksary,RU-CU-97401000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+145,Chuvash_Republic,Красночетайский,Krasnochetaysky,RU-CU-97226000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+146,Chuvash_Republic,Вурнарский,Vurnarsky,RU-CU-97210000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+147,Chuvash_Republic,Новочебоксарск,Novocheboksarsk,RU-CU-97410000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+148,Chuvash_Republic,Красноармейский,Krasnoarmeisky,RU-CU-97224000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+149,Chuvash_Republic,Шумерля,Shumerlya,RU-CU-97413000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+150,Chuvash_Republic,Мариинско-Посадский,MariinskoPosadsky,RU-CU-97229000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+151,Chuvash_Republic,Алатырь,Alatyr,RU-CU-97404000000,Чувашская Республика – Чувашия,Chuvashia,RU-CU
+152,Donetsk_People_s_Republic,Кураховский,Kurakhovsky,RU-DNR-21223000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+153,Donetsk_People_s_Republic,Краматорск,Kramatorsk,RU-DNR-21416000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+154,Donetsk_People_s_Republic,Константиновский,Konstantinovsky,RU-DNR-21217000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+155,Donetsk_People_s_Republic,Ясиноватский,Yasinovatsky,RU-DNR-21241000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+156,Donetsk_People_s_Republic,Донецк,Donetsk,RU-DNR-21401000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+157,Donetsk_People_s_Republic,Докучаевск,Dokuchaevsk,RU-DNR-21410000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+158,Donetsk_People_s_Republic,Макеевка,Makeyevka,RU-DNR-21419000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+159,Donetsk_People_s_Republic,Горловка,Gorlovka,RU-DNR-21405000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+160,Donetsk_People_s_Republic,Иловайск,Ilovaisk,RU-DNR-21414000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+161,Donetsk_People_s_Republic,Харцызск,Khartsyzsk,RU-DNR-21430000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+162,Donetsk_People_s_Republic,Енакиево,Yenakiyevo,RU-DNR-21412000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+163,Donetsk_People_s_Republic,Снежное,Snezhnoye,RU-DNR-21425000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+164,Donetsk_People_s_Republic,Шахтёрский,Shakhtorsky,RU-DNR-21239000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+165,Donetsk_People_s_Republic,Торез,Torez,RU-DNR-21427000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+166,Donetsk_People_s_Republic,Дебальцево,Debaltsevo,RU-DNR-21407000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+167,Donetsk_People_s_Republic,Артёмовский,Artemovsky,RU-DNR-21205000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+168,Donetsk_People_s_Republic,Славянский,Slavyansky,RU-DNR-21232000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+169,Donetsk_People_s_Republic,Краснолиманский,Krasnolimansky,RU-DNR-21221000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+170,Donetsk_People_s_Republic,Александровский,Alexandrovsky,RU-DNR-21201000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+171,Donetsk_People_s_Republic,Добропольский,Dobropolsky,RU-DNR-21213000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+172,Donetsk_People_s_Republic,Красноармейский,Krasnoarmeysky,RU-DNR-21219000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+173,Donetsk_People_s_Republic,Великоновосёлковский,Velikonovoselkovsky,RU-DNR-21207000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+174,Donetsk_People_s_Republic,Волновахский,Volnovakhsky,RU-DNR-21209000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+175,Donetsk_People_s_Republic,Амвросиевский,Amvrosievsky,RU-DNR-21203000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+176,Donetsk_People_s_Republic,Старобешевский,Starobeshevsky,RU-DNR-21234000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+177,Donetsk_People_s_Republic,Тельмановский,Telmanovsky,RU-DNR-21236000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+178,Donetsk_People_s_Republic,Володарский,Volodarsky,RU-DNR-21211000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+179,Donetsk_People_s_Republic,Мариуполь,Mariupol,RU-DNR-21421000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+180,Donetsk_People_s_Republic,Новоазовский,Novoazovsky,RU-DNR-21227000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+181,Donetsk_People_s_Republic,Мангушский,Mangushsky,RU-DNR-21225000000,Донецкая Народная Республика,Donetskaya,RU-DNR
+182,Jewish_Autonomous_Region,Смидовичский,Smidovichsky,RU-YEV-99230000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+183,Jewish_Autonomous_Region,Биробиджанский,Birobidzhanskiy,RU-YEV-99205000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+184,Jewish_Autonomous_Region,Облученский,Oblutchensky,RU-YEV-99220000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+185,Jewish_Autonomous_Region,Октябрьский,Oktyabrskiy,RU-YEV-99225000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+186,Jewish_Autonomous_Region,Ленинский,Leninskiy,RU-YEV-99210000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+187,Jewish_Autonomous_Region,Биробиджан,Birobidzhan,RU-YEV-99401000000,Еврейская автономная область ,Evreyskaya,RU-YEV
+188,Kabardino-Balkarian_Republic,Чегемский район,Chegemsky,RU-KB-83245000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+189,Kabardino-Balkarian_Republic,Черекский район,Chereksky,RU-KB-83230000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+190,Kabardino-Balkarian_Republic,Баксанский район,Baksansky,RU-KB-83210000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+191,Kabardino-Balkarian_Republic,Прохладненский район,Prokhladnensky,RU-KB-83225000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+192,Kabardino-Balkarian_Republic,Зольский район,Zolsky,RU-KB-83215000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+193,Kabardino-Balkarian_Republic,Эльбрусский район,Elbrussky,RU-KB-83248000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+194,Kabardino-Balkarian_Republic,Лескенский район,Leskensky,RU-KB-83218000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+195,Kabardino-Balkarian_Republic,Терский район,Tersky,RU-KB-83235000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+196,Kabardino-Balkarian_Republic,Нальчик,Nalchik,RU-KB-83401000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+197,Kabardino-Balkarian_Republic,Майский район,Maisky,RU-KB-83220000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+198,Kabardino-Balkarian_Republic,Урванский район,Urvansky,RU-KB-83240000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+199,Kabardino-Balkarian_Republic,Прохладный,Prohladny,RU-KB-83410000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+200,Kabardino-Balkarian_Republic,Баксан,Baksan,RU-KB-83403000000,Кабардино-Балкарская Республика   ,KabardinoBalkaria,RU-KB
+201,Kaliningrad_Region,Балтийск,Baltiysk,RU-KGD-27405000000,Калининградская область ,Kaliningradskaya,RU-KGD
+202,Kaliningrad_Region,Гвардейский,Gvardeysky,RU-KGD-27206000000,Калининградская область ,Kaliningradskaya,RU-KGD
+203,Kaliningrad_Region,Гусевский,Gusevsky,RU-KGD-27212000000,Калининградская область ,Kaliningradskaya,RU-KGD
+204,Kaliningrad_Region,Черняховский,Chernyakhovsky,RU-KGD-27239000000,Калининградская область ,Kaliningradskaya,RU-KGD
+205,Kaliningrad_Region,Полесский,Poleskiy,RU-KGD-27230000000,Калининградская область ,Kaliningradskaya,RU-KGD
+206,Kaliningrad_Region,Пионерский,Pionersky,RU-KGD-27417000000,Калининградская область ,Kaliningradskaya,RU-KGD
+207,Kaliningrad_Region,Светлогорск,Svetlogorsk,RU-KGD-27420000000,Калининградская область ,Kaliningradskaya,RU-KGD
+208,Kaliningrad_Region,Зеленоградский,Zelenogradsky,RU-KGD-27215000000,Калининградская область ,Kaliningradskaya,RU-KGD
+209,Kaliningrad_Region,Светлый,Svetly,RU-KGD-27425000000,Калининградская область ,Kaliningradskaya,RU-KGD
+210,Kaliningrad_Region,Гурьевский,Gurevsky,RU-KGD-27209000000,Калининградская область ,Kaliningradskaya,RU-KGD
+211,Kaliningrad_Region,Ладушкин,Ladushkin,RU-KGD-27411000000,Калининградская область ,Kaliningradskaya,RU-KGD
+212,Kaliningrad_Region,Мамоново,Mamonovo,RU-KGD-27414000000,Калининградская область ,Kaliningradskaya,RU-KGD
+213,Kaliningrad_Region,Багратионовский,Bagrationovsky,RU-KGD-27203000000,Калининградская область ,Kaliningradskaya,RU-KGD
+214,Kaliningrad_Region,Правдинский,Pravdinsky,RU-KGD-27233000000,Калининградская область ,Kaliningradskaya,RU-KGD
+215,Kaliningrad_Region,Озёрский,Ozersky,RU-KGD-27227000000,Калининградская область ,Kaliningradskaya,RU-KGD
+216,Kaliningrad_Region,Нестеровский,Nesterovsky,RU-KGD-27224000000,Калининградская область ,Kaliningradskaya,RU-KGD
+217,Kaliningrad_Region,Краснознаменский,Krasnoznamensky,RU-KGD-27218000000,Калининградская область ,Kaliningradskaya,RU-KGD
+218,Kaliningrad_Region,Неманский,Nemansky,RU-KGD-27221000000,Калининградская область ,Kaliningradskaya,RU-KGD
+219,Kaliningrad_Region,Советск,Sovetsk,RU-KGD-27430000000,Калининградская область ,Kaliningradskaya,RU-KGD
+220,Kaliningrad_Region,Славский,Slavsky,RU-KGD-27236000000,Калининградская область ,Kaliningradskaya,RU-KGD
+221,Kaliningrad_Region,Янтарный,Yantarny,RU-KGD-27465000000,Калининградская область ,Kaliningradskaya,RU-KGD
+222,Kaliningrad_Region,Калининград,Kaliningrad,RU-KGD-27401000000,Калининградская область ,Kaliningradskaya,RU-KGD
+223,Karachayevo_Circassian_Republic,Хабезский район,Khabezsky,RU-KC-91240000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+224,Karachayevo_Circassian_Republic,Зеленчукский район,Zelenchuksky,RU-KC-91210000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+225,Karachayevo_Circassian_Republic,Карачаевский район,_Karachaevsky,RU-KC-91215000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+226,Karachayevo_Circassian_Republic,Усть-Джегутинский,Ust-Dzhegutinsky,RU-KC-91235000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+227,Karachayevo_Circassian_Republic,Урупский,Urupsky,RU-KC-91230000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+228,Karachayevo_Circassian_Republic,Малокарачаевский,Malokarachaevsky,RU-KC-91220000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+229,Karachayevo_Circassian_Republic,Черкесск,Cherkessk,RU-KC-91401000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+230,Karachayevo_Circassian_Republic,Прикубанский,Prikubansky,RU-KC-91225000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+231,Karachayevo_Circassian_Republic,Ногайский,Nogaisky,RU-KC-91223000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+232,Karachayevo_Circassian_Republic,Адыге-Хабльский,Adyge-Khablsky,RU-KC-91203000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+233,Karachayevo_Circassian_Republic,Абазинский,Abazinsky,RU-KC-91201000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+234,Karachayevo_Circassian_Republic,Карачаевск,Karachaevsk,RU-KC-91405000000,Карачаево-Черкесская Республика   ,KarachaevoCherkessia,RU-KC
+235,Kemerovo_Region,Таштагольский,Tashtagolsky,RU-KEM-32227000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+236,Kemerovo_Region,Новокузнецкий,Novokuznetsky,RU-KEM-32219000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+237,Kemerovo_Region,Прокопьевский,Prokopyevsky,RU-KEM-32222000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+238,Kemerovo_Region,Беловский,Belovsky,RU-KEM-32201000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+239,Kemerovo_Region,Гурьевский,Guryevsky,RU-KEM-32202000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+240,Kemerovo_Region,Ленинск-Кузнецкий,LeninskKuznetsky,RU-KEM-32213000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+241,Kemerovo_Region,Промышленновский,Promyshlennovsky,RU-KEM-32225000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+242,Kemerovo_Region,Топкинский,Topkinsky,RU-KEM-32231000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+243,Kemerovo_Region,Кемеровский,Kemerovsky,RU-KEM-32207000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+244,Kemerovo_Region,Кемерово,Kemerovo,RU-KEM-32401000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+245,Kemerovo_Region,Крапивинский,Krapivinsky,RU-KEM-32210000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+246,Kemerovo_Region,Тисульский,Tisulsky,RU-KEM-32228000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+247,Kemerovo_Region,Чебулинский,Chebulinsky,RU-KEM-32237000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+248,Kemerovo_Region,Тяжинский,Tyazhinsky,RU-KEM-32234000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+249,Kemerovo_Region,Мариинский,Mariinsky,RU-KEM-32216000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+250,Kemerovo_Region,Ижморский,Izhmorsky,RU-KEM-32204000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+251,Kemerovo_Region,Яйский,Yaysky,RU-KEM-32243000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+252,Kemerovo_Region,Яшкинский,Yashkinsky,RU-KEM-32243000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+253,Kemerovo_Region,Юргинский,Yurginsky,RU-KEM-32240000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+254,Khanty_Mansi_Autonomous_Area,Белоярский,Beloyarsky,RU-KHM-71111000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+255,Khanty_Mansi_Autonomous_Area,Берёзовский,Berezovsky,RU-KHM-71112000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+256,Khanty_Mansi_Autonomous_Area,Октябрьский,Oktyabrsky,RU-KHM-71121000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+257,Khanty_Mansi_Autonomous_Area,Советский,Sovetsky,RU-KHM-71124000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+258,Khanty_Mansi_Autonomous_Area,Кондинский,Kondinsky,RU-KHM-71116000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+259,Khanty_Mansi_Autonomous_Area,Ханты-Мансийский,KhantyMansiysk,RU-KHM-71129000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+260,Khanty_Mansi_Autonomous_Area,Сургутский,Surgutsky,RU-KHM-71126000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+261,Khanty_Mansi_Autonomous_Area,Нижневартовский,Nizhnevartovsky,RU-KHM-71119000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
+262,Kherson_Region,Херсон,Kherson,RU-KHR-74401000000,Херсонская область  ,Khersonskaya,RU-KHR
+263,Kherson_Region,Новая Каховка,NovayaKakhovka,RU-KHR-74405000000,Херсонская область  ,Khersonskaya,RU-KHR
+264,Kherson_Region,Александровский,Alexandrovsky,RU-KHR-74201000000,Херсонская область  ,Khersonskaya,RU-KHR
+265,Kherson_Region,Алешкинский,Aleshkinsky,RU-KHR-74203000000,Херсонская область  ,Khersonskaya,RU-KHR
+266,Kherson_Region,Белозерский,Belozersky,RU-KHR-74205000000,Херсонская область  ,Khersonskaya,RU-KHR
+267,Kherson_Region,Бериславский,Berislavsky,RU-KHR-74207000000,Херсонская область  ,Khersonskaya,RU-KHR
+268,Kherson_Region,Великоалександровский,Velikoalexandrovsky,RU-KHR-74209000000,Херсонская область  ,Khersonskaya,RU-KHR
+269,Kherson_Region,Великолепетихский,Velikolepetikhsky,RU-KHR-74211000000,Херсонская область  ,Khersonskaya,RU-KHR
+270,Kherson_Region,Верхнерогачикский,Verkhnerogachiksky,RU-KHR-74213000000,Херсонская область  ,Khersonskaya,RU-KHR
+271,Kherson_Region,Высокопольский,Vysokopolsky,RU-KHR-74215000000,Херсонская область  ,Khersonskaya,RU-KHR
+272,Kherson_Region,Генический,Genichesky,RU-KHR-74217000000,Херсонская область  ,Khersonskaya,RU-KHR
+273,Kherson_Region,Голопристанский,Golopristansky,RU-KHR-74219000000,Херсонская область  ,Khersonskaya,RU-KHR
+274,Kherson_Region,Горностаевский,Gornostaevsky,RU-KHR-74221000000,Херсонская область  ,Khersonskaya,RU-KHR
+275,Kherson_Region,Ивановский,Ivanovsky,RU-KHR-74225000000,Херсонская область  ,Khersonskaya,RU-KHR
+276,Kherson_Region,Каланчакский,Kalanchaksky,RU-KHR-74229000000,Херсонская область  ,Khersonskaya,RU-KHR
+277,Kherson_Region,Каховский,Kakhovsky,RU-KHR-74231000000,Херсонская область  ,Khersonskaya,RU-KHR
+278,Kherson_Region,Нижнесерогозский,Nizhneserogozsky,RU-KHR-74235000000,Херсонская область  ,Khersonskaya,RU-KHR
+279,Kherson_Region,Нововоронцовский,Novovorontsovsky,RU-KHR-74237000000,Херсонская область  ,Khersonskaya,RU-KHR
+280,Kherson_Region,Новотроицкий,Novotroitsky,RU-KHR-74239000000,Херсонская область  ,Khersonskaya,RU-KHR
+281,Kherson_Region,Скадовский,Skadovsky,RU-KHR-74243000000,Херсонская область  ,Khersonskaya,RU-KHR
+282,Kherson_Region,Снигирёвский,Snigirevsky,RU-KHR-74245000000,Херсонская область  ,Khersonskaya,RU-KHR
+283,Kherson_Region,Чаплынский,Chaplinsky,RU-KHR-74249000000,Херсонская область  ,Khersonskaya,RU-KHR
+284,Komi_Republic,Сыктывдинский,Syktyvdinsky,RU-KO-87228000000,Республика Коми   ,Komi,RU-KO
+285,Komi_Republic,Троицко-Печорский,Troitsko_Pechorsky,RU-KO-87236000000,Республика Коми   ,Komi,RU-KO
+286,Komi_Republic,Княжпогостский,Knyazhpogostsky,RU-KO-87208000000,Республика Коми   ,Komi,RU-KO
+287,Komi_Republic,Усть-Вымский,Ust_Vymsky,RU-KO-87244000000,Республика Коми   ,Komi,RU-KO
+288,Komi_Republic,Ухта,Ukhta,RU-KO-87425000000,Республика Коми   ,Komi,RU-KO
+289,Komi_Republic,Инта,Inta,RU-KO-87415000000,Республика Коми   ,Komi,RU-KO
+290,Komi_Republic,Печора,Pechora,RU-KO-87420000000,Республика Коми   ,Komi,RU-KO
+291,Komi_Republic,Воркута,Vorkuta,RU-KO-87410000000,Республика Коми   ,Komi,RU-KO
+292,Komi_Republic,Койгородский,Koygorodsky,RU-KO-87212000000,Республика Коми   ,Komi,RU-KO
+293,Komi_Republic,Сысольский,Sysolsky,RU-KO-87232000000,Республика Коми   ,Komi,RU-KO
+294,Komi_Republic,Ижемский,Izhemsky,RU-KO-87204000000,Республика Коми   ,Komi,RU-KO
+295,Komi_Republic,Вуктыл,Vuktyl,RU-KO-87412000000,Республика Коми   ,Komi,RU-KO
+296,Komi_Republic,Усть-Цилемский,Ust_Tsilemsky,RU-KO-87252000000,Республика Коми   ,Komi,RU-KO
+297,Komi_Republic,Корткеросский,Kortkerosskiy,RU-KO-87216000000,Республика Коми   ,Komi,RU-KO
+298,Komi_Republic,Усть-Куломский,Ust_Kulomsky,RU-KO-87248000000,Республика Коми   ,Komi,RU-KO
+299,Komi_Republic,Усинск,Usinsk,RU-KO-87423000000,Республика Коми   ,Komi,RU-KO
+300,Komi_Republic,Сосногорск,Sosnogorsk,RU-KO-87422000000,Республика Коми   ,Komi,RU-KO
+301,Komi_Republic,Прилузский,Priluzsky,RU-KO-87224000000,Республика Коми   ,Komi,RU-KO
+302,Komi_Republic,Сыктывкар,Syktyvkar,RU-KO-87401000000,Республика Коми   ,Komi,RU-KO
+303,Komi_Republic,Удорский,Udorsky,RU-KO-87240000000,Республика Коми   ,Komi,RU-KO
+304,Krasnodar_Territory,Ейский,Eyskiy,RU-KDA-03216000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+305,Krasnodar_Territory,Щербиновский,SCHerbinovskiy,RU-KDA-03259000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+306,Krasnodar_Territory,Староминский,Starominskoy,RU-KDA-03247000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+307,Krasnodar_Territory,Кущевский,Kuschevskoy,RU-KDA-03228000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+308,Krasnodar_Territory,Приморско-Ахтарский,Primorsko-Ahtarskiy,RU-KDA-03241000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+309,Krasnodar_Territory,Каневской,Kanevskoy,RU-KDA-03220000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+310,Krasnodar_Territory,Ленинградский,Leningradskiy,RU-KDA-03232000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+311,Krasnodar_Territory,Крыловский,Krylovsky,RU-KDA-03224000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+312,Krasnodar_Territory,Брюховецкий,Bryuhovetsky,RU-KDA-03210000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+313,Krasnodar_Territory,Павловский,Pavlovsky,RU-KDA-03239828000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+314,Krasnodar_Territory,Новопокровский,Novopokrovsky,RU-KDA-03235000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+315,Krasnodar_Territory,Белоглинский,Beloglinsky,RU-KDA-03207000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+316,Krasnodar_Territory,Темрюкский,Temryuksky,RU-KDA-03251000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+317,Krasnodar_Territory,Славянский,Slavyansky,RU-KDA-03245000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+318,Krasnodar_Territory,Калининский,Kalininsky,RU-KDA-03219000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+319,Krasnodar_Territory,Тимашевский,Timashevsky,RU-KDA-03253000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+320,Krasnodar_Territory,Кореновский,Korenovsky,RU-KDA-03221000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+321,Krasnodar_Territory,Выселковский,Vyselkovsky,RU-KDA-03212000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+322,Krasnodar_Territory,Тихорецкий,Tihoretsky,RU-KDA-03254000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+323,Krasnodar_Territory,Красноармейский,Krasnoarmeisky,RU-KDA-03223000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+324,Krasnodar_Territory,г. Анапа,Anapa,RU-KDA-03403000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+325,Krasnodar_Territory,Крымский,Krimsky,RU-KDA-03225000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+326,Krasnodar_Territory,г. Новороссийск,Novorossysk,RU-KDA-03420000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+327,Krasnodar_Territory,Абинский,Abinsky,RU-KDA-03201000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+328,Krasnodar_Territory,Геленджик,Gelengik,RU-KDA-03408000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+329,Krasnodar_Territory,Северский,Seversky,RU-KDA-03243000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+330,Krasnodar_Territory,г. Горячий Ключ,GoryachyKlyuch,RU-KDA-03409000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+331,Krasnodar_Territory,Белореченский,Belorechensky,RU-KDA-03208000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+332,Krasnodar_Territory,Апшеронский,Apsheronsky,RU-KDA-03205000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+333,Krasnodar_Territory,Туапсинский,Tyapsinsky,RU-KDA-03255000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+334,Krasnodar_Territory,г. Сочи,Sochi,RU-KDA-03426000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+335,Krasnodar_Territory,г. Краснодар,Krasnodar,RU-KDA-03401000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+336,Krasnodar_Territory,Динской,Dinskoy,RU-KDA-03214000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+337,Krasnodar_Territory,Усть-Лабинский,Ust-Labinsky,RU-KDA-03257000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+338,Krasnodar_Territory,Тбилисский,Tbilissky,RU-KDA-03249000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+339,Krasnodar_Territory,Кавказский,Kavkazsky,RU-KDA-03218000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+340,Krasnodar_Territory,Гулькевичский,Gulkevichsky,RU-KDA-03213000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+341,Krasnodar_Territory,Курганинский,Kyrganinsky,RU-KDA-03227000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+342,Krasnodar_Territory,Новокубанский,Novokybansky,RU-KDA-03234000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+343,Krasnodar_Territory,г. Армавир,Armavir,RU-KDA-03405000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+344,Krasnodar_Territory,Успенский,Uspensky,RU-KDA-03256000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+345,Krasnodar_Territory,Отрадненский,Otradnensky,RU-KDA-03237000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+346,Krasnodar_Territory,Лабинский,Labinsky,RU-KDA-03230000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+347,Krasnodar_Territory,Мостовский,Mostovsky,RU-KDA-03233000000,Краснодарский край   ,Krasnodarskiy,RU-KDA
+348,Leningrad_Region,Сланцевский,Slantsevsky,RU-LEN-41242000000,Ленинградская область  ,Leningradskaya,RU-LEN
+349,Leningrad_Region,Кингисеппский,Kingiseppsky,RU-LEN-41221000000,Ленинградская область  ,Leningradskaya,RU-LEN
+350,Leningrad_Region,Волосовский,Volosovsky,RU-LEN-41206000000,Ленинградская область  ,Leningradskaya,RU-LEN
+351,Leningrad_Region,Гатчинский,Gatchinsky,RU-LEN-41218000000,Ленинградская область  ,Leningradskaya,RU-LEN
+352,Leningrad_Region,Лужский,Luzhsky,RU-LEN-41233000000,Ленинградская область  ,Leningradskaya,RU-LEN
+353,Leningrad_Region,Ломоносовский,Lomonosovsky,RU-LEN-41230000000,Ленинградская область  ,Leningradskaya,RU-LEN
+354,Leningrad_Region,Сосновоборский,Sosnovoborsky,RU-LEN-41454000000,Ленинградская область  ,Leningradskaya,RU-LEN
+355,Leningrad_Region,Тосненский,Tosnensky,RU-LEN-41248000000,Ленинградская область  ,Leningradskaya,RU-LEN
+356,Leningrad_Region,Кировский,Kirovsky,RU-LEN-41225000000,Ленинградская область  ,Leningradskaya,RU-LEN
+357,Leningrad_Region,Всеволожский,Vsevolozhsky,RU-LEN-41212000000,Ленинградская область  ,Leningradskaya,RU-LEN
+358,Leningrad_Region,Приозерский,Priozersky,RU-LEN-41239000000,Ленинградская область  ,Leningradskaya,RU-LEN
+359,Leningrad_Region,Выборгский,Vyborgsky,RU-LEN-41215000000,Ленинградская область  ,Leningradskaya,RU-LEN
+360,Leningrad_Region,Волховский,Volkhovsky,RU-LEN-41209000000,Ленинградская область  ,Leningradskaya,RU-LEN
+361,Leningrad_Region,Киришский,Kirishsky,RU-LEN-41224000000,Ленинградская область  ,Leningradskaya,RU-LEN
+362,Leningrad_Region,Тихвинский,Tikhvinsky,RU-LEN-41245000000,Ленинградская область  ,Leningradskaya,RU-LEN
+363,Leningrad_Region,Лодейнопольский,Lodeinopolsky,RU-LEN-41227000000,Ленинградская область  ,Leningradskaya,RU-LEN
+364,Leningrad_Region,Бокситогорский,Boksitogorsky,RU-LEN-41203000000,Ленинградская область  ,Leningradskaya,RU-LEN
+365,Leningrad_Region,Подпорожский,Podporozhsky,RU-LEN-41236000000,Ленинградская область  ,Leningradskaya,RU-LEN
+366,Lugansk_People_s_Republic,Алчевск,Alchevsk,RU-LNR-43403000000,Луганская Народная Республика,Luganskaya,RU-LNR
+367,Lugansk_People_s_Republic,Антрацит,Antracit,RU-LNR-43405000000,Луганская Народная Республика,Luganskaya,RU-LNR
+368,Lugansk_People_s_Republic,Брянка,Bryanka,RU-LNR-43407000000,Луганская Народная Республика,Luganskaya,RU-LNR
+369,Lugansk_People_s_Republic,Кировск,Kirovsk,RU-LNR-43410000000,Луганская Народная Республика,Luganskaya,RU-LNR
+370,Lugansk_People_s_Republic,Краснодон,Krasnodon,RU-LNR-43412000000,Луганская Народная Республика,Luganskaya,RU-LNR
+371,Lugansk_People_s_Republic,Красный Луч,KrasnyyLuch,RU-LNR-43414000000,Луганская Народная Республика,Luganskaya,RU-LNR
+372,Lugansk_People_s_Republic,Лисичанск,Lisichansk,RU-LNR-43416000000,Луганская Народная Республика,Luganskaya,RU-LNR
+373,Lugansk_People_s_Republic,Луганск,Lugansk,RU-LNR-43401000000,Луганская Народная Республика,Luganskaya,RU-LNR
+374,Lugansk_People_s_Republic,Первомайск,Pervomaysk,RU-LNR-43425000000,Луганская Народная Республика,Luganskaya,RU-LNR
+375,Lugansk_People_s_Republic,Ровеньки,Rovenki,RU-LNR-43427000000,Луганская Народная Республика,Luganskaya,RU-LNR
+376,Lugansk_People_s_Republic,Рубежное,Rubezhnoe,RU-LNR-43429000000,Луганская Народная Республика,Luganskaya,RU-LNR
+377,Lugansk_People_s_Republic,Свердловск,Sverdlovsk,RU-LNR-43431000000,Луганская Народная Республика,Luganskaya,RU-LNR
+378,Lugansk_People_s_Republic,Северодонецк,Severodonetsk,RU-LNR-43433000000,Луганская Народная Республика,Luganskaya,RU-LNR
+379,Lugansk_People_s_Republic,Стаханов,Stakhanov,RU-LNR-43435000000,Луганская Народная Республика,Luganskaya,RU-LNR
+380,Lugansk_People_s_Republic,Антрацитовский,Antratsitovsky,RU-LNR-43201000000,Луганская Народная Республика,Luganskaya,RU-LNR
+381,Lugansk_People_s_Republic,Беловодский,Belovodsky,RU-LNR-43203000000,Луганская Народная Республика,Luganskaya,RU-LNR
+382,Lugansk_People_s_Republic,Белокуракинский,Belokurakinsky,RU-LNR-43205000000,Луганская Народная Республика,Luganskaya,RU-LNR
+383,Lugansk_People_s_Republic,Краснодонский,Krasnodonsky,RU-LNR-43210000000,Луганская Народная Республика,Luganskaya,RU-LNR
+384,Lugansk_People_s_Republic,Кременской,Kremenskoy,RU-LNR-43212000000,Луганская Народная Республика,Luganskaya,RU-LNR
+385,Lugansk_People_s_Republic,Лутугинский,Lutuginsky,RU-LNR-43214000000,Луганская Народная Республика,Luganskaya,RU-LNR
+386,Lugansk_People_s_Republic,Марковский,Markovsky,RU-LNR-43216000000,Луганская Народная Республика,Luganskaya,RU-LNR
+387,Lugansk_People_s_Republic,Меловский,Melovsky,RU-LNR-43218000000,Луганская Народная Республика,Luganskaya,RU-LNR
+388,Lugansk_People_s_Republic,Новоайдарский,Novoaydarsky,RU-LNR-43220000000,Луганская Народная Республика,Luganskaya,RU-LNR
+389,Lugansk_People_s_Republic,Новопсковский,Novopskovskiy,RU-LNR-43222000000,Луганская Народная Республика,Luganskaya,RU-LNR
+390,Lugansk_People_s_Republic,Перевальский,Perevalsky,RU-LNR-43226000000,Луганская Народная Республика,Luganskaya,RU-LNR
+391,Lugansk_People_s_Republic,Сватовский,Svatovsky,RU-LNR-43232000000,Луганская Народная Республика,Luganskaya,RU-LNR
+392,Lugansk_People_s_Republic,Свердловский,Sverdlovsky,RU-LNR-43234000000,Луганская Народная Республика,Luganskaya,RU-LNR
+393,Lugansk_People_s_Republic,Славяносербский,Slavyanoserbsky,RU-LNR-43235000000,Луганская Народная Республика,Luganskaya,RU-LNR
+394,Lugansk_People_s_Republic,Станично-Луганский,StanichnoLugansky,RU-LNR-43238000000,Луганская Народная Республика,Luganskaya,RU-LNR
+395,Lugansk_People_s_Republic,Старобельский,Starobelsky,RU-LNR-43240000000,Луганская Народная Республика,Luganskaya,RU-LNR
+396,Lugansk_People_s_Republic,Троицкий,Troitsky,RU-LNR-43242000000,Луганская Народная Республика,Luganskaya,RU-LNR
+397,Moscow,Крюково,Kryukovo,RU-MOW-45272580000,Москва    ,Moscow,RU-MOW
+398,Moscow,Старое Крюково,Staroe Kryukovo,RU-MOW-45272576000,Москва    ,Moscow,RU-MOW
+399,Moscow,Матушкино,Matushkino,RU-MOW-45272562000,Москва    ,Moscow,RU-MOW
+400,Moscow,Савёлки,Savelki,RU-MOW-45272568000,Москва    ,Moscow,RU-MOW
+401,Moscow,Силино,Silino,RU-MOW-45272572000,Москва    ,Moscow,RU-MOW
+402,Moscow,Останкинский,Ostankinsky,RU-MOW-45280572000,Москва    ,Moscow,RU-MOW
+403,Moscow,Северный,Severny,RU-MOW-45280585000,Москва    ,Moscow,RU-MOW
+404,Moscow,Ярославский,Yaroslavsky,RU-MOW-45280597000,Москва    ,Moscow,RU-MOW
+405,Moscow,Свиблово,Sviblovo,RU-MOW-45280580000,Москва    ,Moscow,RU-MOW
+406,Moscow,Бабушкинский,Babushkinsky,RU-MOW-45280556000,Москва    ,Moscow,RU-MOW
+407,Moscow,Лосиноостровский,Losinoostrovsky,RU-MOW-45280565000,Москва    ,Moscow,RU-MOW
+408,Moscow,Юж. Медведково,Ujnoe Medvedkovo,RU-MOW-45280594000,Москва    ,Moscow,RU-MOW
+409,Moscow,Сев. Медведково,Severnoe Medvedkovo,RU-MOW-45280583000,Москва    ,Moscow,RU-MOW
+410,Moscow,Бибирево,Bibirevo,RU-MOW-45280558000,Москва    ,Moscow,RU-MOW
+411,Moscow,Алтуфьевский,Altufevsky,RU-MOW-45280554000,Москва    ,Moscow,RU-MOW
+412,Moscow,Лианозово,Lianozovo,RU-MOW-45280563000,Москва    ,Moscow,RU-MOW
+413,Moscow,Отрадное,Otradnoe,RU-MOW-45280574000,Москва    ,Moscow,RU-MOW
+414,Moscow,Алексеевский,Alekseevsky,RU-MOW-45280552000,Москва    ,Moscow,RU-MOW
+415,Moscow,Марьина Роща,Marina Rosha,RU-MOW-45280569000,Москва    ,Moscow,RU-MOW
+416,Moscow,Бутырский,Butyrsky,RU-MOW-45280561000,Москва    ,Moscow,RU-MOW
+417,Moscow,Марфино,Marfino,RU-MOW-45280567000,Москва    ,Moscow,RU-MOW
+418,Moscow,Ростокино,Rostokino,RU-MOW-45280577000,Москва    ,Moscow,RU-MOW
+419,Moscow,Вост. Измайлово,VostochnoeIzmailovo,RU-MOW-45263558000,Москва    ,Moscow,RU-MOW
+420,Moscow,Ивановское,Ivanovskoe,RU-MOW-45263567000,Москва    ,Moscow,RU-MOW
+421,Moscow,Соколиная Гора,Sokolinaya Gora,RU-MOW-45263588000,Москва    ,Moscow,RU-MOW
+422,Moscow,Сокольники,Sokolniki,RU-MOW-45263591000,Москва    ,Moscow,RU-MOW
+423,Moscow,Преображенское,Preobrazhenskoye,RU-MOW-45263594000,Москва    ,Moscow,RU-MOW
+424,Moscow,Богородское,Bogorodskoe,RU-MOW-45263552000,Москва    ,Moscow,RU-MOW
+425,Moscow,Вешняки,Veshnyaki,RU-MOW-45263555000,Москва    ,Moscow,RU-MOW
+426,Moscow,Новокосино,Novokosino,RU-MOW-45263579000,Москва    ,Moscow,RU-MOW
+427,Moscow,Сев. Измайлово,Severnoe Izmailovo,RU-MOW-45263585000,Москва    ,Moscow,RU-MOW
+428,Moscow,Гольяново,Golyanovo,RU-MOW-45263564000,Москва    ,Moscow,RU-MOW
+429,Moscow,Метрогородок,Metrogorodok,RU-MOW-45263581000,Москва    ,Moscow,RU-MOW
+430,Moscow,Перово,Perovo,RU-MOW-45263583000,Москва    ,Moscow,RU-MOW
+431,Moscow,Новогиреево,Novogireevo,RU-MOW-45263576000,Москва    ,Moscow,RU-MOW
+432,Moscow,Измайлово,Izmailovo,RU-MOW-45263570000,Москва    ,Moscow,RU-MOW
+433,Moscow,Косино-Ухтомский,Kosino-Ukhtomsky,RU-MOW-45263573000,Москва    ,Moscow,RU-MOW
+434,Moscow,Восточный,Vostochny,RU-MOW-45263000000,Москва    ,Moscow,RU-MOW
+435,Moscow,Некрасовка,Nekrasovka,RU-MOW-45290574000,Москва    ,Moscow,RU-MOW
+436,Moscow,Лефортово,Lefortovo,RU-MOW-45290564000,Москва    ,Moscow,RU-MOW
+437,Moscow,Марьино,Maryino,RU-MOW-45290572000,Москва    ,Moscow,RU-MOW
+438,Moscow,Люблино,Lublino,RU-MOW-45290568000,Москва    ,Moscow,RU-MOW
+439,Moscow,Капотня,Kapotnya,RU-MOW-45290558000,Москва    ,Moscow,RU-MOW
+440,Moscow,Печатники,Pechatniki,RU-MOW-45290582000,Москва    ,Moscow,RU-MOW
+441,Moscow,Текстильщики,Textilshiki,RU-MOW-45290590000,Москва    ,Moscow,RU-MOW
+442,Moscow,Южнопортовый,Yuzhnoportovy,RU-MOW-45290594000,Москва    ,Moscow,RU-MOW
+443,Moscow,Выхино-Жулебино,Vykhino-Zhulebino,RU-MOW-45290554000,Москва    ,Moscow,RU-MOW
+444,Moscow,Нижегородский,Nizhegorodsky,RU-MOW-45290578000,Москва    ,Moscow,RU-MOW
+445,Moscow,Рязанский,Ryazansky,RU-MOW-45290586000,Москва    ,Moscow,RU-MOW
+446,Moscow,Кузьминки,Kuzminki,RU-MOW-45290562000,Москва    ,Moscow,RU-MOW
+447,Moscow,Донской,Donskoy,RU-MOW-45296561000,Москва    ,Moscow,RU-MOW
+448,Moscow,Даниловский,Danilovsky,RU-MOW-45296559000,Москва    ,Moscow,RU-MOW
+449,Moscow,Зябликово,Zyablikovo,RU-MOW-45296565000,Москва    ,Moscow,RU-MOW
+450,Moscow,Бирюлёво Вост.,Biryulyovo Vostochnoe,RU-MOW-45296553000,Москва    ,Moscow,RU-MOW
+451,Moscow,Царицыно,Tsaritsyno,RU-MOW-45296590000,Москва    ,Moscow,RU-MOW
+452,Moscow,Нагатино-Садовники,Nagatino-Sadovnik,RU-MOW-45296571000,Москва    ,Moscow,RU-MOW
+453,Moscow,Нагатинский Затон,Nagatinsky Zaton,RU-MOW-45296573000,Москва    ,Moscow,RU-MOW
+454,Moscow,Нагорный,Nagorny,RU-MOW-45296575000,Москва    ,Moscow,RU-MOW
+455,Moscow,Москворечье-Сабурово,MOWkvorechye-Saburovo,RU-MOW-45296569000,Москва    ,Moscow,RU-MOW
+456,Moscow,Орехово-Борисово Юж.,Orekhovo-Borisovo Yujnoe,RU-MOW-45296579000,Москва    ,Moscow,RU-MOW
+457,Moscow,Братеево,Brateevo,RU-MOW-45296557000,Москва    ,Moscow,RU-MOW
+458,Moscow,Чертаново Сев.,Chertanovo Severnoe,RU-MOW-45296593000,Москва    ,Moscow,RU-MOW
+459,Moscow,Бирюлёво Зап.,Biryulyovo Zapadnoe,RU-MOW-45296555000,Москва    ,Moscow,RU-MOW
+460,Moscow,Чертаново Юж.,Chertanovo Yujnoe,RU-MOW-45296597000,Москва    ,Moscow,RU-MOW
+461,Moscow,Орехово-Борисово Сев.,Orekhovo-Borisovo Severnoe,RU-MOW-45296577000,Москва    ,Moscow,RU-MOW
+462,Moscow,Чертаново Центр.,Chertanovo Tsentralnoe,RU-MOW-45296595000,Москва    ,Moscow,RU-MOW
+463,Moscow,Арбат,Arbat,RU-MOW-45286552000,Москва    ,Moscow,RU-MOW
+464,Moscow,Хамовники,Khamovniki,RU-MOW-45286590000,Москва    ,Moscow,RU-MOW
+465,Moscow,Пресненский,Presnensky,RU-MOW-45286575000,Москва    ,Moscow,RU-MOW
+466,Moscow,Басманный,Basmanny,RU-MOW-45286555000,Москва    ,Moscow,RU-MOW
+467,Moscow,Красносельский,Krasnoselsky,RU-MOW-45286565000,Москва    ,Moscow,RU-MOW
+468,Moscow,Якиманка,Yakimanka,RU-MOW-45286596000,Москва    ,Moscow,RU-MOW
+469,Moscow,Замоскворечье,ZaMOWkvorechye,RU-MOW-45286560000,Москва    ,Moscow,RU-MOW
+470,Moscow,Таганский,Tagansky,RU-MOW-45286580000,Москва    ,Moscow,RU-MOW
+471,Moscow,Мещанский,Meshchansky,RU-MOW-45286570000,Москва    ,Moscow,RU-MOW
+472,Moscow,Тверской,Tverskoy,RU-MOW-45286585000,Москва    ,Moscow,RU-MOW
+473,Moscow,Молжаниновский,Molzhaninovsky,RU-MOW-45277584000,Москва    ,Moscow,RU-MOW
+474,Moscow,Савёловский,Savelovsky,RU-MOW-45277586000,Москва    ,Moscow,RU-MOW
+475,Moscow,Беговой,Begovoi,RU-MOW-45277556000,Москва    ,Moscow,RU-MOW
+476,Moscow,Хорошёвский,Khoroshevsky,RU-MOW-45277598000,Москва    ,Moscow,RU-MOW
+477,Moscow,Вост. Дегунино,Vostochnoe Degunino,RU-MOW-45277568000,Москва    ,Moscow,RU-MOW
+478,Moscow,Дмитровский,Dmitrovsky,RU-MOW-45277574000,Москва    ,Moscow,RU-MOW
+479,Moscow,Зап. Дегунино,Zapadnoe Degunino,RU-MOW-45277577000,Москва    ,Moscow,RU-MOW
+480,Moscow,Коптево,Koptevo,RU-MOW-45277580000,Москва    ,Moscow,RU-MOW
+481,Moscow,Аэропорт,Aeroport,RU-MOW-45277553000,Москва    ,Moscow,RU-MOW
+482,Moscow,Войковский,Voikovsky,RU-MOW-45277565000,Москва    ,Moscow,RU-MOW
+483,Moscow,Головинский,Golovinsky,RU-MOW-45277571000,Москва    ,Moscow,RU-MOW
+484,Moscow,Ховрино,Khovrino,RU-MOW-45277595000,Москва    ,Moscow,RU-MOW
+485,Moscow,Левобережный,Levoberegny,RU-MOW-45277583000,Москва    ,Moscow,RU-MOW
+486,Moscow,Сокол,Sokol,RU-MOW-45277589000,Москва    ,Moscow,RU-MOW
+487,Moscow,Бескудниковский,Beskudnikovsky,RU-MOW-45277559000,Москва    ,Moscow,RU-MOW
+488,Moscow,Тимирязевский,Timiryazevsky,RU-MOW-45277592000,Москва    ,Moscow,RU-MOW
+489,Moscow,Куркино,Kurkino,RU-MOW-45283555000,Москва    ,Moscow,RU-MOW
+490,Moscow,Митино,Mitino,RU-MOW-45283559000,Москва    ,Moscow,RU-MOW
+491,Moscow,Строгино,Strogino,RU-MOW-45283577000,Москва    ,Moscow,RU-MOW
+492,Moscow,Хорошёво-Мнёвники,Horoshovo-Mnevniki,RU-MOW-45283582000,Москва    ,Moscow,RU-MOW
+493,Moscow,Щукино,Shchukino,RU-MOW-45283587000,Москва    ,Moscow,RU-MOW
+494,Moscow,Покровское-Стрешнево,Pokrovskoe-Streshnevo,RU-MOW-45283569000,Москва    ,Moscow,RU-MOW
+495,Moscow,Юж. Тушино,Yujnoe Tushino,RU-MOW-45283593000,Москва    ,Moscow,RU-MOW
+496,Moscow,Сев. Тушино,Severnoe Tushino,RU-MOW-45283573000,Москва    ,Moscow,RU-MOW
+497,Moscow,Гагаринский,Gagarinsky,RU-MOW-45293558000,Москва    ,Moscow,RU-MOW
+498,Moscow,Академический,Akademichesky,RU-MOW-45293554000,Москва    ,Moscow,RU-MOW
+499,Moscow,Юж. Бутово,Yujnoe Butovo,RU-MOW-45293594000,Москва    ,Moscow,RU-MOW
+500,Moscow,Черёмушки,Cheryomushki,RU-MOW-45293590000,Москва    ,Moscow,RU-MOW
+501,Moscow,Коньково,Konkovo,RU-MOW-45293566000,Москва    ,Moscow,RU-MOW
+502,Moscow,Сев. Бутово,Severnoe Butovo,RU-MOW-45293582000,Москва    ,Moscow,RU-MOW
+503,Moscow,Котловка,Kotlovka,RU-MOW-45293570000,Москва    ,Moscow,RU-MOW
+504,Moscow,Зюзино,Zyuzino,RU-MOW-45293562000,Москва    ,Moscow,RU-MOW
+505,Moscow,Ломоносовский,Lomonosovsky,RU-MOW-45293574000,Москва    ,Moscow,RU-MOW
+506,Moscow,Тёплый Стан,Tepliy Stan,RU-MOW-45293586000,Москва    ,Moscow,RU-MOW
+507,Moscow,Обручевский,Obruchevsky,RU-MOW-45293578000,Москва    ,Moscow,RU-MOW
+508,Moscow,Ясенево,Yasenevo,RU-MOW-45293598000,Москва    ,Moscow,RU-MOW
+509,Moscow,Кунцево,Kuntsevo,RU-MOW-45268562000,Москва    ,Moscow,RU-MOW
+510,Moscow,Внуково,Vnukovo,RU-MOW-45268552000,Москва    ,Moscow,RU-MOW
+511,Moscow,Раменки,Ramenki,RU-MOW-45268584000,Москва    ,Moscow,RU-MOW
+512,Moscow,Очаково-Матвеевское,Ochakovo-Matveevskoe,RU-MOW-45268579000,Москва    ,Moscow,RU-MOW
+513,Moscow,Фили-Давыдково,Fili-Davydkovo,RU-MOW-45268597000,Москва    ,Moscow,RU-MOW
+514,Moscow,Филёвский Парк,Filevsky Park,RU-MOW-45268595000,Москва    ,Moscow,RU-MOW
+515,Moscow,Крылатское,Krylatskoye,RU-MOW-45268560000,Москва    ,Moscow,RU-MOW
+516,Moscow,Дорогомилово,Dorogomilovo,RU-MOW-45268554000,Москва    ,Moscow,RU-MOW
+517,Moscow,Солнцево,Solntsevo,RU-MOW-45268588000,Москва    ,Moscow,RU-MOW
+518,Moscow,Ново-Переделкино,Novo-Peredelkino,RU-MOW-45268577000,Москва    ,Moscow,RU-MOW
+519,Moscow,Проспект Вернадского,Prospekt Vernadskogo,RU-MOW-45268581000,Москва    ,Moscow,RU-MOW
+520,Moscow,Тропарёво-Никулино,Troparevo-Nikulino,RU-MOW-45268592000,Москва    ,Moscow,RU-MOW
+521,Moscow,Можайский,Mozhaisky,RU-MOW-45268569000,Москва    ,Moscow,RU-MOW
+522,Moscow,Внуковское,Vnukovskoe,RU-MOW-45297552000,Москва    ,Moscow,RU-MOW
+523,Moscow,Сосенское,Sosenskoye,RU-MOW-45297574000,Москва    ,Moscow,RU-MOW
+524,Moscow,Мосрентген,MOWrentgen,RU-MOW-45297568000,Москва    ,Moscow,RU-MOW
+525,Moscow,Московский,MOWkovsky,RU-MOW-45297565000,Москва    ,Moscow,RU-MOW
+526,Moscow,Филимонковское,Filimonkovskoe,RU-MOW-45297577000,Москва    ,Moscow,RU-MOW
+527,Moscow,Кокошкино,Kokoshkino,RU-MOW-45297559000,Москва    ,Moscow,RU-MOW
+528,Moscow,Марушкинское,Marushkinskoe,RU-MOW-45297562000,Москва    ,Moscow,RU-MOW
+529,Moscow,Рязановское,Ryazanovskoye,RU-MOW-45297571000,Москва    ,Moscow,RU-MOW
+530,Moscow,Щербинка,Shcherbinka,RU-MOW-45297581000,Москва    ,Moscow,RU-MOW
+531,Moscow,Воскресенское,Voskresenskoe,RU-MOW-45297554000,Москва    ,Moscow,RU-MOW
+532,Moscow,Десёновское,Desenovskoe,RU-MOW-45297556000,Москва    ,Moscow,RU-MOW
+533,Moscow,Первомайское,Pervomaiskoye,RU-MOW-45298572000,Москва    ,Moscow,RU-MOW
+534,Moscow,Троицк,Troitsk,RU-MOW-45298578000,Москва    ,Moscow,RU-MOW
+535,Moscow,Краснопахорское,Krasnopakhorskoe,RU-MOW-45298561000,Москва    ,Moscow,RU-MOW
+536,Moscow,Щаповское,Shchapovskoe,RU-MOW-45298583000,Москва    ,Moscow,RU-MOW
+537,Moscow,Михайлово-Ярцевское,Mikhailovo-Yartsevskoye,RU-MOW-45298564000,Москва    ,Moscow,RU-MOW
+538,Moscow,Новофёдоровское,Novofedorovskoe,RU-MOW-45298567000,Москва    ,Moscow,RU-MOW
+539,Moscow,Киевский,Kievsky,RU-MOW-45298555000,Москва    ,Moscow,RU-MOW
+540,Moscow,Вороновское,Voronovskoye,RU-MOW-45298553000,Москва    ,Moscow,RU-MOW
+541,Moscow,Клёновское,Klyonovskoe,RU-MOW-45298558000,Москва    ,Moscow,RU-MOW
+542,Moscow,Роговское,Rogovskoye,RU-MOW-45298575000,Москва    ,Moscow,RU-MOW
+543,Murmansk_Region,Печенгский,Pechengsky,RU-MUR-47215000000,Мурманская область   ,Murmanskaya,RU-MUR
+544,Murmansk_Region,Североморск,Severomorsk,RU-MUR-47530000000,Мурманская область   ,Murmanskaya,RU-MUR
+545,Murmansk_Region,Островной,Ostrovnoy,RU-MUR-47531000000,Мурманская область   ,Murmanskaya,RU-MUR
+546,Murmansk_Region,Ковдорский,Kovdorsky,RU-MUR-47203000000,Мурманская область   ,Murmanskaya,RU-MUR
+547,Murmansk_Region,Полярные Зори,Polyarnye_Zori,RU-MUR-47419000000,Мурманская область   ,Murmanskaya,RU-MUR
+548,Murmansk_Region,Кандалакшский,Kandalakshsky,RU-MUR-47202000000,Мурманская область   ,Murmanskaya,RU-MUR
+549,Murmansk_Region,Кировск,Kirovsk,RU-MUR-47412000000,Мурманская область   ,Murmanskaya,RU-MUR
+550,Murmansk_Region,Терский,Tersky,RU-MUR-47220000000,Мурманская область   ,Murmanskaya,RU-MUR
+551,Murmansk_Region,Ловозерский,Lovozersky,RU-MUR-47210000000,Мурманская область   ,Murmanskaya,RU-MUR
+552,Murmansk_Region,Александровск,Alexandrovsk,RU-MUR-47737000000,Мурманская область   ,Murmanskaya,RU-MUR
+553,Murmansk_Region,Оленегорск,Olenegorsk,RU-MUR-47417000000,Мурманская область   ,Murmanskaya,RU-MUR
+554,Murmansk_Region,Мончегорск,Monchegorsk,RU-MUR-47415000000,Мурманская область   ,Murmanskaya,RU-MUR
+555,Murmansk_Region,Апатиты,Apatity,RU-MUR-47405000000,Мурманская область   ,Murmanskaya,RU-MUR
+556,Murmansk_Region,Кольский,Kolsky,RU-MUR-47205000000,Мурманская область   ,Murmanskaya,RU-MUR
+557,Murmansk_Region,Заозёрск,Zaozersk,RU-MUR-47533000000,Мурманская область   ,Murmanskaya,RU-MUR
+558,Murmansk_Region,Видяево,Vidyaevo,RU-MUR-47000000001,Мурманская область   ,Murmanskaya,RU-MUR
+559,Murmansk_Region,Мурманск,Murmansk,RU-MUR-47401000000,Мурманская область   ,Murmanskaya,RU-MUR
+560,Nenets_Autonomous_Area,Заполярный район,Zapolyarny,RU-NEN-11100000000,Ненецкий автономный округ ,Nenetskiy,RU-NEN
+561,Nenets_Autonomous_Area,Нарьян-Мар,NaryanMar,RU-NEN-11111000000,Ненецкий автономный округ ,Nenetskiy,RU-NEN
+562,Nizhny_Novgorod_Region,Нижний Новгород,Nizhny_Novgorod,RU-NGR-22401000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+563,Nizhny_Novgorod_Region,Спасский,Spassky,RU-NGR-22251000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+564,Nizhny_Novgorod_Region,Сергачский,Sergachsky,RU-NGR-22248000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+565,Nizhny_Novgorod_Region,Бутурлинский,Buturlinsky,RU-NGR-22212000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+566,Nizhny_Novgorod_Region,Гагинский,Gaginsky,RU-NGR-22226000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+567,Nizhny_Novgorod_Region,Краснооктябрьский,Krasnooktyabrsky,RU-NGR-22236000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+568,Nizhny_Novgorod_Region,Лукояновский,Lukoyanovsky,RU-NGR-22239000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+569,Nizhny_Novgorod_Region,Перевоз,Perevozsky,RU-NGR-22435000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+570,Nizhny_Novgorod_Region,Ардатовский,Ardatovsky,RU-NGR-22202000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+571,Nizhny_Novgorod_Region,Навашино,Navashinsky,RU-NGR-22430000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+572,Nizhny_Novgorod_Region,Вачский,Vachsky,RU-NGR-22217000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+573,Nizhny_Novgorod_Region,Сосновский,Sosnovsky,RU-NGR-22250000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+574,Nizhny_Novgorod_Region,Дзержинск,Dzerzhinsk,RU-NGR-22421000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+575,Nizhny_Novgorod_Region,Княгининский,Knyagininsky,RU-NGR-22233000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+576,Nizhny_Novgorod_Region,Большеболдинский,Bolsheboldinsky,RU-NGR-22209000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+577,Nizhny_Novgorod_Region,Большемурашкинский,Bolshemurashkinsky,RU-NGR-22210000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+578,Nizhny_Novgorod_Region,Арзамас,Arzamas,RU-NGR-22403000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+579,Nizhny_Novgorod_Region,Кулебаки,Kulebaki,RU-NGR-22427000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+580,Nizhny_Novgorod_Region,Саров,Sarov,RU-NGR-22503000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+581,Nizhny_Novgorod_Region,Дивеевский,Diveevsky,RU-NGR-22232000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+582,Nizhny_Novgorod_Region,Выкса,Vyksa,RU-NGR-22415000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+583,Nizhny_Novgorod_Region,Шатковский,Shatkovsky,RU-NGR-22257000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+584,Nizhny_Novgorod_Region,Дальнеконстантиновский,Dalnekonstantinovsky,RU-NGR-22230000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+585,Nizhny_Novgorod_Region,Арзамасский,_Arzamassky,RU-NGR-22203000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+586,Nizhny_Novgorod_Region,Богородский,Bogorodsky,RU-NGR-22207000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+587,Nizhny_Novgorod_Region,Починковский,Pochinkovsky,RU-NGR-22246000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+588,Nizhny_Novgorod_Region,Первомайск,Pervomaisk,RU-NGR-22434000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+589,Nizhny_Novgorod_Region,Балахнинский,Balakhninsky,RU-NGR-22205000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+590,Nizhny_Novgorod_Region,Павловский,Pavlovsky,RU-NGR-22242000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+591,Nizhny_Novgorod_Region,Сеченовский,Sechenovsky,RU-NGR-22249000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+592,Nizhny_Novgorod_Region,Пильнинский,Pilninsky,RU-NGR-22245000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+593,Nizhny_Novgorod_Region,Вадский,Vadsky,RU-NGR-22214000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+594,Nizhny_Novgorod_Region,Вознесенский,Voznesensky,RU-NGR-22219000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+595,Nizhny_Novgorod_Region,Воротынский,Vorotynsky,RU-NGR-22221000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+596,Nizhny_Novgorod_Region,Лысковский,Lyskovsky,RU-NGR-22240000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+597,Nizhny_Novgorod_Region,Бор,Bor,RU-NGR-22412000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+598,Nizhny_Novgorod_Region,Уренский,Urensky,RU-NGR-22254000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+599,Nizhny_Novgorod_Region,Кстовский,Kstovsky,RU-NGR-22237000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+600,Nizhny_Novgorod_Region,Городецкий,Gorodetsky,RU-NGR-22228000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+601,Nizhny_Novgorod_Region,Ковернинский,Koverninsky,RU-NGR-22234000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+602,Nizhny_Novgorod_Region,Семёнов,Semyonovsky,RU-NGR-22437000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+603,Nizhny_Novgorod_Region,Воскресенский,Voskresensky,RU-NGR-22222000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+604,Nizhny_Novgorod_Region,Краснобаковский,Krasnobakovsky,RU-NGR-22235000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+605,Nizhny_Novgorod_Region,Володарский,Volodarsky,RU-NGR-22231000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+606,Nizhny_Novgorod_Region,Чкаловск,Chkalovsk,RU-NGR-22442000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+607,Nizhny_Novgorod_Region,Сокольский,Sokolsky,RU-NGR-22259000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+608,Nizhny_Novgorod_Region,Варнавинский,Varnavinsky,RU-NGR-22215000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+609,Nizhny_Novgorod_Region,Ветлужский,Vetluzhsky,RU-NGR-22218000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+610,Nizhny_Novgorod_Region,Шахунья,Shakhunya,RU-NGR-22458000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+611,Nizhny_Novgorod_Region,Тоншаевский,Tonshaevsky,RU-NGR-22253000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+612,Nizhny_Novgorod_Region,Тонкинский,Tonkinsky,RU-NGR-22252000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+613,Nizhny_Novgorod_Region,Шарангский,Sharangsky,RU-NGR-22256000000,Нижегородская область  ,Nizhegorodskaya,RU-NIZ
+614,Novgorod_Region,Новгородский,Novgorodsky,RU-NGR-49225000000,Новгородская область   ,Novgorodskaya,RU-NGR
+615,Novgorod_Region,Маловишерский,Malovishersky,RU-NGR-49220000000,Новгородская область   ,Novgorodskaya,RU-NGR
+616,Novgorod_Region,Великий Новгород,Velikiy_Novgorod,RU-NGR-49401000000,Новгородская область   ,Novgorodskaya,RU-NGR
+617,Novgorod_Region,Чудовский,Chudovsky,RU-NGR-49250000000,Новгородская область   ,Novgorodskaya,RU-NGR
+618,Novgorod_Region,Крестецкий,Krestetskiy,RU-NGR-49214000000,Новгородская область   ,Novgorodskaya,RU-NGR
+619,Novgorod_Region,Окуловский,Okulovsky,RU-NGR-49228000000,Новгородская область   ,Novgorodskaya,RU-NGR
+620,Novgorod_Region,Батецкий,Batetsky,RU-NGR-49203000000,Новгородская область   ,Novgorodskaya,RU-NGR
+621,Novgorod_Region,Солецкий,Solecki,RU-NGR-49238000000,Новгородская область   ,Novgorodskaya,RU-NGR
+622,Novgorod_Region,Шимский,Shimsky,RU-NGR-49255000000,Новгородская область   ,Novgorodskaya,RU-NGR
+623,Novgorod_Region,Волотовский,Volotovsky,RU-NGR-49210000000,Новгородская область   ,Novgorodskaya,RU-NGR
+624,Novgorod_Region,Парфинский,Parfinsky,RU-NGR-49230000000,Новгородская область   ,Novgorodskaya,RU-NGR
+625,Novgorod_Region,Старорусский,Starorussky,RU-NGR-49239000000,Новгородская область   ,Novgorodskaya,RU-NGR
+626,Novgorod_Region,Боровичский,Borovichsky,RU-NGR-49206000000,Новгородская область   ,Novgorodskaya,RU-NGR
+627,Novgorod_Region,Мошенской,Moshenskoi,RU-NGR-49224000000,Новгородская область   ,Novgorodskaya,RU-NGR
+628,Novgorod_Region,Пестовский,Pestovsky,RU-NGR-49232000000,Новгородская область   ,Novgorodskaya,RU-NGR
+629,Novgorod_Region,Хвойнинский,Khvoyninsky,RU-NGR-49245000000,Новгородская область   ,Novgorodskaya,RU-NGR
+630,Novgorod_Region,Любытинский,Lubytinsky,RU-NGR-49216000000,Новгородская область   ,Novgorodskaya,RU-NGR
+631,Novgorod_Region,Поддорский,Poddorsky,RU-NGR-49234000000,Новгородская область   ,Novgorodskaya,RU-NGR
+632,Novgorod_Region,Марёвский,Marevsky,RU-NGR-49223000000,Новгородская область   ,Novgorodskaya,RU-NGR
+633,Novgorod_Region,Холмский,Kholmsky,RU-NGR-49247000000,Новгородская область   ,Novgorodskaya,RU-NGR
+634,Novgorod_Region,Демянский,Demyansky,RU-NGR-49212000000,Новгородская область   ,Novgorodskaya,RU-NGR
+635,Novgorod_Region,Валдайский,Valdaisky,RU-NGR-49208000000,Новгородская область   ,Novgorodskaya,RU-NGR
+636,Novosibirsk_Region,Коченёвский,Kochenevsky,RU-NVS-50223000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+637,Novosibirsk_Region,Новосибирский,Novosibirsky,RU-NVS-50240000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+638,Novosibirsk_Region,Новосибирск,Novosibirsk,RU-NVS-50401000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+639,Novosibirsk_Region,Бердск,Berdsk,RU-NVS-50408000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+640,Novosibirsk_Region,Искитимский,Iskitimsky,RU-NVS-50215000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+641,Novosibirsk_Region,Колыванский,Kolyvansky,RU-NVS-50221000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+642,Novosibirsk_Region,Мошковский,Moshkovski,RU-NVS-50238000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+643,Novosibirsk_Region,Болотнинский,Bolotninsky,RU-NVS-50206000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+644,Novosibirsk_Region,Маслянинский,Maslyaninsky,RU-NVS-50236000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+645,Novosibirsk_Region,Тогучинский,Toguchinsky,RU-NVS-50252000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+646,Novosibirsk_Region,Чулымский,Chulymsky,RU-NVS-50259000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+647,Novosibirsk_Region,Убинский,Ubinsky,RU-NVS-50254000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+648,Novosibirsk_Region,Сузунский,Suzunsky,RU-NVS-50248000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+649,Novosibirsk_Region,Ордынский,Ordynsky,RU-NVS-50242000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+650,Novosibirsk_Region,Черепановский,Cherepanovsky,RU-NVS-50257000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+651,Novosibirsk_Region,Доволенский,Dovolensky,RU-NVS-50210000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+652,Novosibirsk_Region,Кочковский,Kochkovsky,RU-NVS-50225000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+653,Novosibirsk_Region,Каргатский,Kargatsky,RU-NVS-50219000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+654,Novosibirsk_Region,Купинский,Kupinsky,RU-NVS-50232000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+655,Novosibirsk_Region,Карасукский,Karasuksky,RU-NVS-50217000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+656,Novosibirsk_Region,Баганский,Bagansky,RU-NVS-50203000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+657,Novosibirsk_Region,Краснозёрский,Krasnozersky,RU-NVS-50227000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+658,Novosibirsk_Region,Здвинский,Zdvinsky,RU-NVS-50213000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+659,Novosibirsk_Region,Татарский,Tatarsky,RU-NVS-50250000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+660,Novosibirsk_Region,Чистоозёрный,Chistoozerny,RU-NVS-50258000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+661,Novosibirsk_Region,Чановский,Chanovsky,RU-NVS-50256000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+662,Novosibirsk_Region,Барабинский,Barabinsky,RU-NVS-50204000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+663,Novosibirsk_Region,Куйбышевский,Kuibyshevsky,RU-NVS-50230000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+664,Novosibirsk_Region,Кыштовский,Kyshtovsky,RU-NVS-50234000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+665,Novosibirsk_Region,Венгеровский,Vengerovsky,RU-NVS-50208000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+666,Novosibirsk_Region,Усть-Таркский,UstTarksky,RU-NVS-50255000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+667,Novosibirsk_Region,Северный,Severny,RU-NVS-50244000000,Новосибирская область   ,Novosibirskaya,RU-NVS
+668,Orenburg_Region,Ясненский,Yasnensky,RU-ORE-53259000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+669,Orenburg_Region,Оренбургский,Orenburgsky,RU-ORE-53234000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+670,Orenburg_Region,Бугурусланский,Buguruslansky,RU-ORE-53211000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+671,Orenburg_Region,Бугуруслан,Buguruslan,RU-ORE-53408000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+672,Orenburg_Region,Северный,Severniy,RU-ORE-53243000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+673,Orenburg_Region,Сорочинский,Sorochinskiy,RU-ORE-53250000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+674,Orenburg_Region,Кувандыкский,Kuvandyksky,RU-ORE-53224000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+675,Orenburg_Region,Кувандык,Kuvandyk,RU-ORE-53414000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+676,Orenburg_Region,Бузулукский,Buzuluksky,RU-ORE-53212000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+677,Orenburg_Region,Тоцкий,Totsky,RU-ORE-53252000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+678,Orenburg_Region,Грачёвский,Grachevsky,RU-ORE-53215000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+679,Orenburg_Region,Комаровский,Komarovsky,RU-ORE-53259825000,Оренбургская область   ,Orenburgskaya,RU-ORE
+680,Orenburg_Region,Матвеевский,Matveevsky,RU-ORE-53227000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+681,Orenburg_Region,Гайский,Gaisky,RU-ORE-53214000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+682,Orenburg_Region,Бузулук,Buzuluk,RU-ORE-53412000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+683,Orenburg_Region,Оренбург,Orenburg,RU-ORE-53401000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+684,Orenburg_Region,Новотроицк,Novotroitsk,RU-ORE-53420000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+685,Orenburg_Region,Орск,Orsk,RU-ORE-53423000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+686,Orenburg_Region,Новоорский,Novoorsky,RU-ORE-53230000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+687,Orenburg_Region,Переволоцкий,Perevolotsky,RU-ORE-53237000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+688,Orenburg_Region,Новосергиевский,Novosergievsky,RU-ORE-53231000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+689,Orenburg_Region,Сакмарский,Sakmarsky,RU-ORE-53240000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+690,Orenburg_Region,Пономарёвский,Ponomarevsky,RU-ORE-53238000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+691,Orenburg_Region,Абдулинский,Abdulinsky,RU-ORE-53203000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+692,Orenburg_Region,Асекеевский,Asekeevsky,RU-ORE-53207000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+693,Orenburg_Region,Александровский,Alexandrovsky,RU-ORE-53206000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+694,Orenburg_Region,Красногвардейский,Krasnogvardeisky,RU-ORE-53223000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+695,Orenburg_Region,Октябрьский,Oktyabrsky,RU-ORE-53233000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+696,Orenburg_Region,Соль-Илецкий,SolIletsky,RU-ORE-53244000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+697,Orenburg_Region,Илекский,Ileksky,RU-ORE-53219000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+698,Orenburg_Region,Первомайский,Pervomaisky,RU-ORE-53236000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+699,Orenburg_Region,Шарлыкский,Sharlyksky,RU-ORE-53256000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+700,Orenburg_Region,Ташлинский,Tashlinsky,RU-ORE-53251000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+701,Orenburg_Region,Курманаевский,Kurmanaevsky,RU-ORE-53225000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+702,Orenburg_Region,Адамовский,Adamovsky,RU-ORE-53204000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+703,Orenburg_Region,Тюльганский,Tulgansky,RU-ORE-53253000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+704,Orenburg_Region,Саракташский,Saraktashsky,RU-ORE-53241000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+705,Orenburg_Region,Светлинский,Svetlinsky,RU-ORE-53242000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+706,Orenburg_Region,Кваркенский,Kvarkensky,RU-ORE-53222000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+707,Orenburg_Region,Беляевский,Belyaevsky,RU-ORE-53210000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+708,Orenburg_Region,Акбулакский,Akbulaksky,RU-ORE-53205000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+709,Orenburg_Region,Домбаровский,Dombarovsky,RU-ORE-53217000000,Оренбургская область   ,Orenburgskaya,RU-ORE
+710,Pskov_Region,Псковский,Pskovsky,RU-PSK-58249000000,Псковская область  ,Pskovskaya,RU-ORE
+711,Pskov_Region,Палкинский,Palkinsky,RU-PSK-58237000000,Псковская область  ,Pskovskaya,RU-ORE
+712,Pskov_Region,Великолукский,Velikoluksky,RU-PSK-58206000000,Псковская область  ,Pskovskaya,RU-ORE
+713,Pskov_Region,Печорский,Pechorsky,RU-PSK-58240000000,Псковская область  ,Pskovskaya,RU-ORE
+714,Pskov_Region,Великие Луки,VelikiyeLuki,RU-PSK-58410000000,Псковская область  ,Pskovskaya,RU-ORE
+715,Pskov_Region,Псков,Pskov,RU-PSK-58401000000,Псковская область  ,Pskovskaya,RU-ORE
+716,Pskov_Region,Усвятский,Usvyatsky,RU-PSK-58258000000,Псковская область  ,Pskovskaya,RU-ORE
+717,Pskov_Region,Невельский,Nevelsky,RU-PSK-58220000000,Псковская область  ,Pskovskaya,RU-ORE
+718,Pskov_Region,Куньинский,Kuninsky,RU-PSK-58216000000,Псковская область  ,Pskovskaya,RU-ORE
+719,Pskov_Region,Пустошкинский,Pustoshkinsky,RU-PSK-58250000000,Псковская область  ,Pskovskaya,RU-ORE
+720,Pskov_Region,Новосокольнический,Novosokolnichesky,RU-PSK-58226000000,Псковская область  ,Pskovskaya,RU-ORE
+721,Pskov_Region,Себежский,Sebezhsky,RU-PSK-58254000000,Псковская область  ,Pskovskaya,RU-ORE
+722,Pskov_Region,Опочецкий,Opochetsky,RU-PSK-58229000000,Псковская область  ,Pskovskaya,RU-ORE
+723,Pskov_Region,Красногородский,Krasnogorodsky,RU-PSK-58214000000,Псковская область  ,Pskovskaya,RU-ORE
+724,Pskov_Region,Бежаницкий,Bezhanitsky,RU-PSK-58204000000,Псковская область  ,Pskovskaya,RU-ORE
+725,Pskov_Region,Локнянский,Loknyansky,RU-PSK-58218000000,Псковская область  ,Pskovskaya,RU-ORE
+726,Pskov_Region,Новоржевский,Novorzhevsky,RU-PSK-58223000000,Псковская область  ,Pskovskaya,RU-ORE
+727,Pskov_Region,Пушкиногорский,Pushkinogorsky,RU-PSK-58251000000,Псковская область  ,Pskovskaya,RU-ORE
+728,Pskov_Region,Пыталовский,Pytalovsky,RU-PSK-58253000000,Псковская область  ,Pskovskaya,RU-ORE
+729,Pskov_Region,Порховский,Porkhovsky,RU-PSK-58247000000,Псковская область  ,Pskovskaya,RU-ORE
+730,Pskov_Region,Островский,Ostrovsky,RU-PSK-58233000000,Псковская область  ,Pskovskaya,RU-ORE
+731,Pskov_Region,Дедовичский,Dedovichsky,RU-PSK-58210000000,Псковская область  ,Pskovskaya,RU-ORE
+732,Pskov_Region,Дновский,Dnovsky,RU-PSK-58212000000,Псковская область  ,Pskovskaya,RU-ORE
+733,Pskov_Region,Струго-Красненский,StrugoKrasnensky,RU-PSK-58256000000,Псковская область  ,Pskovskaya,RU-ORE
+734,Pskov_Region,Плюсский,Plussky,RU-PSK-58243000000,Псковская область  ,Pskovskaya,RU-ORE
+735,Pskov_Region,Гдовский,Gdovsky,RU-PSK-58208000000,Псковская область  ,Pskovskaya,RU-ORE
+736,Republic_of_Adygeya,Теучежский,Teuchezhsky,RU-AD-79233000000,Республика Адыгея  ,Adygeya,RU-AD
+737,Republic_of_Adygeya,Тахтамукайский,Takhtamukaysky,RU-AD-79230000000,Республика Адыгея  ,Adygeya,RU-AD
+738,Republic_of_Adygeya,Майкопский,Maykopsky,RU-AD-79222000000,Республика Адыгея  ,Adygeya,RU-AD
+739,Republic_of_Adygeya,Красногвардейский,Krasnogvardeisky,RU-AD-79218000000,Республика Адыгея  ,Adygeya,RU-AD
+740,Republic_of_Adygeya,Майкоп,Maykop,RU-AD-79401000000,Республика Адыгея  ,Adygeya,RU-AD
+741,Republic_of_Adygeya,Адыгейск,Adygeysk,RU-AD-79403000000,Республика Адыгея  ,Adygeya,RU-AD
+742,Republic_of_Adygeya,Шовгеновский,Shovgenovsky,RU-AD-79240000000,Республика Адыгея  ,Adygeya,RU-AD
+743,Republic_of_Adygeya,Кошехабльский,Koshekhablsky,RU-AD-79215000000,Республика Адыгея  ,Adygeya,RU-AD
+744,Republic_of_Adygeya,Гиагинский,Giaginsky,RU-AD-79205000000,Республика Адыгея  ,Adygeya,RU-AD
+745,Republic_of_Altai,Шебалинский район,Shebalinsky,RU-AL-84250000000,Республика Алтай   ,Altay,RU-AL
+746,Republic_of_Altai,Чойский район,Choysky,RU-AL-84245000000,Республика Алтай   ,Altay,RU-AL
+747,Republic_of_Altai,Чемальский район,Chemalsky,RU-AL-84243000000,Республика Алтай   ,Altay,RU-AL
+748,Republic_of_Altai,Онгудайский район,Ongudaysky,RU-AL-84220000000,Республика Алтай   ,Altay,RU-AL
+749,Republic_of_Altai,Усть-Канский район,Ust_Kansky,RU-AL-84235000000,Республика Алтай   ,Altay,RU-AL
+750,Republic_of_Altai,Усть-Коксинский район,Ust_Koksinsky,RU-AL-84240000000,Республика Алтай   ,Altay,RU-AL
+751,Republic_of_Altai,Кош-Агачский район,Kosh_Agachsky,RU-AL-84210000000,Республика Алтай   ,Altay,RU-AL
+752,Republic_of_Altai,Горно-Алтайск,GornoAltaisk,RU-AL-84401000000,Республика Алтай   ,Altay,RU-AL
+753,Republic_of_Altai,Майминский район,Maiminsky,RU-AL-84215000000,Республика Алтай   ,Altay,RU-AL
+754,Republic_of_Altai,Турочакский район,Turochaksky,RU-AL-84225000000,Республика Алтай   ,Altay,RU-AL
+755,Republic_of_Altai,Улаганский район,Ulagansky,RU-AL-84230000000,Республика Алтай   ,Altay,RU-AL
+756,Republic_of_Bashkortostan,Абзелиловский,Abzelilovsky,RU-BA-80201000000,Республика Башкортостан   ,Bashkiria,RU-BA
+757,Republic_of_Bashkortostan,Альшеевский,Alsheevsky,RU-BA-80202000000,Республика Башкортостан   ,Bashkiria,RU-BA
+758,Republic_of_Bashkortostan,Архангельский,Arkhangelsk,RU-BA-80203000000,Республика Башкортостан   ,Bashkiria,RU-BA
+759,Republic_of_Bashkortostan,Аскинский,Askinsky,RU-BA-80204000000,Республика Башкортостан   ,Bashkiria,RU-BA
+760,Republic_of_Bashkortostan,Аургазинский,Aurgazinsky,RU-BA-80205000000,Республика Башкортостан   ,Bashkiria,RU-BA
+761,Republic_of_Bashkortostan,Баймакский,Baymaksky,RU-BA-80206000000,Республика Башкортостан   ,Bashkiria,RU-BA
+762,Republic_of_Bashkortostan,Бакалинский,Bakalinsky,RU-BA-80207000000,Республика Башкортостан   ,Bashkiria,RU-BA
+763,Republic_of_Bashkortostan,Балтачевский,Baltachevsky,RU-BA-80208000000,Республика Башкортостан   ,Bashkiria,RU-BA
+764,Republic_of_Bashkortostan,Белебеевский,Belebeevsky,RU-BA-80209000000,Республика Башкортостан   ,Bashkiria,RU-BA
+765,Republic_of_Bashkortostan,Белокатайский,Belokataysky,RU-BA-80210000000,Республика Башкортостан   ,Bashkiria,RU-BA
+766,Republic_of_Bashkortostan,Белорецкий,Beloretsky,RU-BA-80211000000,Республика Башкортостан   ,Bashkiria,RU-BA
+767,Republic_of_Bashkortostan,Бижбулякский,Bizhbulyaksky,RU-BA-80212000000,Республика Башкортостан   ,Bashkiria,RU-BA
+768,Republic_of_Bashkortostan,Бирский,Birsky,RU-BA-80213000000,Республика Башкортостан   ,Bashkiria,RU-BA
+769,Republic_of_Bashkortostan,Благоварский,Blagovarsky,RU-BA-80214000000,Республика Башкортостан   ,Bashkiria,RU-BA
+770,Republic_of_Bashkortostan,Благовещенский,Blagoveshchensky,RU-BA-80215000000,Республика Башкортостан   ,Bashkiria,RU-BA
+771,Republic_of_Bashkortostan,Буздякский,Buzdyaksky,RU-BA-80217000000,Республика Башкортостан   ,Bashkiria,RU-BA
+772,Republic_of_Bashkortostan,Бураевский,Buraevsky,RU-BA-80218000000,Республика Башкортостан   ,Bashkiria,RU-BA
+773,Republic_of_Bashkortostan,Бурзянский,Burzyansky,RU-BA-80219000000,Республика Башкортостан   ,Bashkiria,RU-BA
+774,Republic_of_Bashkortostan,Гафурийский,Gafuriysky,RU-BA-80221000000,Республика Башкортостан   ,Bashkiria,RU-BA
+775,Republic_of_Bashkortostan,Давлекановский,Davlekanovsky,RU-BA-80222000000,Республика Башкортостан   ,Bashkiria,RU-BA
+776,Republic_of_Bashkortostan,Дуванский,Duvansky,RU-BA-80223000000,Республика Башкортостан   ,Bashkiria,RU-BA
+777,Republic_of_Bashkortostan,Дюртюлинский,Dyurtyulinsky,RU-BA-80224000000,Республика Башкортостан   ,Bashkiria,RU-BA
+778,Republic_of_Bashkortostan,Ермекеевский,Ermekeevsky,RU-BA-80225000000,Республика Башкортостан   ,Bashkiria,RU-BA
+779,Republic_of_Bashkortostan,Зианчуринский,Zianchurinsky,RU-BA-80226000000,Республика Башкортостан   ,Bashkiria,RU-BA
+780,Republic_of_Bashkortostan,Зилаирский,Zilairsky,RU-BA-80227000000,Республика Башкортостан   ,Bashkiria,RU-BA
+781,Republic_of_Bashkortostan,Иглинский,Iglinsky,RU-BA-80228000000,Республика Башкортостан   ,Bashkiria,RU-BA
+782,Republic_of_Bashkortostan,Илишевский,Ilishevsky,RU-BA-80230000000,Республика Башкортостан   ,Bashkiria,RU-BA
+783,Republic_of_Bashkortostan,Ишимбайский,Ishimbaysky,RU-BA-80231000000,Республика Башкортостан   ,Bashkiria,RU-BA
+784,Republic_of_Bashkortostan,Калтасинский,Kaltasinsky,RU-BA-80233000000,Республика Башкортостан   ,Bashkiria,RU-BA
+785,Republic_of_Bashkortostan,Караидельский,Karaidelsky,RU-BA-80234000000,Республика Башкортостан   ,Bashkiria,RU-BA
+786,Republic_of_Bashkortostan,Кармаскалинский,Karmaskalinsky,RU-BA-80235000000,Республика Башкортостан   ,Bashkiria,RU-BA
+787,Republic_of_Bashkortostan,Кигинский,Kiginsky,RU-BA-80236000000,Республика Башкортостан   ,Bashkiria,RU-BA
+788,Republic_of_Bashkortostan,Краснокамский,_Krasnokamsky,RU-BA-80237000000,Республика Башкортостан   ,Bashkiria,RU-BA
+789,Republic_of_Bashkortostan,Кугарчинский,Kugarchinsky,RU-BA-80238000000,Республика Башкортостан   ,Bashkiria,RU-BA
+790,Republic_of_Bashkortostan,Кушнаренковский,Kushnarenkovsky,RU-BA-80240000000,Республика Башкортостан   ,Bashkiria,RU-BA
+791,Republic_of_Bashkortostan,Куюргазинский,_Kuyurgazinsky,RU-BA-80239000000,Республика Башкортостан   ,Bashkiria,RU-BA
+792,Republic_of_Bashkortostan,Мелеузовский,Meleuzovsky,RU-BA-80241000000,Республика Башкортостан   ,Bashkiria,RU-BA
+793,Republic_of_Bashkortostan,Мечетлинский,Mechetlinsky,RU-BA-80242000000,Республика Башкортостан   ,Bashkiria,RU-BA
+794,Republic_of_Bashkortostan,Мишкинский,Mishkinsky,RU-BA-80243000000,Республика Башкортостан   ,Bashkiria,RU-BA
+795,Republic_of_Bashkortostan,Миякинский,Miyakinsky,RU-BA-80244000000,Республика Башкортостан   ,Bashkiria,RU-BA
+796,Republic_of_Bashkortostan,Нуримановский,Nurimanovsky,RU-BA-80245000000,Республика Башкортостан   ,Bashkiria,RU-BA
+797,Republic_of_Bashkortostan,Салаватский,Salavatsky,RU-BA-80247000000,Республика Башкортостан   ,Bashkiria,RU-BA
+798,Republic_of_Bashkortostan,Стерлибашевский,Sterlibashevsky,RU-BA-80248000000,Республика Башкортостан   ,Bashkiria,RU-BA
+799,Republic_of_Bashkortostan,Стерлитамакский,_Sterlitamaksky,RU-BA-80249000000,Республика Башкортостан   ,Bashkiria,RU-BA
+800,Republic_of_Bashkortostan,Татышлинский,Tatyshlinsky,RU-BA-80250000000,Республика Башкортостан   ,Bashkiria,RU-BA
+801,Republic_of_Bashkortostan,Туймазинский,_Tuymazinsky,RU-BA-80251000000,Республика Башкортостан   ,Bashkiria,RU-BA
+802,Republic_of_Bashkortostan,Уфимский,Ufimsky,RU-BA-80252000000,Республика Башкортостан   ,Bashkiria,RU-BA
+803,Republic_of_Bashkortostan,Учалинский,Uchalinsky,RU-BA-80253000000,Республика Башкортостан   ,Bashkiria,RU-BA
+804,Republic_of_Bashkortostan,Федоровский,Fedorovsky,RU-BA-80254000000,Республика Башкортостан   ,Bashkiria,RU-BA
+805,Republic_of_Bashkortostan,Хайбуллинский,Khaibullinsky,RU-BA-80255000000,Республика Башкортостан   ,Bashkiria,RU-BA
+806,Republic_of_Bashkortostan,Чекмагушевский,Chekmagushevsky,RU-BA-80256000000,Республика Башкортостан   ,Bashkiria,RU-BA
+807,Republic_of_Bashkortostan,Чишминский,Chishminsky,RU-BA-80257000000,Республика Башкортостан   ,Bashkiria,RU-BA
+808,Republic_of_Bashkortostan,Шаранский,Sharansky,RU-BA-80258000000,Республика Башкортостан   ,Bashkiria,RU-BA
+809,Republic_of_Bashkortostan,Янаульский,Yanaulsky,RU-BA-80259000000,Республика Башкортостан   ,Bashkiria,RU-BA
+810,Republic_of_Bashkortostan,Агидель,Agidel,RU-BA-80403000000,Республика Башкортостан   ,Bashkiria,RU-BA
+811,Republic_of_Bashkortostan,Кумертау,Kumertau,RU-BA-80423000000,Республика Башкортостан   ,Bashkiria,RU-BA
+812,Republic_of_Bashkortostan,Межгорье,Mezhgorye,RU-BA-80507000000,Республика Башкортостан   ,Bashkiria,RU-BA
+813,Republic_of_Bashkortostan,Нефтекамск,Neftekamsk,RU-BA-80427000000,Республика Башкортостан   ,Bashkiria,RU-BA
+814,Republic_of_Bashkortostan,Октябрьский,Octyabrsky,RU-BA-80435000000,Республика Башкортостан   ,Bashkiria,RU-BA
+815,Republic_of_Bashkortostan,Салават,Salavat,RU-BA-80439000000,Республика Башкортостан   ,Bashkiria,RU-BA
+816,Republic_of_Bashkortostan,Сибай,Sibay,RU-BA-80443000000,Республика Башкортостан   ,Bashkiria,RU-BA
+817,Republic_of_Bashkortostan,Стерлитамак,Sterlitamak,RU-BA-80445000000,Республика Башкортостан   ,Bashkiria,RU-BA
+818,Republic_of_Bashkortostan,Уфа,Ufa,RU-BA-80401000000,Республика Башкортостан   ,Bashkiria,RU-BA
+819,Republic_of_Crimea,Симферополь,Simferopol,RU-CR-35401000000,Республика Крым  ,Crimea,RU-CR
+820,Republic_of_Crimea,Алушта,Alushta,RU-CR-35403000000,Республика Крым  ,Crimea,RU-CR
+821,Republic_of_Crimea,Армянск,Armyansk,RU-CR-35405000000,Республика Крым  ,Crimea,RU-CR
+822,Republic_of_Crimea,Джанкой,Dzhankoy,RU-CR-35407000000,Республика Крым  ,Crimea,RU-CR
+823,Republic_of_Crimea,Евпатория,Evpatoria,RU-CR-35409000000,Республика Крым  ,Crimea,RU-CR
+824,Republic_of_Crimea,Керчь,Kerch,RU-CR-35412000000,Республика Крым  ,Crimea,RU-CR
+825,Republic_of_Crimea,Красноперекопск,Krasnoperekopsk,RU-CR-35413000000,Республика Крым  ,Crimea,RU-CR
+826,Republic_of_Crimea,Саки,Saki,RU-CR-35414000000,Республика Крым  ,Crimea,RU-CR
+827,Republic_of_Crimea,Судак,Sudak,RU-CR-35416000000,Республика Крым  ,Crimea,RU-CR
+828,Republic_of_Crimea,Феодосия,Feodosia,RU-CR-35417000000,Республика Крым  ,Crimea,RU-CR
+829,Republic_of_Crimea,Ялта,Yalta,RU-CR-35419000000,Республика Крым  ,Crimea,RU-CR
+830,Republic_of_Crimea,Бахчисарайский,Bakhchisarai,RU-CR-35204000000,Республика Крым  ,Crimea,RU-CR
+831,Republic_of_Crimea,Белогорский,Belogorsky,RU-CR-35207000000,Республика Крым  ,Crimea,RU-CR
+832,Republic_of_Crimea,Джанкойский,Dzhankoysky,RU-CR-35211000000,Республика Крым  ,Crimea,RU-CR
+833,Republic_of_Crimea,Кировский,Kirovsky,RU-CR-35216000000,Республика Крым  ,Crimea,RU-CR
+834,Republic_of_Crimea,Красногвардейский,Krasnogvardeisky,RU-CR-35220000000,Республика Крым  ,Crimea,RU-CR
+835,Republic_of_Crimea,Красноперекопский,Krasnoperekopsky,RU-CR-35223000000,Республика Крым  ,Crimea,RU-CR
+836,Republic_of_Crimea,Ленинский,Leninsky,RU-CR-35227000000,Республика Крым  ,Crimea,RU-CR
+837,Republic_of_Crimea,Нижнегорский,Nizhnegorsky,RU-CR-35231000000,Республика Крым  ,Crimea,RU-CR
+838,Republic_of_Crimea,Первомайский,Pervomaysky,RU-CR-35235000000,Республика Крым  ,Crimea,RU-CR
+839,Republic_of_Crimea,Раздольненский,Razdolnensky,RU-CR-35239000000,Республика Крым  ,Crimea,RU-CR
+840,Republic_of_Crimea,Сакский,Saksky,RU-CR-35243000000,Республика Крым  ,Crimea,RU-CR
+841,Republic_of_Crimea,Симферопольский,Simferopolsky,RU-CR-35247000000,Республика Крым  ,Crimea,RU-CR
+842,Republic_of_Crimea,Советский,Sovetsky,RU-CR-35252000000,Республика Крым  ,Crimea,RU-CR
+843,Republic_of_Crimea,Черноморский,Chernomorskiy,RU-CR-35256000000,Республика Крым  ,Crimea,RU-CR
+844,Republic_of_Daghestan,Ногайский,Nogaisky,RU-DA-82240000000,Республика Дагестан   ,Dagestan,RU-DA
+845,Republic_of_Daghestan,Южно-Сухокумск,YuzhnoSukhokumsk,RU-DA-82438000000,Республика Дагестан   ,Dagestan,RU-DA
+846,Republic_of_Daghestan,Тарумовский,Tarumovsky,RU-DA-82249000000,Республика Дагестан   ,Dagestan,RU-DA
+847,Republic_of_Daghestan,Кизлярский,_Kizlyarsky,RU-DA-82227000000,Республика Дагестан   ,Dagestan,RU-DA
+848,Republic_of_Daghestan,Кизляр,Kizlyar,RU-DA-82430000000,Республика Дагестан   ,Dagestan,RU-DA
+849,Republic_of_Daghestan,Бабаюртовский,Babayurtovsky,RU-DA-82207000000,Республика Дагестан   ,Dagestan,RU-DA
+850,Republic_of_Daghestan,Хасавюртовский,_Khasavyurtovsky,RU-DA-82254000000,Республика Дагестан   ,Dagestan,RU-DA
+851,Republic_of_Daghestan,Хасавюрт,Khasavyurt,RU-DA-82435000000,Республика Дагестан   ,Dagestan,RU-DA
+852,Republic_of_Daghestan,Махачкала,Makhachkala,RU-DA-82401000000,Республика Дагестан   ,Dagestan,RU-DA
+853,Republic_of_Daghestan,Кумторкалинский,Kumtorkalinsky,RU-DA-82236000000,Республика Дагестан   ,Dagestan,RU-DA
+854,Republic_of_Daghestan,Кизилюртовский,_Kizilyurtovsky,RU-DA-82226000000,Республика Дагестан   ,Dagestan,RU-DA
+855,Republic_of_Daghestan,Кизилюрт,Kizilyurt,RU-DA-82425000000,Республика Дагестан   ,Dagestan,RU-DA
+856,Republic_of_Daghestan,Новолакский,Novolaksky,RU-DA-82239000000,Республика Дагестан   ,Dagestan,RU-DA
+857,Republic_of_Daghestan,Казбековский,Kazbekovsky,RU-DA-82222000000,Республика Дагестан   ,Dagestan,RU-DA
+858,Republic_of_Daghestan,Буйнакский,_Buynaksky,RU-DA-82211000000,Республика Дагестан   ,Dagestan,RU-DA
+859,Republic_of_Daghestan,Буйнакск,Buynaksk,RU-DA-82405000000,Республика Дагестан   ,Dagestan,RU-DA
+860,Republic_of_Daghestan,Каспийск,Kaspiysk,RU-DA-82420000000,Республика Дагестан   ,Dagestan,RU-DA
+861,Republic_of_Daghestan,Карабудахкентский,Karabudakhkentsky,RU-DA-82235000000,Республика Дагестан   ,Dagestan,RU-DA
+862,Republic_of_Daghestan,Гумбетовский,Gumbetovsky,RU-DA-82215000000,Республика Дагестан   ,Dagestan,RU-DA
+863,Republic_of_Daghestan,Ботлихский,Botlikhsky,RU-DA-82209000000,Республика Дагестан   ,Dagestan,RU-DA
+864,Republic_of_Daghestan,Унцукульский,Untsukulsky,RU-DA-82253000000,Республика Дагестан   ,Dagestan,RU-DA
+865,Republic_of_Daghestan,Цумадинский,Tsumadinsky,RU-DA-82257000000,Республика Дагестан   ,Dagestan,RU-DA
+866,Republic_of_Daghestan,Ахвахский,Akhvakhsky,RU-DA-82205000000,Республика Дагестан   ,Dagestan,RU-DA
+867,Republic_of_Daghestan,Хунзахский,Khunzakhsky,RU-DA-82256000000,Республика Дагестан   ,Dagestan,RU-DA
+868,Republic_of_Daghestan,Гергебильский,Gergebilsky,RU-DA-82213000000,Республика Дагестан   ,Dagestan,RU-DA
+869,Republic_of_Daghestan,Левашинский,Levashinsky,RU-DA-82234000000,Республика Дагестан   ,Dagestan,RU-DA
+870,Republic_of_Daghestan,Сергокалинский,Sergokalinsky,RU-DA-82244000000,Республика Дагестан   ,Dagestan,RU-DA
+871,Republic_of_Daghestan,Каякентский,_Kayakentsky,RU-DA-82224000000,Республика Дагестан   ,Dagestan,RU-DA
+872,Republic_of_Daghestan,Избербаш,Izberbash,RU-DA-82415000000,Республика Дагестан   ,Dagestan,RU-DA
+873,Republic_of_Daghestan,Цунтинский,Tsuntinsky,RU-DA-82258000000,Республика Дагестан   ,Dagestan,RU-DA
+874,Republic_of_Daghestan,Бежтинский,Bezhtinsky,RU-DA-82258810000,Республика Дагестан   ,Dagestan,RU-DA
+875,Republic_of_Daghestan,Тляратинский,Tlyaratinsky,RU-DA-82251000000,Республика Дагестан   ,Dagestan,RU-DA
+876,Republic_of_Daghestan,Шамильский,Shamilsky,RU-DA-82246000000,Республика Дагестан   ,Dagestan,RU-DA
+877,Republic_of_Daghestan,Гунибский,Gunibsky,RU-DA-82216000000,Республика Дагестан   ,Dagestan,RU-DA
+878,Republic_of_Daghestan,Чародинский,Charodinsky,RU-DA-82259000000,Республика Дагестан   ,Dagestan,RU-DA
+879,Republic_of_Daghestan,Лакский,Laksky,RU-DA-82232000000,Республика Дагестан   ,Dagestan,RU-DA
+880,Republic_of_Daghestan,Акушинский,Akushinsky,RU-DA-82203000000,Республика Дагестан   ,Dagestan,RU-DA
+881,Republic_of_Daghestan,Кулинский,Kulinsky,RU-DA-82229000000,Республика Дагестан   ,Dagestan,RU-DA
+882,Republic_of_Daghestan,Рутульский,Rutulsky,RU-DA-82242000000,Республика Дагестан   ,Dagestan,RU-DA
+883,Republic_of_Daghestan,Дахадаевский,Dakhadaevsky,RU-DA-82218000000,Республика Дагестан   ,Dagestan,RU-DA
+884,Republic_of_Daghestan,Агульский,Agulsky,RU-DA-82201000000,Республика Дагестан   ,Dagestan,RU-DA
+885,Republic_of_Daghestan,Кайтагский,Kaitagsky,RU-DA-82223000000,Республика Дагестан   ,Dagestan,RU-DA
+886,Republic_of_Daghestan,Дербентский,_Derbentsky,RU-DA-82220000000,Республика Дагестан   ,Dagestan,RU-DA
+887,Republic_of_Daghestan,Дагестанские Огни,DagestanskiyeOgni,RU-DA-82408000000,Республика Дагестан   ,Dagestan,RU-DA
+888,Republic_of_Daghestan,Дербент,Derbent,RU-DA-82410000000,Республика Дагестан   ,Dagestan,RU-DA
+889,Republic_of_Daghestan,Ахтынский,Akhtynsky,RU-DA-82206000000,Республика Дагестан   ,Dagestan,RU-DA
+890,Republic_of_Daghestan,Докузпаринский,Dokuzparinsky,RU-DA-82221000000,Республика Дагестан   ,Dagestan,RU-DA
+891,Republic_of_Daghestan,Курахский,Kurakhsky,RU-DA-82230000000,Республика Дагестан   ,Dagestan,RU-DA
+892,Republic_of_Daghestan,Магарамкентский,Magaramkentsky,RU-DA-82237000000,Республика Дагестан   ,Dagestan,RU-DA
+893,Republic_of_Daghestan,Сулейман-Стальский,SuleimanStalsky,RU-DA-82247000000,Республика Дагестан   ,Dagestan,RU-DA
+894,Republic_of_Daghestan,Хивский,Khivsky,RU-DA-82255000000,Республика Дагестан   ,Dagestan,RU-DA
+895,Republic_of_Daghestan,Табасаранский,Tabasaransky,RU-DA-82248000000,Республика Дагестан   ,Dagestan,RU-DA
+896,Republic_of_Ingushetia,Джейрахский,Dzheyrakhsky,RU-IN-26205000000,Республика Ингушетия   ,Ingushetia,RU-IN
+897,Republic_of_Ingushetia,Сунженский,Sunzhensky,RU-IN-26230000000,Республика Ингушетия   ,Ingushetia,RU-IN
+898,Republic_of_Ingushetia,Назрановский,Nazranovsky,RU-IN-26220000000,Республика Ингушетия   ,Ingushetia,RU-IN
+899,Republic_of_Ingushetia,Магас,Magas,RU-IN-26401000000,Республика Ингушетия   ,Ingushetia,RU-IN
+900,Republic_of_Ingushetia,Назрань,Nazran,RU-IN-26406000000,Республика Ингушетия   ,Ingushetia,RU-IN
+901,Republic_of_Ingushetia,Карабулак,Karabulak,RU-IN-26408000000,Республика Ингушетия   ,Ingushetia,RU-IN
+902,Republic_of_Ingushetia,Малгобекский,Malgobeksky,RU-IN-26215000000,Республика Ингушетия   ,Ingushetia,RU-IN
+903,Republic_of_Ingushetia,Малгобек,Malgobek,RU-IN-26405000000,Республика Ингушетия   ,Ingushetia,RU-IN
+904,Republic_of_Ingushetia,Сунжа,Sunzha,RU-IN-26412000000,Республика Ингушетия   ,Ingushetia,RU-IN
+905,Republic_of_Kalmykia,Лаганский район,Lagansky,RU-KL-85215000000,Республика Калмыкия   ,Kalmykia,RU-KL
+906,Republic_of_Kalmykia,Черноземельский район,Chernozemelsky,RU-KL-85242000000,Республика Калмыкия   ,Kalmykia,RU-KL
+907,Republic_of_Kalmykia,Ики-Бурульский район,Iki-Burulsky,RU-KL-85210000000,Республика Калмыкия   ,Kalmykia,RU-KL
+908,Republic_of_Kalmykia,Целинный район,Tselinnyy,RU-KL-85237000000,Республика Калмыкия   ,Kalmykia,RU-KL
+909,Republic_of_Kalmykia,Элиста,Elista,RU-KL-85401000000,Республика Калмыкия   ,Kalmykia,RU-KL
+910,Republic_of_Kalmykia,Приютненский район,Priyutnensky,RU-KL-85228000000,Республика Калмыкия   ,Kalmykia,RU-KL
+911,Republic_of_Kalmykia,Яшалтинский район,Yashaltinsky,RU-KL-85250000000,Республика Калмыкия   ,Kalmykia,RU-KL
+912,Republic_of_Kalmykia,Городовиковский район,Gorodovikovsky,RU-KL-85205000000,Республика Калмыкия   ,Kalmykia,RU-KL
+913,Republic_of_Kalmykia,Яшкульский район,Yashkulsky,RU-KL-85254000000,Республика Калмыкия   ,Kalmykia,RU-KL
+914,Republic_of_Kalmykia,Юстинский район,Justinsky,RU-KL-85246000000,Республика Калмыкия   ,Kalmykia,RU-KL
+915,Republic_of_Kalmykia,Кетченеровский район,Ketchenersky,RU-KL-85225000000,Республика Калмыкия   ,Kalmykia,RU-KL
+916,Republic_of_Kalmykia,Октябрьский район,Octyabrsky,RU-KL-85223000000,Республика Калмыкия   ,Kalmykia,RU-KL
+917,Republic_of_Kalmykia,Сарпинский район,Sarpinsky,RU-KL-85232000000,Республика Калмыкия   ,Kalmykia,RU-KL
+918,Republic_of_Kalmykia,Малодербетовский район,Maloderbetovsky,RU-KL-85220000000,Республика Калмыкия   ,Kalmykia,RU-KL
+919,Republic_of_Karelia,Лоухский,Loukhsky,RU-KR-86221000000,Республика Карелия   ,Karelia,RU-KR
+920,Republic_of_Karelia,Калевальский,Kalevalskiy,RU-KR-86209000000,Республика Карелия   ,Karelia,RU-KR
+921,Republic_of_Karelia,Костомукшский,Kostomukshsky,RU-KR-86406000000,Республика Карелия   ,Karelia,RU-KR
+922,Republic_of_Karelia,Кемский,Kemsky,RU-KR-86212000000,Республика Карелия   ,Karelia,RU-KR
+923,Republic_of_Karelia,Муезерский,Muezersky,RU-KR-86227000000,Республика Карелия   ,Karelia,RU-KR
+924,Republic_of_Karelia,Беломорский,Belomorsky,RU-KR-86204000000,Республика Карелия   ,Karelia,RU-KR
+925,Republic_of_Karelia,Сегежский,Segezhsky,RU-KR-86245000000,Республика Карелия   ,Karelia,RU-KR
+926,Republic_of_Karelia,Медвежьегорский,Medvezhyegorsky,RU-KR-86224000000,Республика Карелия   ,Karelia,RU-KR
+927,Republic_of_Karelia,Суоярвский,Suoyarvskiy,RU-KR-86250000000,Республика Карелия   ,Karelia,RU-KR
+928,Republic_of_Karelia,Кондопожский,Kondopogsky,RU-KR-86215000000,Республика Карелия   ,Karelia,RU-KR
+929,Republic_of_Karelia,Пудожский,Pudozhsky,RU-KR-86242000000,Республика Карелия   ,Karelia,RU-KR
+930,Republic_of_Karelia,Лахденпохский,Lahdenpohsky,RU-KR-86218000000,Республика Карелия   ,Karelia,RU-KR
+931,Republic_of_Karelia,Сортавальский,Sortavalsky,RU-KR-86410000000,Республика Карелия   ,Karelia,RU-KR
+932,Republic_of_Karelia,Питкярантский,Pitkyarantsky,RU-KR-86233000000,Республика Карелия   ,Karelia,RU-KR
+933,Republic_of_Karelia,Пряжинский,Pryazhinsky,RU-KR-86239000000,Республика Карелия   ,Karelia,RU-KR
+934,Republic_of_Karelia,Олонецкий,Olonetsky,RU-KR-86230000000,Республика Карелия   ,Karelia,RU-KR
+935,Republic_of_Karelia,Прионежский,Prionezhsky,RU-KR-86236000000,Республика Карелия   ,Karelia,RU-KR
+936,Republic_of_Karelia,Петрозаводск,Petrozavodsk,RU-KR-86401000000,Республика Карелия   ,Karelia,RU-KR
+937,Republic_of_Khakassia,Орджоникидзевский,Ordzhonikidzevsky,RU-KK-95220000000,Республика Хакасия  ,Hakasia,RU-KK
+938,Republic_of_Khakassia,Ширинский,Shirinsky,RU-KK-95235000000,Республика Хакасия  ,Hakasia,RU-KK
+939,Republic_of_Khakassia,Сорск,Sorsk,RU-KK-95409000000,Республика Хакасия  ,Hakasia,RU-KK
+940,Republic_of_Khakassia,Боградский,Bogradsky,RU-KK-95215000000,Республика Хакасия  ,Hakasia,RU-KK
+941,Republic_of_Khakassia,Усть-Абаканский,UstAbakansky,RU-KK-95230000000,Республика Хакасия  ,Hakasia,RU-KK
+942,Republic_of_Khakassia,Черногорск,Chernogorsk,RU-KK-95415000000,Республика Хакасия  ,Hakasia,RU-KK
+943,Republic_of_Khakassia,Абакан,Abakan,RU-KK-95401000000,Республика Хакасия  ,Hakasia,RU-KK
+944,Republic_of_Khakassia,Аскизский,Askizsky,RU-KK-95208000000,Республика Хакасия  ,Hakasia,RU-KK
+945,Republic_of_Khakassia,Таштыпский,Tashtypsky,RU-KK-95225000000,Республика Хакасия  ,Hakasia,RU-KK
+946,Republic_of_Khakassia,Абаза,Abaza,RU-KK-95402000000,Республика Хакасия  ,Hakasia,RU-KK
+947,Republic_of_Khakassia,Бейский,Beysky,RU-KK-95212000000,Республика Хакасия  ,Hakasia,RU-KK
+948,Republic_of_Khakassia,Саяногорск,Sayanogorsk,RU-KK-95408000000,Республика Хакасия  ,Hakasia,RU-KK
+949,Republic_of_Khakassia,Алтайский,Altayskiy,RU-KK-95205000000,Республика Хакасия  ,Hakasia,RU-KK
+950,Republic_of_North_Ossetia-Alania,Алагирский район,Alagirskiy,RU-SE-90205000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+951,Republic_of_North_Ossetia-Alania,Ардонский район,Ardonskiy,RU-SE-90210000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+952,Republic_of_North_Ossetia-Alania,Дигорский район,Digorskiy,RU-SE-90215000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+953,Republic_of_North_Ossetia-Alania,Ирафский район,Irafskiy,RU-SE-90220000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+954,Republic_of_North_Ossetia-Alania,Кировский район,Kirovskiy,RU-SE-90225000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+955,Republic_of_North_Ossetia-Alania,Моздокский район,Mozdokskiy,RU-SE-90230000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+956,Republic_of_North_Ossetia-Alania,Правобережный район,Pravoberezhniy,RU-SE-90235000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+957,Republic_of_North_Ossetia-Alania,Пригородный район,Prigorodniy,RU-SE-90240000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+958,Republic_of_North_Ossetia-Alania,Владикавказ,Vladikavkaz,RU-SE-90401000000,Республика Северная Осетия – Алания,SevernayaOsetia,RU-SE
+959,Republic_of_Sakha_Yakutia,Булунский улус,Bulunsky,RU-SA-98212000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+960,Republic_of_Sakha_Yakutia,Нерюнгринский район,Neryungrinsky,RU-SA-98260000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+961,Republic_of_Sakha_Yakutia,Алданский улус,Aldansky,RU-SA-98203000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+962,Republic_of_Sakha_Yakutia,Олёкминский улус,Olekminsky,RU-SA-98241000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+963,Republic_of_Sakha_Yakutia,Усть-Майский улус,UstMaysky,RU-SA-98254000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+964,Republic_of_Sakha_Yakutia,Амгинский улус,Amginsky,RU-SA-98208000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+965,Republic_of_Sakha_Yakutia,Хангаласский улус,Khangalassky,RU-SA-98244000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+966,Republic_of_Sakha_Yakutia,Мегино-Кангаласский улус,MeginoKangalassky,RU-SA-98229000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+967,Republic_of_Sakha_Yakutia,Чурапчинский улус,Churapchinsky,RU-SA-98258000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+968,Republic_of_Sakha_Yakutia,Якутск,Yakutsk,RU-SA-98401000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+969,Republic_of_Sakha_Yakutia,Горный улус,Gorny,RU-SA-98220000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+970,Republic_of_Sakha_Yakutia,Таттинский улус,Tattinsky,RU-SA-98204000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+971,Republic_of_Sakha_Yakutia,Усть-Алданский улус,UstAldansky,RU-SA-98252000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+972,Republic_of_Sakha_Yakutia,Намский улус,Namsky,RU-SA-98235000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+973,Republic_of_Sakha_Yakutia,Ленский район,Lensky,RU-SA-98235825000,Республика Саха (Якутия) ,Yakutia,RU-SA
+974,Republic_of_Sakha_Yakutia,Сунтарский улус,Suntarsky,RU-SA-98248000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+975,Republic_of_Sakha_Yakutia,Нюрбинский улус,Nyurbinsky,RU-SA-98226000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+976,Republic_of_Sakha_Yakutia,Кобяйский улус,Kobyaisky,RU-SA-98224000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+977,Republic_of_Sakha_Yakutia,Томпонский улус,Tomponsky,RU-SA-98250000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+978,Republic_of_Sakha_Yakutia,Оймяконский улус,Oymyakonsky,RU-SA-98239000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+979,Republic_of_Sakha_Yakutia,Момский национальный эвенский улус,Momsky,RU-SA-98233823000,Республика Саха (Якутия) ,Yakutia,RU-SA
+980,Republic_of_Sakha_Yakutia,Верхнеколымский улус,Verkhnekolymsky,RU-SA-98215000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+981,Republic_of_Sakha_Yakutia,Вилюйский улус,Vilyuisky,RU-SA-98214000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+982,Republic_of_Sakha_Yakutia,Верхневилюйский улус,Verkhnevilyuysky,RU-SA-98214000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+983,Republic_of_Sakha_Yakutia,Мирнинский район,Mirninsky,RU-SA-98231000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+984,Republic_of_Sakha_Yakutia,Жиганский национальный эвенкийский улус,Zhigansky,RU-SA-98222000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+985,Republic_of_Sakha_Yakutia,Эвено-Бытантайский национальный улус,EvenoBytantaisky,RU-SA-98259000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+986,Republic_of_Sakha_Yakutia,Верхоянский улус,Verkhoyansky,RU-SA,Республика Саха (Якутия) ,Yakutia,RU-SA
+987,Republic_of_Sakha_Yakutia,Абыйский улус,Abyisky,RU-SA-98216000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+988,Republic_of_Sakha_Yakutia,Среднеколымский улус,Srednekolymsky,RU-SA-98246000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+989,Republic_of_Sakha_Yakutia,Нижнеколымский улус,Nizhnekolymsky,RU-SA-98237000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+990,Republic_of_Sakha_Yakutia,Аллаиховский улус,Allaikhovsky,RU-SA-98206000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+991,Republic_of_Sakha_Yakutia,Усть-Янский улус,UstYansky,RU-SA-98256000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+992,Republic_of_Sakha_Yakutia,Оленёкский национальный эвенкийский улус,Olenyoksky,RU-SA-98242837000,Республика Саха (Якутия) ,Yakutia,RU-SA
+993,Republic_of_Sakha_Yakutia,Анабарский национальный долгано-эвенкийский улус,Anabarsky,RU-SA-98210000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+994,Republic_of_Tatarstan,Заинский,Zainsky,RU-TA-92227000000,Республика Татарстан   ,Tatarstan,RU-TA
+995,Republic_of_Tatarstan,Нижнекамский,Nizhnekamsky,RU-TA-92244000000,Республика Татарстан   ,Tatarstan,RU-TA
+996,Republic_of_Tatarstan,Елабужский,Yelabugsky,RU-TA-92226000000,Республика Татарстан   ,Tatarstan,RU-TA
+997,Republic_of_Tatarstan,Лениногорский,Leninogorsky,RU-TA-92236000000,Республика Татарстан   ,Tatarstan,RU-TA
+998,Republic_of_Tatarstan,Альметьевский,Almetevsky,RU-TA-92208000000,Республика Татарстан   ,Tatarstan,RU-TA
+999,Republic_of_Tatarstan,Азнакаевский,Aznakaevsky,RU-TA-92202000000,Республика Татарстан   ,Tatarstan,RU-TA
+1000,Republic_of_Tatarstan,Бугульминский,Bugulminsky,RU-TA-92217000000,Республика Татарстан   ,Tatarstan,RU-TA
+1001,Republic_of_Tatarstan,Бавлинский,Bavlinsky,RU-TA-92214000000,Республика Татарстан   ,Tatarstan,RU-TA
+1002,Republic_of_Tatarstan,Нурлатский,Nurlatsky,RU-TA-92246000000,Республика Татарстан   ,Tatarstan,RU-TA
+1003,Republic_of_Tatarstan,Зеленодольский,Zelenodolsky,RU-TA-92228000000,Республика Татарстан   ,Tatarstan,RU-TA
+1004,Republic_of_Tatarstan,Буинский,Buinsky,RU-TA-92218000000,Республика Татарстан   ,Tatarstan,RU-TA
+1005,Republic_of_Tatarstan,Чистопольский,Chistopolsky,RU-TA-92259000000,Республика Татарстан   ,Tatarstan,RU-TA
+1006,Republic_of_Tatarstan,Сармановский,Sarmanovsky,RU-TA-92253000000,Республика Татарстан   ,Tatarstan,RU-TA
+1007,Republic_of_Tatarstan,Новошешминский,Novosheshminsky,RU-TA-92245000000,Республика Татарстан   ,Tatarstan,RU-TA
+1008,Republic_of_Tatarstan,Аксубаевский,Aksubaevsky,RU-TA-92204000000,Республика Татарстан   ,Tatarstan,RU-TA
+1009,Republic_of_Tatarstan,Алексеевский,Alekseevsky,RU-TA-92206000000,Республика Татарстан   ,Tatarstan,RU-TA
+1010,Republic_of_Tatarstan,Рыбно-Слободский,Rybno-Slobodsky,RU-TA-92250000000,Республика Татарстан   ,Tatarstan,RU-TA
+1011,Republic_of_Tatarstan,Пестречинский,Pestrechinsky,RU-TA-92248000000,Республика Татарстан   ,Tatarstan,RU-TA
+1012,Republic_of_Tatarstan,Мамадышский,Mamadyshsky,RU-TA-92238000000,Республика Татарстан   ,Tatarstan,RU-TA
+1013,Republic_of_Tatarstan,Менделеевский,Mendeleevsky,RU-TA-92239000000,Республика Татарстан   ,Tatarstan,RU-TA
+1014,Republic_of_Tatarstan,Сабинский,Sabinsky,RU-TA-92252000000,Республика Татарстан   ,Tatarstan,RU-TA
+1015,Republic_of_Tatarstan,Кукморский,Kukmorsky,RU-TA-92233000000,Республика Татарстан   ,Tatarstan,RU-TA
+1016,Republic_of_Tatarstan,Балтасинский,Baltasinsky,RU-TA-92215000000,Республика Татарстан   ,Tatarstan,RU-TA
+1017,Republic_of_Tatarstan,Агрызский,Agryzsky,RU-TA-92201000000,Республика Татарстан   ,Tatarstan,RU-TA
+1018,Republic_of_Tatarstan,Мензелинский,Menzelinsky,RU-TA-92240000000,Республика Татарстан   ,Tatarstan,RU-TA
+1019,Republic_of_Tatarstan,Актанышский,Aktanyshsky,RU-TA-92205000000,Республика Татарстан   ,Tatarstan,RU-TA
+1020,Republic_of_Tatarstan,Муслюмовский,Muslyumovsky,RU-TA-92242000000,Республика Татарстан   ,Tatarstan,RU-TA
+1021,Republic_of_Tatarstan,Ютазинский,Yutazinsky,RU-TA-92254000000,Республика Татарстан   ,Tatarstan,RU-TA
+1022,Republic_of_Tatarstan,Черемшанский,Cheremshansky,RU-TA-92258000000,Республика Татарстан   ,Tatarstan,RU-TA
+1023,Republic_of_Tatarstan,Арский,Arsky,RU-TA-92212000000,Республика Татарстан   ,Tatarstan,RU-TA
+1024,Republic_of_Tatarstan,Атнинский,Atninsky,RU-TA-92213000000,Республика Татарстан   ,Tatarstan,RU-TA
+1025,Republic_of_Tatarstan,Тюлячинский,Tyulyachinsky,RU-TA-92256000000,Республика Татарстан   ,Tatarstan,RU-TA
+1026,Republic_of_Tatarstan,Алькеевский,Alkeyevsky,RU-TA-92207000000,Республика Татарстан   ,Tatarstan,RU-TA
+1027,Republic_of_Tatarstan,Спасский,Spassky,RU-TA-92232000000,Республика Татарстан   ,Tatarstan,RU-TA
+1028,Republic_of_Tatarstan,Лаишевский,Laishevsky,RU-TA-92234000000,Республика Татарстан   ,Tatarstan,RU-TA
+1029,Republic_of_Tatarstan,Высокогорский,Vysokogorsky,RU-TA-92222000000,Республика Татарстан   ,Tatarstan,RU-TA
+1030,Republic_of_Tatarstan,Казань,Kazan,RU-TA-92401000000,Республика Татарстан   ,Tatarstan,RU-TA
+1031,Republic_of_Tatarstan,Дрожжановский,Drozhzhanovsky,RU-TA-92224000000,Республика Татарстан   ,Tatarstan,RU-TA
+1032,Republic_of_Tatarstan,Камско-Устьинский,Kamsko-Ustyinsky,RU-TA-92230000000,Республика Татарстан   ,Tatarstan,RU-TA
+1033,Republic_of_Tatarstan,Тетюшский,Tetyushsky,RU-TA-92255000000,Республика Татарстан   ,Tatarstan,RU-TA
+1034,Republic_of_Tatarstan,Апастовский,Apastovsky,RU-TA-92210000000,Республика Татарстан   ,Tatarstan,RU-TA
+1035,Republic_of_Tatarstan,Кайбицкий,Kaybitsky,RU-TA-92229000000,Республика Татарстан   ,Tatarstan,RU-TA
+1036,Republic_of_Tatarstan,Верхнеуслонский,Verkhneuslonsky,RU-TA-92220000000,Республика Татарстан   ,Tatarstan,RU-TA
+1037,Republic_of_Tatarstan,Тукаевский,Tukaevsky,RU-TA-92257000000,Республика Татарстан   ,Tatarstan,RU-TA
+1038,Republic_of_Tuva,Эрзинский,Erzinsky,RU-TY-93258000000,Республика Тыва   ,Tyva,RU-TY
+1039,Republic_of_Tuva,Кызылский,Kyzylsky,RU-TY-93222000000,Республика Тыва   ,Tyva,RU-TY
+1040,Republic_of_Tuva,Пий-Хемский,PiusKhemsky,RU-TY-93235000000,Республика Тыва   ,Tyva,RU-TY
+1041,Republic_of_Tuva,Сут-Хольский,SutKholsky,RU-TY-93238000000,Республика Тыва   ,Tyva,RU-TY
+1042,Republic_of_Tuva,Тес-Хемский,TesKhemsky,RU-TY-93245000000,Республика Тыва   ,Tyva,RU-TY
+1043,Republic_of_Tuva,Тандинский,Tandinsky,RU-TY-93240000000,Республика Тыва   ,Tyva,RU-TY
+1044,Republic_of_Tuva,Монгун-Тайгинский,MongunTaiginsky,RU-TY-93225000000,Республика Тыва   ,Tyva,RU-TY
+1045,Republic_of_Tuva,Тоджинский,Todzhinsky,RU-TY-93250000000,Республика Тыва   ,Tyva,RU-TY
+1046,Republic_of_Tuva,Тере-Хольский,TereKholsky,RU-TY-93243000000,Республика Тыва   ,Tyva,RU-TY
+1047,Republic_of_Tuva,Бай-Тайгинский,BaiTaiginsky,RU-TY-93205000000,Республика Тыва   ,Tyva,RU-TY
+1048,Republic_of_Tuva,Дзун-Хемчикский,DzunKhemchiksky,RU-TY-93215000000,Республика Тыва   ,Tyva,RU-TY
+1049,Republic_of_Tuva,Каа-Хемский,KaaKhemsky,RU-TY-93220000000,Республика Тыва   ,Tyva,RU-TY
+1050,Republic_of_Tuva,Овюрский,Ovursky,RU-TY-93230000000,Республика Тыва   ,Tyva,RU-TY
+1051,Republic_of_Tuva,Улуг-Хемский,UlugKhemsky,RU-TY-93254000000,Республика Тыва   ,Tyva,RU-TY
+1052,Republic_of_Tuva,Барун-Хемчикский,_BarunKhemchiksky,RU-TY-93210000000,Республика Тыва   ,Tyva,RU-TY
+1053,Republic_of_Tuva,Кызыл,Kyzyl,RU-TY-93401000000,Республика Тыва   ,Tyva,RU-TY
+1054,Republic_of_Tuva,Ак-Довурак,AkDovurak,RU-TY-93403000000,Республика Тыва   ,Tyva,RU-TY
+1055,Republic_of_Tuva,Чеди-Хольский,ChediKholsky,RU-TY-93257000000,Республика Тыва   ,Tyva,RU-TY
+1056,Republic_of_Tuva,Чаа-Хольский,ChaaKholsky,RU-TY-93256000000,Республика Тыва   ,Tyva,RU-TY
+1057,Rostov_Region,Чертковский р-н,Chertkovsky,RU-ROS-60258000000,Ростовская область   ,Rostovskaya,RU-ROS
+1058,Rostov_Region,Верхнедонской р-н,Verkhnedonskoi,RU-ROS-60208000000,Ростовская область   ,Rostovskaya,RU-ROS
+1059,Rostov_Region,Шолоховский р-н,Sholokhovskiy,RU-ROS-60211000000,Ростовская область   ,Rostovskaya,RU-ROS
+1060,Rostov_Region,Боковский р-н,Bokovsky,RU-ROS-60207000000,Ростовская область   ,Rostovskaya,RU-ROS
+1061,Rostov_Region,Кашарский р-н,Kashar,RU-ROS-60224000000,Ростовская область   ,Rostovskaya,RU-ROS
+1062,Rostov_Region,Миллеровский р-н,Millerovsky,RU-ROS-60232000000,Ростовская область   ,Rostovskaya,RU-ROS
+1063,Rostov_Region,Тарасовский р-н,Tarasovsky,RU-ROS-60253000000,Ростовская область   ,Rostovskaya,RU-ROS
+1064,Rostov_Region,Советский р-н,Soviet,RU-ROS-60252000000,Ростовская область   ,Rostovskaya,RU-ROS
+1065,Rostov_Region,Обливский р-н,Oblivsky,RU-ROS-60240000000,Ростовская область   ,Rostovskaya,RU-ROS
+1066,Rostov_Region,Морозовский р-н,Morozovsky,RU-ROS-60234000000,Ростовская область   ,Rostovskaya,RU-ROS
+1067,Rostov_Region,Милютинский р-н,Milyutinsky,RU-ROS-60233000000,Ростовская область   ,Rostovskaya,RU-ROS
+1068,Rostov_Region,Тацинский р-н,Tatsinsky,RU-ROS-60254000000,Ростовская область   ,Rostovskaya,RU-ROS
+1069,Rostov_Region,Белокалитвинский р-н,Belokalitvinskiy,RU-ROS-60206000000,Ростовская область   ,Rostovskaya,RU-ROS
+1070,Rostov_Region,Константиновский р-н,Konstantinovsky,RU-ROS-60225000000,Ростовская область   ,Rostovskaya,RU-ROS
+1071,Rostov_Region,Цимлянский р-н,Tsimlyansky,RU-ROS-60257000000,Ростовская область   ,Rostovskaya,RU-ROS
+1072,Rostov_Region,Семикаракорский р-н,Semikarakorsky,RU-ROS-60251000000,Ростовская область   ,Rostovskaya,RU-ROS
+1073,Rostov_Region,Усть-Донецкий р-н,Ust-Donetsk,RU-ROS-60255000000,Ростовская область   ,Rostovskaya,RU-ROS
+1074,Rostov_Region,Заветинский р-н,Zavetinskiy,RU-ROS-60217000000,Ростовская область   ,Rostovskaya,RU-ROS
+1075,Rostov_Region,Ремонтненский р-н,Remontnensky,RU-ROS-60247000000,Ростовская область   ,Rostovskaya,RU-ROS
+1076,Rostov_Region,Дубовский р-н,Dubovsky,RU-ROS-60213000000,Ростовская область   ,Rostovskaya,RU-ROS
+1077,Rostov_Region,Зимовниковский р-н,Zimovnikovsky,RU-ROS-60219000000,Ростовская область   ,Rostovskaya,RU-ROS
+1078,Rostov_Region,Орловский р-н,Orlovsky,RU-ROS-60242000000,Ростовская область   ,Rostovskaya,RU-ROS
+1079,Rostov_Region,Мартыновский р-н,Martynovsky,RU-ROS-60230000000,Ростовская область   ,Rostovskaya,RU-ROS
+1080,Rostov_Region,Пролетарский р-н,Proletarsky,RU-ROS-60245000000,Ростовская область   ,Rostovskaya,RU-ROS
+1081,Rostov_Region,Веселовский р-н,Veselovsky,RU-ROS-60209000000,Ростовская область   ,Rostovskaya,RU-ROS
+1082,Rostov_Region,Волгодонской р-н,Volgodonsky,RU-ROS-60212000000,Ростовская область   ,Rostovskaya,RU-ROS
+1083,Rostov_Region,Волгодонск,Volgodonsk,RU-ROS-60412000000,Ростовская область   ,Rostovskaya,RU-ROS
+1084,Rostov_Region,Сальский р-н,Salsky,RU-ROS-60250000000,Ростовская область   ,Rostovskaya,RU-ROS
+1085,Rostov_Region,Песчанокопский р-н,Peschanokopsky,RU-ROS-60244000000,Ростовская область   ,Rostovskaya,RU-ROS
+1086,Rostov_Region,Таганрог,Taganrog,RU-ROS-60437000000,Ростовская область   ,Rostovskaya,RU-ROS
+1087,Rostov_Region,Целинский р-н,Tselinsky,RU-ROS-60256000000,Ростовская область   ,Rostovskaya,RU-ROS
+1088,Rostov_Region,Егорлыкский р-н,Egorlyksky,RU-ROS-60215000000,Ростовская область   ,Rostovskaya,RU-ROS
+1089,Rostov_Region,Зерноградский р-н,Zernogradsky,RU-ROS-60218000000,Ростовская область   ,Rostovskaya,RU-ROS
+1090,Rostov_Region,Багаевский р-н,Bagaevsky,RU-ROS-60205000000,Ростовская область   ,Rostovskaya,RU-ROS
+1091,Rostov_Region,Кагальницкий р-н,Kagalnitsky,RU-ROS-60222000000,Ростовская область   ,Rostovskaya,RU-ROS
+1092,Rostov_Region,Каменский р-н,Kamensky,RU-ROS-60223000000,Ростовская область   ,Rostovskaya,RU-ROS
+1093,Rostov_Region,Красносулинский р-н,Krasnosulinsky,RU-ROS-60226000000,Ростовская область   ,Rostovskaya,RU-ROS
+1094,Rostov_Region,Родионово-Несветайский р-н,Rodionovo-Nesvetaisky,RU-ROS-60248000000,Ростовская область   ,Rostovskaya,RU-ROS
+1095,Rostov_Region,Октябрьский р-н,October,RU-ROS-60241000000,Ростовская область   ,Rostovskaya,RU-ROS
+1096,Rostov_Region,Новошахтинск,Novoshakhtinsk,RU-ROS-60430000000,Ростовская область   ,Rostovskaya,RU-ROS
+1097,Rostov_Region,Аксайский р-н,Aksai,RU-ROS-60202000000,Ростовская область   ,Rostovskaya,RU-ROS
+1098,Rostov_Region,Мясниковский р-н,Myasnikovsky,RU-ROS-60235000000,Ростовская область   ,Rostovskaya,RU-ROS
+1099,Rostov_Region,Азовский р-н,Azovsky,RU-ROS-60201000000,Ростовская область   ,Rostovskaya,RU-ROS
+1100,Rostov_Region,Ростов-на-Дону,Rostov-on-Don,RU-ROS-60401000000,Ростовская область   ,Rostovskaya,RU-ROS
+1101,Rostov_Region,Донецк,Donetsk,RU-ROS-60417000000,Ростовская область   ,Rostovskaya,RU-ROS
+1102,Rostov_Region,Каменск-Шахтинский,Kamensk-Shakhtinsky,RU-ROS-60419000000,Ростовская область   ,Rostovskaya,RU-ROS
+1103,Rostov_Region,Гуково,Gukovo,RU-ROS-60415000000,Ростовская область   ,Rostovskaya,RU-ROS
+1104,Rostov_Region,Зверево,Zverevo,RU-ROS-60418000000,Ростовская область   ,Rostovskaya,RU-ROS
+1105,Rostov_Region,Батайск,Bataysk,RU-ROS-60407000000,Ростовская область   ,Rostovskaya,RU-ROS
+1106,Rostov_Region,Азов,Azov,RU-ROS-60404000000,Ростовская область   ,Rostovskaya,RU-ROS
+1107,Rostov_Region,Новочеркасск,Novocherkassk,RU-ROS-60427000000,Ростовская область   ,Rostovskaya,RU-ROS
+1108,Rostov_Region,Шахты,Shahti,RU-ROS-60440000000,Ростовская область   ,Rostovskaya,RU-ROS
+1109,Rostov_Region,Куйбышевский р-н,Kuibyshevsky,RU-ROS-60227000000,Ростовская область   ,Rostovskaya,RU-ROS
+1110,Rostov_Region,Матвеево-Курганский р-н,Matveevo-Kurgan,RU-ROS-60231000000,Ростовская область   ,Rostovskaya,RU-ROS
+1111,Rostov_Region,Неклиновский р-н,Neklinovsky,RU-ROS-60236000000,Ростовская область   ,Rostovskaya,RU-ROS
+1112,Ryazan_Region,Милославский район,Miloslavsky,RU-RYA-61215000000,Рязанская область   ,Razanskaya,RU-RYA
+1113,Ryazan_Region,Скопинский район,_Skopinsky,RU-RYA-61244000000,Рязанская область   ,Razanskaya,RU-RYA
+1114,Ryazan_Region,Пронский район,Pronsky,RU-RYA-61225000000,Рязанская область   ,Razanskaya,RU-RYA
+1115,Ryazan_Region,Михайловский район,Mikhailovsky,RU-RYA-61217000000,Рязанская область   ,Razanskaya,RU-RYA
+1116,Ryazan_Region,Захаровский район,Zakharovsky,RU-RYA-61204000000,Рязанская область   ,Razanskaya,RU-RYA
+1117,Ryazan_Region,Сараевский район,Saraevsky,RU-RYA-61240000000,Рязанская область   ,Razanskaya,RU-RYA
+1118,Ryazan_Region,Шацкий район,Shatsky,RU-RYA-61256000000,Рязанская область   ,Razanskaya,RU-RYA
+1119,Ryazan_Region,Чучковский район,Chuchkovsky,RU-RYA-61253000000,Рязанская область   ,Razanskaya,RU-RYA
+1120,Ryazan_Region,Путятинский район,Putyatinsky,RU-RYA-61226000000,Рязанская область   ,Razanskaya,RU-RYA
+1121,Ryazan_Region,Сапожковский район,Sapozhkovsky,RU-RYA-61237000000,Рязанская область   ,Razanskaya,RU-RYA
+1122,Ryazan_Region,Ухоловский район,Ukholovsky,RU-RYA-61250000000,Рязанская область   ,Razanskaya,RU-RYA
+1123,Ryazan_Region,Александро-Невский район,Alexandro-Nevsky,RU-RYA-61220000000,Рязанская область   ,Razanskaya,RU-RYA
+1124,Ryazan_Region,Ряжский район,Ryazhsky,RU-RYA-61230000000,Рязанская область   ,Razanskaya,RU-RYA
+1125,Ryazan_Region,Кадомский район,Kadomsky,RU-RYA-61206000000,Рязанская область   ,Razanskaya,RU-RYA
+1126,Ryazan_Region,Пителинский район,Pitelinsky,RU-RYA-61223000000,Рязанская область   ,Razanskaya,RU-RYA
+1127,Ryazan_Region,Сасовский район,_Sasovsky,RU-RYA-61242000000,Рязанская область   ,Razanskaya,RU-RYA
+1128,Ryazan_Region,Кораблинский район,Korablinsky,RU-RYA-61212000000,Рязанская область   ,Razanskaya,RU-RYA
+1129,Ryazan_Region,Шиловский район,Shilovsky,RU-RYA-61258000000,Рязанская область   ,Razanskaya,RU-RYA
+1130,Ryazan_Region,Старожиловский район,Starozhilovsky,RU-RYA-61248000000,Рязанская область   ,Razanskaya,RU-RYA
+1131,Ryazan_Region,Спасский район,Spassky,RU-RYA-61246000000,Рязанская область   ,Razanskaya,RU-RYA
+1132,Ryazan_Region,Рязанский район,Ryazansky,RU-RYA-61234000000,Рязанская область   ,Razanskaya,RU-RYA
+1133,Ryazan_Region,Рязань,Ryazan,RU-RYA-61401000000,Рязанская область   ,Razanskaya,RU-RYA
+1134,Ryazan_Region,Сасово,Sasovo,RU-RYA-61410000000,Рязанская область   ,Razanskaya,RU-RYA
+1135,Ryazan_Region,Скопин,Skopin,RU-RYA-61415000000,Рязанская область   ,Razanskaya,RU-RYA
+1136,Ryazan_Region,Касимовский район,_Kasimovsky,RU-RYA-61208000000,Рязанская область   ,Razanskaya,RU-RYA
+1137,Ryazan_Region,Касимов,Kasimov,RU-RYA-61405000000,Рязанская область   ,Razanskaya,RU-RYA
+1138,Ryazan_Region,Ермишинский район,Ermishinsky,RU-RYA-61202000000,Рязанская область   ,Razanskaya,RU-RYA
+1139,Ryazan_Region,Рыбновский район,Rybnovsky,RU-RYA-61227000000,Рязанская область   ,Razanskaya,RU-RYA
+1140,Ryazan_Region,Клепиковский район,Klepikovsky,RU-RYA-61210000000,Рязанская область   ,Razanskaya,RU-RYA
+1141,Saint_Petersburg,Петродворцовый,Petrodvortsovy,RU-SPE-40290000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1142,Saint_Petersburg,Адмиралтейский ,Admiralteisky,RU-SPE-40262000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1143,Saint_Petersburg,Василеостровский,Vasileostrovskiy,RU-SPE-40263000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1144,Saint_Petersburg,Фрунзенский р-н,Frunzensky,RU-SPE-40296000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1145,Saint_Petersburg,Петроградский,Petrogradsky,RU-SPE-40288000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1146,Saint_Petersburg,Колпинский,Kolpinsky,RU-SPE-40277000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1147,Saint_Petersburg,Центральный,Centralny,RU-SPE-40298000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1148,Saint_Petersburg,Выборгский,Vyborgsky,RU-SPE-40265000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1149,Saint_Petersburg,Невский,Nevsky,RU-SPE-40285000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1150,Saint_Petersburg,Красногвардейский,Krasnogvardeisky,RU-SPE-40278000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1151,Saint_Petersburg,Калининский,Kalininsky,RU-SPE-40273000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1152,Saint_Petersburg,Пушкинский,Pushkinsky,RU-SPE-40294000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1153,Saint_Petersburg,Московский,Moskovsky,RU-SPE-40284000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1154,Saint_Petersburg,Красносельский,Krasnoselsky,RU-SPE-40279000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1155,Saint_Petersburg,Кировский,Kirovsky,RU-SPE-40276000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1156,Saint_Petersburg,Курортный,Kyrortny,RU-SPE-40281000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1157,Saint_Petersburg,Приморский,Primorsky,RU-SPE-40270000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1158,Saint_Petersburg,Кронштадтский,Kronstadtsky,RU-SPE-40280000000,Санкт-Петербург    ,SanktPeterburg,RU-SPE
+1159,Sakhalin_Region,Охинский,Okhinsky,RU-SAK-64236000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1160,Sakhalin_Region,Александровск-Сахалинский,AlexandrovskSakhalinsky,RU-SAK-64204000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1161,Sakhalin_Region,Тымовский,Tymovsky,RU-SAK-64250000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1162,Sakhalin_Region,Смирныховский,Smirnykhovsky,RU-SAK-64246000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1163,Sakhalin_Region,Ногликский,Nogliki,RU-SAK-64232000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1164,Sakhalin_Region,Углегорский,Uglegorsky,RU-SAK-64252000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1165,Sakhalin_Region,Томаринский,Tomarinsky,RU-SAK-64248000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1166,Sakhalin_Region,Поронайский,Poronaisky,RU-SAK-64240000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1167,Sakhalin_Region,Макаровский,Makarovsky,RU-SAK-64224000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1168,Sakhalin_Region,Долинский,Dolinsky,RU-SAK-64212000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1169,Sakhalin_Region,Холмский,Kholmsky,RU-SAK-64254000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1170,Sakhalin_Region,Корсаковский,Korsakovsky,RU-SAK-64216000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1171,Sakhalin_Region,Невельский,Nevelsky,RU-SAK-64228000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1172,Sakhalin_Region,Анивский,Anivsky,RU-SAK-64208000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1173,Sakhalin_Region,Южно-Сахалинск,YuzhnoSakhalinsk,RU-SAK-64401000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1174,Sakhalin_Region,Южно-Курильский,YuzhnoKurilsky,RU-SAK-64256000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1175,Sakhalin_Region,Курильский,Kurilsky,RU-SAK-64220000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1176,Sakhalin_Region,Северо-Курильский,SeveroKurilsky,RU-SAK-64243000000,Сахалинская область   ,Sahalinskaya,RU-SAK
+1177,Sevastopol,Балаклавский,Balaklavsky,RU-SEV-67263000000,Севастополь   ,Sevastopol,RU-SEV
+1178,Sevastopol,Гагаринский,Gagarinsky,RU-SEV-67264000000,Севастополь   ,Sevastopol,RU-SEV
+1179,Sevastopol,Ленинский,Leninsky,RU-SEV-67266000000,Севастополь   ,Sevastopol,RU-SEV
+1180,Sevastopol,Нахимовский,Nakhimovsky,RU-SEV-67269000000,Севастополь   ,Sevastopol,RU-SEV
+1181,Stavropol_Territory,Пятигорск,Pyatigorsk,RU-STA-07427000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1182,Stavropol_Territory,Арзгирский,_Arzgirsky,RU-STA-07207000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1183,Stavropol_Territory,Нефтекумский,_Neftekumsky,RU-STA-07241000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1184,Stavropol_Territory,Александровский,_Aleksandrovskiy,RU-STA-07202000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1185,Stavropol_Territory,Невинномысск,Nevinnomyssk,RU-STA-07424000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1186,Stavropol_Territory,Туркменский,_Turkmensky,RU-STA-07256000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1187,Stavropol_Territory,Степновский,_Stepnovsky,RU-STA-07252000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1188,Stavropol_Territory,Курский,_Kursky,RU-STA-07233000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1189,Stavropol_Territory,Апанасенковский,_Apanasenkovsky,RU-STA-07205000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1190,Stavropol_Territory,Ипатовский,_Ipatovsky,RU-STA-07222000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1191,Stavropol_Territory,Новоселицкий,_Novoselitsky,RU-STA-07244000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1192,Stavropol_Territory,Ставрополь,Stavropol,RU-STA-07401000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1193,Stavropol_Territory,Георгиевск,Georgievsk,RU-STA-07407000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1194,Stavropol_Territory,Кисловодск,Kislovodsk,RU-STA-07415000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1195,Stavropol_Territory,Ессентуки,Essentuki,RU-STA-07410000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1196,Stavropol_Territory,Железноводск,Zheleznovodsk,RU-STA-07412000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1197,Stavropol_Territory,Лермонтов,Lermontov,RU-STA-07418000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1198,Stavropol_Territory,Петровский,_Petrovsky,RU-STA-07246000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1199,Stavropol_Territory,Благодарненский,_Blagodarnensky,RU-STA-07210000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1200,Stavropol_Territory,Красногвардейский,_Krasnogvardeisky,RU-STA-07230000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1201,Stavropol_Territory,Новоалександровский,_Novoaleksandrovsky,RU-STA-07243000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1202,Stavropol_Territory,Изобильненский,_Izobilnensky,RU-STA-07220000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1203,Stavropol_Territory,Шпаковский,_Shpakovsky,RU-STA-07258000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1204,Stavropol_Territory,Кочубеевский,_Kochubeevsky,RU-STA-07228000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1205,Stavropol_Territory,Андроповский,_Andropovsky,RU-STA-07232000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1206,Stavropol_Territory,Грачёвский,_Grachevsky,RU-STA-07217000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1207,Stavropol_Territory,Труновский,_Trunovsky,RU-STA-07254000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1208,Stavropol_Territory,Предгорный,_Predgorny,RU-STA-07248000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1209,Stavropol_Territory,Минераловодский,_Mineralovodsky,RU-STA-07239000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1210,Stavropol_Territory,Георгиевский,_Georgievsky,RU-STA-07215000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1211,Stavropol_Territory,Кировский,_Kirovsky,RU-STA-07225000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1212,Stavropol_Territory,Советский,_Soviet,RU-STA-07250000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1213,Stavropol_Territory,Будённовский,_Budyonnovsky,RU-STA-07212000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1214,Stavropol_Territory,Левокумский,_Levokumsky,RU-STA-07236000000,Ставропольский край   ,Stavropolskiy,RU-STA
+1215,Trans_Baikal_Territory,Тунгокоченский,Tungochensky,RU-ZAB-76244000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1216,Trans_Baikal_Territory,Чернышевский,Chernyshevsky,RU-ZAB-76248000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1217,Trans_Baikal_Territory,Тунгиро-Олёкминский,TungiroOlyokminsky,RU-ZAB-76242000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1218,Trans_Baikal_Territory,Каларский,Kalarsky,RU-ZAB-76215000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1219,Trans_Baikal_Territory,Сретенский,Sretensky,RU-ZAB-76240000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1220,Trans_Baikal_Territory,Улётовский,Uletovsky,RU-ZAB-76246000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1221,Trans_Baikal_Territory,Петровск-Забайкальский,Petrovsk,RU-ZAB-76236501000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1222,Trans_Baikal_Territory,Петровск-Забайкальский,PetrovskZabaikalsky,RU-ZAB-76236000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1223,Trans_Baikal_Territory,Агинское,Aginskoe,RU-ZAB-76202551000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1224,Trans_Baikal_Territory,Калганский,Kalgansky,RU-ZAB-76218000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1225,Trans_Baikal_Territory,Шелопугинский,Shelopuginsky,RU-ZAB-76252000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1226,Trans_Baikal_Territory,Александрово-Заводский,AlexandrovoZavodsky,RU-ZAB-76204000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1227,Trans_Baikal_Territory,Нерчинский,Nerchinsky,RU-ZAB-76228000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1228,Trans_Baikal_Territory,Балейский,Baleyskiy,RU-ZAB-76206000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1229,Trans_Baikal_Territory,Карымский,Karymsky,RU-ZAB-76220000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1230,Trans_Baikal_Territory,Шилкинский,Shilkinsky,RU-ZAB-76254000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1231,Trans_Baikal_Territory,Оловяннинский,Olovyanninsky,RU-ZAB-76232000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1232,Trans_Baikal_Territory,Дульдургинский,Duldurginsky,RU-ZAB-76211000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1233,Trans_Baikal_Territory,Агинский,Aginsky,RU-ZAB-76202000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1234,Trans_Baikal_Territory,ЗАТО п. Горный,Gornyy,RU-ZAB-76585000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1235,Trans_Baikal_Territory,Могойтуйский,Mogoituysky,RU-ZAB-76225000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1236,Trans_Baikal_Territory,Чита,Chita,RU-ZAB-76401000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1237,Trans_Baikal_Territory,Ононский,Ononsky,RU-ZAB-76234000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1238,Trans_Baikal_Territory,Акшинский,Akshinsky,RU-ZAB-76203000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1239,Trans_Baikal_Territory,Борзинский,Borzinsky,RU-ZAB-76209000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1240,Trans_Baikal_Territory,Забайкальский,Zabaikalsky,RU-ZAB-76000000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1241,Trans_Baikal_Territory,Красночикойский,Krasnochikoisky,RU-ZAB-76222000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1242,Trans_Baikal_Territory,Краснокаменский,Krasnokamensky,RU-ZAB-76221000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1243,Trans_Baikal_Territory,Кыринский,Kirinsky,RU-ZAB-76224000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1244,Trans_Baikal_Territory,Хилокский,Khiloksky,RU-ZAB-76247000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1245,Trans_Baikal_Territory,Читинский,Chitinsky,RU-ZAB-76250000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1246,Trans_Baikal_Territory,Могочинский,Mogochinsky,RU-ZAB-76226000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1247,Trans_Baikal_Territory,Приаргунский,Priargunsky,RU-ZAB-76238000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1248,Trans_Baikal_Territory,Газимуро-Заводский,GazimuroZavodsky,RU-ZAB-76210000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1249,Trans_Baikal_Territory,Нерчинско-Заводский,NerchinskoZavodsky,RU-ZAB-76230000000,Забайкальский край   ,Zabaykalskiy,RU-ZAB
+1250,Tula_Region,Заокский,Zaoksky,RU-TUL-70222000000,Тульская область   ,Tulskaya,RU-TUL
+1251,Tula_Region,Алексинский,Aleksin,RU-TUL-70202000000,Тульская область   ,Tulskaya,RU-TUL
+1252,Tula_Region,Ясногорский,Yasnogorsky,RU-TUL-70250000000,Тульская область   ,Tulskaya,RU-TUL
+1253,Tula_Region,Новомосковский,Novomoskovsk,RU-TUL-70234000000,Тульская область   ,Tulskaya,RU-TUL
+1254,Tula_Region,Суворовский,Suvorovsky,RU-TUL-70240000000,Тульская область   ,Tulskaya,RU-TUL
+1255,Tula_Region,Дубенский,Dubensky,RU-TUL-70218000000,Тульская область   ,Tulskaya,RU-TUL
+1256,Tula_Region,Тула,Tula,RU-TUL-70401000000,Тульская область   ,Tulskaya,RU-TUL
+1257,Tula_Region,Каменский,Kamensky,RU-TUL-70224000000,Тульская область   ,Tulskaya,RU-TUL
+1258,Tula_Region,Чернский,Chernsky,RU-TUL-70246000000,Тульская область   ,Tulskaya,RU-TUL
+1259,Tula_Region,Белёвский,Belevsky,RU-TUL-70206000000,Тульская область   ,Tulskaya,RU-TUL
+1260,Tula_Region,Славный,Slavnyy,RU-TUL-70204567000,Тульская область   ,Tulskaya,RU-TUL
+1261,Tula_Region,Арсеньевский,Arsenyevsky,RU-TUL-70204000000,Тульская область   ,Tulskaya,RU-TUL
+1262,Tula_Region,Одоевский,Odoevsky,RU-TUL-70236000000,Тульская область   ,Tulskaya,RU-TUL
+1263,Tula_Region,Плавский,Plavsky,RU-TUL-70238000000,Тульская область   ,Tulskaya,RU-TUL
+1264,Tula_Region,Щекинский,Shchekinsky,RU-TUL-70248000000,Тульская область   ,Tulskaya,RU-TUL
+1265,Tula_Region,Новогуровский,Novogurovsky,RU-TUL-70202553000,Тульская область   ,Tulskaya,RU-TUL
+1266,Tula_Region,Куркинский,Kurinsky,RU-TUL-70230000000,Тульская область   ,Tulskaya,RU-TUL
+1267,Tula_Region,Воловский,Volovsky,RU-TUL-70216000000,Тульская область   ,Tulskaya,RU-TUL
+1268,Tula_Region,Тепло-Огаревский,TeploOgarevsky,RU-TUL-70242000000,Тульская область   ,Tulskaya,RU-TUL
+1269,Tula_Region,Киреевский,Kireyevsky,RU-TUL-70228000000,Тульская область   ,Tulskaya,RU-TUL
+1270,Tula_Region,Богородицкий,Bogoroditsky,RU-TUL-70208000000,Тульская область   ,Tulskaya,RU-TUL
+1271,Tula_Region,Узловский,Uzlovsky,RU-TUL-70244000000,Тульская область   ,Tulskaya,RU-TUL
+1272,Tula_Region,Кимовский,Kimovsky,RU-TUL-70226000000,Тульская область   ,Tulskaya,RU-TUL
+1273,Tula_Region,Донской,Donskoy,RU-TUL-70412000000,Тульская область   ,Tulskaya,RU-TUL
+1274,Tula_Region,Венёвский,Venevsky,RU-TUL-70212000000,Тульская область   ,Tulskaya,RU-TUL
+1275,Tula_Region,Ефремовский,Efremov,RU-TUL-70220000000,Тульская область   ,Tulskaya,RU-TUL
+1276,Ulyanovsk_Region,Инзенский,Inzensky,RU-ULY-73210000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1277,Ulyanovsk_Region,Тереньгульский,Terengulsky,RU-ULY-73248000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1278,Ulyanovsk_Region,Цильнинский,Tsilninsky,RU-ULY-73254000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1279,Ulyanovsk_Region,Ульяновский,Ulyanovsky,RU-ULY-73252000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1280,Ulyanovsk_Region,Сурский,Sursky,RU-ULY-73244000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1281,Ulyanovsk_Region,Мелекесский,Melekessky,RU-ULY-73222000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1282,Ulyanovsk_Region,Майнский,Mainsky,RU-ULY-73220000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1283,Ulyanovsk_Region,Старомайнский,Staromainsky,RU-ULY-73242000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1284,Ulyanovsk_Region,Новомалыклинский,Novomalyklinsky,RU-ULY-73227000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1285,Ulyanovsk_Region,Димитровград,Dimitrovgrad,RU-ULY-73405000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1286,Ulyanovsk_Region,Ульяновск,Ulyanovsk,RU-ULY-73401000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1287,Ulyanovsk_Region,Чердаклинский,Cherdaklinsky,RU-ULY-73256000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1288,Ulyanovsk_Region,Старокулаткинский,Starokulatkinsky,RU-ULY-73239000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1289,Ulyanovsk_Region,Сенгилеевский,Sengileevsky,RU-ULY-73236000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1290,Ulyanovsk_Region,Радищевский,Radishchevsky,RU-ULY-73234000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1291,Ulyanovsk_Region,Павловский,Pavlovsky,RU-ULY-73232000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1292,Ulyanovsk_Region,Новоспасский,Novospassky,RU-ULY-73229000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1293,Ulyanovsk_Region,Николаевский,Nikolaevsky,RU-ULY-73225000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1294,Ulyanovsk_Region,Кузоватовский,Kuzovatovsky,RU-ULY-73216000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1295,Ulyanovsk_Region,Карсунский,Karsunsky,RU-ULY-73214000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1296,Ulyanovsk_Region,Вешкаймский,Veshkaimsky,RU-ULY-73207000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1297,Ulyanovsk_Region,Барышский,Baryshsky,RU-ULY-73204000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1298,Ulyanovsk_Region,Базарносызганский,Bazarnosyzgansky,RU-ULY-73202000000,Ульяновская область   ,Ulyanovskaya,RU-ULY
+1299,Volgograd_Region,Ольховский,Olkhovsky,RU-VGG-18243000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1300,Volgograd_Region,Среднеахтубинский,Sredneakhtubinsky,RU-VGG-18251000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1301,Volgograd_Region,Фроловский,Frolovsky,RU-VGG-18256000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1302,Volgograd_Region,Котовский,Kotovsky,RU-VGG-18226000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1303,Volgograd_Region,Котельниковский,Kotelnikovsky,RU-VGG-18224000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1304,Volgograd_Region,Новониколаевский,Novonikolaevsky,RU-VGG-18240000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1305,Volgograd_Region,Киквидзенский,Kikvidzensky,RU-VGG-18220000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1306,Volgograd_Region,Жирновский,Zhirnovsky,RU-VGG-18212000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1307,Volgograd_Region,Руднянский,Rudnyansky,RU-VGG-18247000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1308,Volgograd_Region,Суровикинский,Surovinsky,RU-VGG-18253000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1309,Volgograd_Region,Волгоград,Volgograd,RU-VGG-18401000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1310,Volgograd_Region,Новоаннинский,Novoanninsky,RU-VGG-18238000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1311,Volgograd_Region,Нехаевский,Nekhaevsky,RU-VGG-18234000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1312,Volgograd_Region,Даниловский,Danilovsky,RU-VGG-18206000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1313,Volgograd_Region,Чернышковский,Chernyshkovsky,RU-VGG-18258000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1314,Volgograd_Region,Октябрьский,Oktyabrskiy,RU-VGG-18242000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1315,Volgograd_Region,Михайловский,Mikhailovsky,RU-VGG-18232000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1316,Volgograd_Region,Городищенский,Gorodishchensky,RU-VGG-18205000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1317,Volgograd_Region,Иловлинский,Ilovlinsky,RU-VGG-18214000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1318,Volgograd_Region,Старополтавский,Staropoltavsky,RU-VGG-18252000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1319,Volgograd_Region,Алексеевский,Alekseevsky,RU-VGG-18202000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1320,Volgograd_Region,Клетский,Kletsky,RU-VGG-18222000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1321,Volgograd_Region,Серафимовичский,Serafimovichsky,RU-VGG-18250000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1322,Volgograd_Region,Светлоярский,Svetloyarsky,RU-VGG-18249000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1323,Volgograd_Region,Ленинский,Leninskiy,RU-VGG-18230000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1324,Volgograd_Region,Урюпинский,Uryupinsky,RU-VGG-18254000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1325,Volgograd_Region,Кумылженский,Kumylzhensky,RU-VGG-18246000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1326,Volgograd_Region,Калачёвский,Kalachevsky,RU-VGG-18216000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1327,Volgograd_Region,Волжский,Volzhsky,RU-VGG-18410000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1328,Volgograd_Region,Фролово,Frolovo,RU-VGG-18428000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1329,Volgograd_Region,Урюпинск,Uryupinsk,RU-VGG-18425000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1330,Volgograd_Region,Михайловка,Mikhailovka,RU-VGG-18420000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1331,Volgograd_Region,Камышин,Kamyshin,RU-VGG-18415000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1332,Volgograd_Region,Быковский,Bykovsky,RU-VGG-18204000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1333,Volgograd_Region,Николаевский,Nikolaevsky,RU-VGG-18236000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1334,Volgograd_Region,Дубовский,Dubovsky,RU-VGG-18208000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1335,Volgograd_Region,Палласовский,Pallasovsky,RU-VGG-18245000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1336,Volgograd_Region,Камышинский,Kamyshinsky,RU-VGG-18218000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1337,Volgograd_Region,Еланский,Elansky,RU-VGG-18210000000,Волгоградская область   ,Volgogradskaya,RU-VGG
+1338,Vologda_Region,Великоустюгский,Velikoustyugsky,RU-VLG-19214000000,Вологодская область ,Vologodskaya,RU-VLG
+1339,Vologda_Region,Кичменгско-Городецкий,KichmengskoGorodetsky,RU-VLG-19230000000,Вологодская область ,Vologodskaya,RU-VLG
+1340,Vologda_Region,Никольский,Nikolsky,RU-VLG-19234000000,Вологодская область ,Vologodskaya,RU-VLG
+1341,Vologda_Region,Нюксенский,Nyuksensky,RU-VLG-19236000000,Вологодская область ,Vologodskaya,RU-VLG
+1342,Vologda_Region,Бабушкинский,Babushkinsky,RU-VLG-19208000000,Вологодская область ,Vologodskaya,RU-VLG
+1343,Vologda_Region,Тарногский,Tarnogsky,RU-VLG-19242000000,Вологодская область ,Vologodskaya,RU-VLG
+1344,Vologda_Region,Тотемский,Totemsky,RU-VLG-19246000000,Вологодская область ,Vologodskaya,RU-VLG
+1345,Vologda_Region,Верховажский,Verkhovazhsky,RU-VLG-19216000000,Вологодская область ,Vologodskaya,RU-VLG
+1346,Vologda_Region,Сямженский,Syamzhensky,RU-VLG-19240000000,Вологодская область ,Vologodskaya,RU-VLG
+1347,Vologda_Region,Грязовецкий,Gryazovetsky,RU-VLG-19224000000,Вологодская область ,Vologodskaya,RU-VLG
+1348,Vologda_Region,Междуреченский,Mezhdurechensky,RU-VLG-19232000000,Вологодская область ,Vologodskaya,RU-VLG
+1349,Vologda_Region,Сокольский,Sokolsky,RU-VLG-19238000000,Вологодская область ,Vologodskaya,RU-VLG
+1350,Vologda_Region,Харовский,Kharovsky,RU-VLG-19252000000,Вологодская область ,Vologodskaya,RU-VLG
+1351,Vologda_Region,Вожегодский,Vozhegodsky,RU-VLG-19218000000,Вологодская область ,Vologodskaya,RU-VLG
+1352,Vologda_Region,Усть-Кубинский,UstKubinsky,RU-VLG-19248000000,Вологодская область ,Vologodskaya,RU-VLG
+1353,Vologda_Region,Вологодский,_Vologodsky,RU-VLG-19220000000,Вологодская область ,Vologodskaya,RU-VLG
+1354,Vologda_Region,Кирилловский,Kirillovsky,RU-VLG-19228000000,Вологодская область ,Vologodskaya,RU-VLG
+1355,Vologda_Region,Шекснинский,Sheksninsky,RU-VLG-19258000000,Вологодская область ,Vologodskaya,RU-VLG
+1356,Vologda_Region,Череповецкий,Cherepovetsky,RU-VLG-19256000000,Вологодская область ,Vologodskaya,RU-VLG
+1357,Vologda_Region,Вашкинский,Vashkinsky,RU-VLG-19212000000,Вологодская область ,Vologodskaya,RU-VLG
+1358,Vologda_Region,Белозерский,Belozersky,RU-VLG-19210000000,Вологодская область ,Vologodskaya,RU-VLG
+1359,Vologda_Region,Кадуйский,Kaduysky,RU-VLG-19226000000,Вологодская область ,Vologodskaya,RU-VLG
+1360,Vologda_Region,Устюженский,Ustyuzhensky,RU-VLG-19250000000,Вологодская область ,Vologodskaya,RU-VLG
+1361,Vologda_Region,Чагодощенский,Chagodoshchensky,RU-VLG-19254000000,Вологодская область ,Vologodskaya,RU-VLG
+1362,Vologda_Region,Бабаевский,Babaevsky,RU-VLG-19205000000,Вологодская область ,Vologodskaya,RU-VLG
+1363,Vologda_Region,Вытегорский,Vytegorsky,RU-VLG-19222000000,Вологодская область ,Vologodskaya,RU-VLG
+1364,Vologda_Region,Вологда,Vologda,RU-VLG-19401000000,Вологодская область ,Vologodskaya,RU-VLG
+1365,Vologda_Region,Череповец,Cherepovets,RU-VLG-19430000000,Вологодская область ,Vologodskaya,RU-VLG
+1366,Voronezh_Region,Воронеж,Voronezh,RU-VOR-20401000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1367,Voronezh_Region,Рамонский,Ramonsky,RU-VOR-20243000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1368,Voronezh_Region,Семилукский,Semiluksky,RU-VOR-20249000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1369,Voronezh_Region,Хохольский,Khokholsky,RU-VOR-20256000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1370,Voronezh_Region,Нижнедевицкий,Nizhnedevitsky,RU-VOR-20223000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1371,Voronezh_Region,Репьёвский,Repyovsky,RU-VOR-20245000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1372,Voronezh_Region,Нововоронеж,Novovoronezh,RU-VOR-20427000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1373,Voronezh_Region,Каширский,Kashirsky,RU-VOR-20220000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1374,Voronezh_Region,Острогожский,Ostrogozhsky,RU-VOR-20231000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1375,Voronezh_Region,Лискинский,Liskinsky,RU-VOR-20221000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1376,Voronezh_Region,Каменский,Kamensky,RU-VOR-20217000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1377,Voronezh_Region,Ольховатский,Olkhovatsky,RU-VOR-20229000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1378,Voronezh_Region,Подгоренский,Podgorensky,RU-VOR-20241000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1379,Voronezh_Region,Павловский,Pavlovsky,RU-VOR-20233000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1380,Voronezh_Region,Верхнемамонский,Verkhnemamonsky,RU-VOR-20210000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1381,Voronezh_Region,Россошанский,Rossoshansky,RU-VOR-20247000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1382,Voronezh_Region,Кантемировский,Kantemirovsky,RU-VOR-20219000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1383,Voronezh_Region,Богучарский,Bogucharsky,RU-VOR-20205000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1384,Voronezh_Region,Петропавловский,Petropavlovsky,RU-VOR-20237000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1385,Voronezh_Region,Калачеевский,Kalacheevsky,RU-VOR-20215000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1386,Voronezh_Region,Бобровский,Bobrovsky,RU-VOR-20204000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1387,Voronezh_Region,Бутурлиновский,Buturlinovsky,RU-VOR-20208000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1388,Voronezh_Region,Воробьёвский,Vorobievsky,RU-VOR-20212000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1389,Voronezh_Region,Новоусманский,Novousmansky,RU-VOR-20225000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1390,Voronezh_Region,Панинский,Paninsky,RU-VOR-20235000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1391,Voronezh_Region,Аннинский,Anninsky,RU-VOR-20202000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1392,Voronezh_Region,Таловский,Talovsky,RU-VOR-20251000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1393,Voronezh_Region,Новохопёрский,Novokhopyorsky,RU-VOR-20227000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1394,Voronezh_Region,Верхнехавский,Verkhnekhavsky,RU-VOR-20211000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1395,Voronezh_Region,Эртильский,Ertilsky,RU-VOR-20258000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1396,Voronezh_Region,Терновский,Ternovsky,RU-VOR-20254000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1397,Voronezh_Region,Грибановский,Gribanovsky,RU-VOR-20213000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1398,Voronezh_Region,Борисоглебский,Borisoglebsky,RU-VOR-20206000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1399,Voronezh_Region,Борисоглебск,Borisoglebsk,RU-VOR-20410000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1400,Voronezh_Region,Поворинский,Povorinsky,RU-VOR-20239000000,Воронежская область   ,Voronezhskaya,RU-VOR
+1401,Zaporozhye_Region,Акимовский,Akimovsky,RU-ZPR-23201000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1402,Zaporozhye_Region,Бердянский,Berdyansky,RU-ZPR-23203000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1403,Zaporozhye_Region,Васильевский,Vasilievsky,RU-ZPR-23205000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1404,Zaporozhye_Region,Весёловский,Veselovsky,RU-ZPR-23207000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1405,Zaporozhye_Region,Каменско-Днепровский,KamenskoDneprovsky,RU-ZPR-23212000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1406,Zaporozhye_Region,Куйбышевский,Kuibyshevsky,RU-ZPR-23214000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1407,Zaporozhye_Region,Мелитопольский,Melitopolsky,RU-ZPR-23216000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1408,Zaporozhye_Region,Михайловский,Mikhailovsky,RU-ZPR-23218000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1409,Zaporozhye_Region,Пологовский,Pologovsky,RU-ZPR-23223000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1410,Zaporozhye_Region,Приазовский,Priazovsky,RU-ZPR-23225000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1411,Zaporozhye_Region,Приморский,Primorsky,RU-ZPR-23227000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1412,Zaporozhye_Region,Токмакский,Tokmaksky,RU-ZPR-23232000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1413,Zaporozhye_Region,Черниговский,Chernigovsky,RU-ZPR-23237000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1414,Zaporozhye_Region,Бердянск,Berdyansk,RU-ZPR-23403000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1415,Zaporozhye_Region,Мелитополь,Melitopol,RU-ZPR-23401000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1416,Zaporozhye_Region,Энергодар,Energodar,RU-ZPR-23405000000,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1417,Zaporozhye_Region,Гуляйпольский,Gulyaipolsky,RU-ZPR-23232000016,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1418,Zaporozhye_Region,Ореховский,Orekhovsky,RU-ZPR-23232000015,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1419,Zaporozhye_Region,Новониколаевский,Novonikolaevsky,RU-ZPR-23232000014,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1420,Zaporozhye_Region,Вольнянский,Volnyansky,RU-ZPR-23232000013,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1421,Zaporozhye_Region,Запорожский,Zaporozhsky,RU-ZPR-23232000012,Запорожская область  ,Zaporozhskaya,RU-ZPR
+1422,Zaporozhye_Region,Запорожье,Zaporozhye,RU-ZPR-23232000011,Запорожская область  ,Zaporozhskaya,RU-ZPR
