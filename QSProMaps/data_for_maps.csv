@@ -97,7 +97,7 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 96,Arkhangelsk_Region,Ленский район,Lensky,RU-ARK-11235000000,Архангельская область   ,Arhangelskaya,RU-ARK
 97,Astrakhan_Region,Черноярский,Chernoyarsky,RU-AST-12250000000,Астраханская область   ,Astrahanskaya,RU-AST
 98,Astrakhan_Region,Енотаевский,Enotaevsky,RU-AST-12215000000,Астраханская область   ,Astrahanskaya,RU-AST
-99,Astrakhan_Region,Икрянинский,Ikryaninsky,RU-AST,Астраханская область   ,Astrahanskaya,RU-AST
+99,Astrakhan_Region,Икрянинский,Ikryaninsky,RU-AST-12220000000,Астраханская область   ,Astrahanskaya,RU-AST
 100,Astrakhan_Region,Камызякский,Kamyzyaksky,RU-AST-12220000000,Астраханская область   ,Astrahanskaya,RU-AST
 101,Astrakhan_Region,Харабалинский,Kharabalinsky,RU-AST-12245000000,Астраханская область   ,Astrahanskaya,RU-AST
 102,Astrakhan_Region,Красноярский,Krasnoyarsky,RU-AST-12230000000,Астраханская область   ,Astrahanskaya,RU-AST
@@ -708,32 +708,32 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 707,Orenburg_Region,Беляевский,Belyaevsky,RU-ORE-53210000000,Оренбургская область   ,Orenburgskaya,RU-ORE
 708,Orenburg_Region,Акбулакский,Akbulaksky,RU-ORE-53205000000,Оренбургская область   ,Orenburgskaya,RU-ORE
 709,Orenburg_Region,Домбаровский,Dombarovsky,RU-ORE-53217000000,Оренбургская область   ,Orenburgskaya,RU-ORE
-710,Pskov_Region,Псковский,Pskovsky,RU-PSK-58249000000,Псковская область  ,Pskovskaya,RU-ORE
-711,Pskov_Region,Палкинский,Palkinsky,RU-PSK-58237000000,Псковская область  ,Pskovskaya,RU-ORE
-712,Pskov_Region,Великолукский,Velikoluksky,RU-PSK-58206000000,Псковская область  ,Pskovskaya,RU-ORE
-713,Pskov_Region,Печорский,Pechorsky,RU-PSK-58240000000,Псковская область  ,Pskovskaya,RU-ORE
-714,Pskov_Region,Великие Луки,VelikiyeLuki,RU-PSK-58410000000,Псковская область  ,Pskovskaya,RU-ORE
-715,Pskov_Region,Псков,Pskov,RU-PSK-58401000000,Псковская область  ,Pskovskaya,RU-ORE
-716,Pskov_Region,Усвятский,Usvyatsky,RU-PSK-58258000000,Псковская область  ,Pskovskaya,RU-ORE
-717,Pskov_Region,Невельский,Nevelsky,RU-PSK-58220000000,Псковская область  ,Pskovskaya,RU-ORE
-718,Pskov_Region,Куньинский,Kuninsky,RU-PSK-58216000000,Псковская область  ,Pskovskaya,RU-ORE
-719,Pskov_Region,Пустошкинский,Pustoshkinsky,RU-PSK-58250000000,Псковская область  ,Pskovskaya,RU-ORE
-720,Pskov_Region,Новосокольнический,Novosokolnichesky,RU-PSK-58226000000,Псковская область  ,Pskovskaya,RU-ORE
-721,Pskov_Region,Себежский,Sebezhsky,RU-PSK-58254000000,Псковская область  ,Pskovskaya,RU-ORE
-722,Pskov_Region,Опочецкий,Opochetsky,RU-PSK-58229000000,Псковская область  ,Pskovskaya,RU-ORE
-723,Pskov_Region,Красногородский,Krasnogorodsky,RU-PSK-58214000000,Псковская область  ,Pskovskaya,RU-ORE
-724,Pskov_Region,Бежаницкий,Bezhanitsky,RU-PSK-58204000000,Псковская область  ,Pskovskaya,RU-ORE
-725,Pskov_Region,Локнянский,Loknyansky,RU-PSK-58218000000,Псковская область  ,Pskovskaya,RU-ORE
-726,Pskov_Region,Новоржевский,Novorzhevsky,RU-PSK-58223000000,Псковская область  ,Pskovskaya,RU-ORE
-727,Pskov_Region,Пушкиногорский,Pushkinogorsky,RU-PSK-58251000000,Псковская область  ,Pskovskaya,RU-ORE
-728,Pskov_Region,Пыталовский,Pytalovsky,RU-PSK-58253000000,Псковская область  ,Pskovskaya,RU-ORE
-729,Pskov_Region,Порховский,Porkhovsky,RU-PSK-58247000000,Псковская область  ,Pskovskaya,RU-ORE
-730,Pskov_Region,Островский,Ostrovsky,RU-PSK-58233000000,Псковская область  ,Pskovskaya,RU-ORE
-731,Pskov_Region,Дедовичский,Dedovichsky,RU-PSK-58210000000,Псковская область  ,Pskovskaya,RU-ORE
-732,Pskov_Region,Дновский,Dnovsky,RU-PSK-58212000000,Псковская область  ,Pskovskaya,RU-ORE
-733,Pskov_Region,Струго-Красненский,StrugoKrasnensky,RU-PSK-58256000000,Псковская область  ,Pskovskaya,RU-ORE
-734,Pskov_Region,Плюсский,Plussky,RU-PSK-58243000000,Псковская область  ,Pskovskaya,RU-ORE
-735,Pskov_Region,Гдовский,Gdovsky,RU-PSK-58208000000,Псковская область  ,Pskovskaya,RU-ORE
+710,Pskov_Region,Псковский,Pskovsky,RU-PSK-58249000000,Псковская область  ,Pskovskaya,RU-PSK
+711,Pskov_Region,Палкинский,Palkinsky,RU-PSK-58237000000,Псковская область  ,Pskovskaya,RU-PSK
+712,Pskov_Region,Великолукский,Velikoluksky,RU-PSK-58206000000,Псковская область  ,Pskovskaya,RU-PSK
+713,Pskov_Region,Печорский,Pechorsky,RU-PSK-58240000000,Псковская область  ,Pskovskaya,RU-PSK
+714,Pskov_Region,Великие Луки,VelikiyeLuki,RU-PSK-58410000000,Псковская область  ,Pskovskaya,RU-PSK
+715,Pskov_Region,Псков,Pskov,RU-PSK-58401000000,Псковская область  ,Pskovskaya,RU-PSK
+716,Pskov_Region,Усвятский,Usvyatsky,RU-PSK-58258000000,Псковская область  ,Pskovskaya,RU-PSK
+717,Pskov_Region,Невельский,Nevelsky,RU-PSK-58220000000,Псковская область  ,Pskovskaya,RU-PSK
+718,Pskov_Region,Куньинский,Kuninsky,RU-PSK-58216000000,Псковская область  ,Pskovskaya,RU-PSK
+719,Pskov_Region,Пустошкинский,Pustoshkinsky,RU-PSK-58250000000,Псковская область  ,Pskovskaya,RU-PSK
+720,Pskov_Region,Новосокольнический,Novosokolnichesky,RU-PSK-58226000000,Псковская область  ,Pskovskaya,RU-PSK
+721,Pskov_Region,Себежский,Sebezhsky,RU-PSK-58254000000,Псковская область  ,Pskovskaya,RU-PSK
+722,Pskov_Region,Опочецкий,Opochetsky,RU-PSK-58229000000,Псковская область  ,Pskovskaya,RU-PSK
+723,Pskov_Region,Красногородский,Krasnogorodsky,RU-PSK-58214000000,Псковская область  ,Pskovskaya,RU-PSK
+724,Pskov_Region,Бежаницкий,Bezhanitsky,RU-PSK-58204000000,Псковская область  ,Pskovskaya,RU-PSK
+725,Pskov_Region,Локнянский,Loknyansky,RU-PSK-58218000000,Псковская область  ,Pskovskaya,RU-PSK
+726,Pskov_Region,Новоржевский,Novorzhevsky,RU-PSK-58223000000,Псковская область  ,Pskovskaya,RU-PSK
+727,Pskov_Region,Пушкиногорский,Pushkinogorsky,RU-PSK-58251000000,Псковская область  ,Pskovskaya,RU-PSK
+728,Pskov_Region,Пыталовский,Pytalovsky,RU-PSK-58253000000,Псковская область  ,Pskovskaya,RU-PSK
+729,Pskov_Region,Порховский,Porkhovsky,RU-PSK-58247000000,Псковская область  ,Pskovskaya,RU-PSK
+730,Pskov_Region,Островский,Ostrovsky,RU-PSK-58233000000,Псковская область  ,Pskovskaya,RU-PSK
+731,Pskov_Region,Дедовичский,Dedovichsky,RU-PSK-58210000000,Псковская область  ,Pskovskaya,RU-PSK
+732,Pskov_Region,Дновский,Dnovsky,RU-PSK-58212000000,Псковская область  ,Pskovskaya,RU-PSK
+733,Pskov_Region,Струго-Красненский,StrugoKrasnensky,RU-PSK-58256000000,Псковская область  ,Pskovskaya,RU-PSK
+734,Pskov_Region,Плюсский,Plussky,RU-PSK-58243000000,Псковская область  ,Pskovskaya,RU-PSK
+735,Pskov_Region,Гдовский,Gdovsky,RU-PSK-58208000000,Псковская область  ,Pskovskaya,RU-PSK
 736,Republic_of_Adygeya,Теучежский,Teuchezhsky,RU-AD-79233000000,Республика Адыгея  ,Adygeya,RU-AD
 737,Republic_of_Adygeya,Тахтамукайский,Takhtamukaysky,RU-AD-79230000000,Республика Адыгея  ,Adygeya,RU-AD
 738,Republic_of_Adygeya,Майкопский,Maykopsky,RU-AD-79222000000,Республика Адыгея  ,Adygeya,RU-AD
@@ -984,7 +984,7 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 983,Republic_of_Sakha_Yakutia,Мирнинский район,Mirninsky,RU-SA-98231000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 984,Republic_of_Sakha_Yakutia,Жиганский национальный эвенкийский улус,Zhigansky,RU-SA-98222000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 985,Republic_of_Sakha_Yakutia,Эвено-Бытантайский национальный улус,EvenoBytantaisky,RU-SA-98259000000,Республика Саха (Якутия) ,Yakutia,RU-SA
-986,Republic_of_Sakha_Yakutia,Верхоянский улус,Verkhoyansky,RU-SA,Республика Саха (Якутия) ,Yakutia,RU-SA
+986,Republic_of_Sakha_Yakutia,Верхоянский улус,Verkhoyansky,RU-SA-98216000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 987,Republic_of_Sakha_Yakutia,Абыйский улус,Abyisky,RU-SA-98216000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 988,Republic_of_Sakha_Yakutia,Среднеколымский улус,Srednekolymsky,RU-SA-98246000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 989,Republic_of_Sakha_Yakutia,Нижнеколымский улус,Nizhnekolymsky,RU-SA-98237000000,Республика Саха (Якутия) ,Yakutia,RU-SA
