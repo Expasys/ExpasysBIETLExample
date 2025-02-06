@@ -98,7 +98,7 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 97,Astrakhan_Region,Черноярский,Chernoyarsky,RU-AST-12250000000,Астраханская область   ,Astrahanskaya,RU-AST
 98,Astrakhan_Region,Енотаевский,Enotaevsky,RU-AST-12215000000,Астраханская область   ,Astrahanskaya,RU-AST
 99,Astrakhan_Region,Икрянинский,Ikryaninsky,RU-AST-12220000000,Астраханская область   ,Astrahanskaya,RU-AST
-100,Astrakhan_Region,Камызякский,Kamyzyaksky,RU-AST-12220000000,Астраханская область   ,Astrahanskaya,RU-AST
+100,Astrakhan_Region,Камызякский,Kamyzyaksky,RU-AST-12225000000,Астраханская область   ,Astrahanskaya,RU-AST
 101,Astrakhan_Region,Харабалинский,Kharabalinsky,RU-AST-12245000000,Астраханская область   ,Astrahanskaya,RU-AST
 102,Astrakhan_Region,Красноярский,Krasnoyarsky,RU-AST-12230000000,Астраханская область   ,Astrahanskaya,RU-AST
 103,Astrakhan_Region,Лиманский,Limansky,RU-AST-12235000000,Астраханская область   ,Astrahanskaya,RU-AST
@@ -250,7 +250,7 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 249,Kemerovo_Region,Мариинский,Mariinsky,RU-KEM-32216000000,Кемеровская область   ,Kemerovskaya,RU-KEM
 250,Kemerovo_Region,Ижморский,Izhmorsky,RU-KEM-32204000000,Кемеровская область   ,Kemerovskaya,RU-KEM
 251,Kemerovo_Region,Яйский,Yaysky,RU-KEM-32243000000,Кемеровская область   ,Kemerovskaya,RU-KEM
-252,Kemerovo_Region,Яшкинский,Yashkinsky,RU-KEM-32243000000,Кемеровская область   ,Kemerovskaya,RU-KEM
+252,Kemerovo_Region,Яшкинский,Yashkinsky,RU-KEM-32246000000,Кемеровская область   ,Kemerovskaya,RU-KEM
 253,Kemerovo_Region,Юргинский,Yurginsky,RU-KEM-32240000000,Кемеровская область   ,Kemerovskaya,RU-KEM
 254,Khanty_Mansi_Autonomous_Area,Белоярский,Beloyarsky,RU-KHM-71111000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
 255,Khanty_Mansi_Autonomous_Area,Берёзовский,Berezovsky,RU-KHM-71112000000,Ханты-Мансийский автономный округ – Югра,HantyMansiyskiy,RU-KHM
@@ -979,13 +979,13 @@ id,map,district,district_key,iso_okato,region,region_key,iso_code
 978,Republic_of_Sakha_Yakutia,Оймяконский улус,Oymyakonsky,RU-SA-98239000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 979,Republic_of_Sakha_Yakutia,Момский национальный эвенский улус,Momsky,RU-SA-98233823000,Республика Саха (Якутия) ,Yakutia,RU-SA
 980,Republic_of_Sakha_Yakutia,Верхнеколымский улус,Verkhnekolymsky,RU-SA-98215000000,Республика Саха (Якутия) ,Yakutia,RU-SA
-981,Republic_of_Sakha_Yakutia,Вилюйский улус,Vilyuisky,RU-SA-98214000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+981,Republic_of_Sakha_Yakutia,Вилюйский улус,Vilyuisky,RU-SA-98218000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 982,Republic_of_Sakha_Yakutia,Верхневилюйский улус,Verkhnevilyuysky,RU-SA-98214000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 983,Republic_of_Sakha_Yakutia,Мирнинский район,Mirninsky,RU-SA-98231000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 984,Republic_of_Sakha_Yakutia,Жиганский национальный эвенкийский улус,Zhigansky,RU-SA-98222000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 985,Republic_of_Sakha_Yakutia,Эвено-Бытантайский национальный улус,EvenoBytantaisky,RU-SA-98259000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 986,Republic_of_Sakha_Yakutia,Верхоянский улус,Verkhoyansky,RU-SA-98216000000,Республика Саха (Якутия) ,Yakutia,RU-SA
-987,Republic_of_Sakha_Yakutia,Абыйский улус,Abyisky,RU-SA-98216000000,Республика Саха (Якутия) ,Yakutia,RU-SA
+987,Republic_of_Sakha_Yakutia,Абыйский улус,Abyisky,RU-SA-98201000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 988,Republic_of_Sakha_Yakutia,Среднеколымский улус,Srednekolymsky,RU-SA-98246000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 989,Republic_of_Sakha_Yakutia,Нижнеколымский улус,Nizhnekolymsky,RU-SA-98237000000,Республика Саха (Якутия) ,Yakutia,RU-SA
 990,Republic_of_Sakha_Yakutia,Аллаиховский улус,Allaikhovsky,RU-SA-98206000000,Республика Саха (Якутия) ,Yakutia,RU-SA
