@@ -1,0 +1,90 @@
+id,map,region,region_key,iso_code_ru
+1,Russian_Federation_Sqr,Калининградская область,Kaliningradskaya,RU-КЛНГ
+2,Russian_Federation_Sqr,Псковская область,Pskovskaya,RU-ПСК
+3,Russian_Federation_Sqr,Ленинградская область,Leningradskaya,RU-ЛЕН
+4,Russian_Federation_Sqr,Смоленская область,Smolenskaya,RU-СМОЛ
+5,Russian_Federation_Sqr,Брянская область,Bryanskaya,RU-БРЯ
+6,Russian_Federation_Sqr,Луганская Народная Республики,Luganskaya,RU-ЛНР
+7,Russian_Federation_Sqr,Запорожская область,Zaporojskaya,RU-ЗАП
+8,Russian_Federation_Sqr,Херсонская область,Hersonskaya,RU-ХРС
+9,Russian_Federation_Sqr,Донецкая Народная Республика,Doneckaya,RU-ДНР
+10,Russian_Federation_Sqr,Республика Крым,Crimea,RU-КРЫМ
+11,Russian_Federation_Sqr,Республика Адыгея,Adygeya,RU-АДЫГ
+12,Russian_Federation_Sqr,Карачаево-Черкесская Республика,KarachaevoCherkessia,RU-КЧР
+13,Russian_Federation_Sqr,Кабардино-Балкарская Республика,KabardinoBalkaria,RU-КАБ
+14,Russian_Federation_Sqr,Республика Северная Осетия - Алания,SevernayaOsetia,RU-ОСЕТ
+15,Russian_Federation_Sqr,Республика Ингушетия,Ingushetia,RU-ИНГ
+16,Russian_Federation_Sqr,Республика Дагестан,Dagestan,RU-ДАГ
+17,Russian_Federation_Sqr,Астраханская область,Astrahanskaya,RU-АСТ
+18,Russian_Federation_Sqr,Волгоградская область,Volgogradskaya,RU-ВОЛГ
+19,Russian_Federation_Sqr,Саратовская область,Saratovskaya,RU-САР
+20,Russian_Federation_Sqr,Оренбургская область,Orenburgskaya,RU-ОРНБ
+21,Russian_Federation_Sqr,Республика Башкортостан,Bashkiria,RU-БШК
+22,Russian_Federation_Sqr,Челябинская область,Chelabinskaya,RU-ЧЕЛ
+23,Russian_Federation_Sqr,Омская область,Omskaya,RU-ОМСК
+24,Russian_Federation_Sqr,Республика Алтай,Altay,RU-АЛТ
+25,Russian_Federation_Sqr,Республика Тыва,Tyva,RU-ТУВА
+26,Russian_Federation_Sqr,Забайкальский край,Zabaykalskiy,RU-ЗАБ
+27,Russian_Federation_Sqr,Приморский край,Primorskiy,RU-ПРИ
+28,Russian_Federation_Sqr,Еврейская АО,Evreyskaya,RU-ЕВР
+29,Russian_Federation_Sqr,Хабаровский край,Habarovskiy,RU-ХАБ
+30,Russian_Federation_Sqr,Сахалинская область,Sahalinskaya,RU-СХЛН
+31,Russian_Federation_Sqr,Магаданская область,Magadanskaya,RU-МАГ
+32,Russian_Federation_Sqr,Чукотский АО,Chukotskiy,RU-ЧУК
+33,Russian_Federation_Sqr,Камчатский край,Kamchatskiy,RU-КАМ
+34,Russian_Federation_Sqr,Республика Саха (Якутия),Yakutia,RU-САХА
+35,Russian_Federation_Sqr,Красноярский край,Krasnoyarskiy,RU-КРАС
+36,Russian_Federation_Sqr,Иркутская область,Irkutskaya,RU-ИРК
+37,Russian_Federation_Sqr,Томская область,Tomskaya,RU-ТОМ
+38,Russian_Federation_Sqr,Тюменская область,Tumenskaya,RU-ТЮМ
+39,Russian_Federation_Sqr,Ямало-Ненецкий АО,YamaloNenetskiy,RU-ЯМАЛ
+40,Russian_Federation_Sqr,Ненецкий АО,Nenetskiy,RU-НЕН
+41,Russian_Federation_Sqr,Архангельская область,Arhangelskaya,RU-АРХ
+42,Russian_Federation_Sqr,Республика Марий Эл,MariyEl,RU-МАРИ
+43,Russian_Federation_Sqr,Костромская область,Kostromskaya,RU-КОС
+44,Russian_Federation_Sqr,Ивановская область,Ivanovskaya,RU-ИВА
+45,Russian_Federation_Sqr,Вологодская область,Vologodskaya,RU-ВОЛ
+46,Russian_Federation_Sqr,Республика Карелия,Karelia,RU-КАР
+47,Russian_Federation_Sqr,Мурманская область,Murmanskaya,RU-МУР
+48,Russian_Federation_Sqr,Новгородская область,Novgorodskaya,RU-НОВГ
+49,Russian_Federation_Sqr,Тверская область,Tverskaya,RU-ТВЕР
+50,Russian_Federation_Sqr,Ярославская область,Yaroslavskaya,RU-ЯРО
+51,Russian_Federation_Sqr,Республика Коми,Komi,RU-КОМИ
+52,Russian_Federation_Sqr,Кировская область,Kirovskaya,RU-КИР
+53,Russian_Federation_Sqr,Пермский край,Permskiy,RU-ПЕР
+54,Russian_Federation_Sqr,Ханты-Мансийский АО,HantyMansiyskiy,RU-ХАН
+55,Russian_Federation_Sqr,Кемеровская область,Kemerovskaya,RU-КЕМ
+56,Russian_Federation_Sqr,Амурская область,Amurskaya,RU-АМУР
+57,Russian_Federation_Sqr,Калужская область,Kaluzhskaya,RU-КАЛУ
+58,Russian_Federation_Sqr,Московская область,Moskovskaya,RU-МОС
+59,Russian_Federation_Sqr,Владимирская область,Vladimirskaya,RU-ВЛА
+60,Russian_Federation_Sqr,Нижегородская область,Nizhegorodskaya,RU-НИЖ
+61,Russian_Federation_Sqr,Орловская область,Orlovskaya,RU-ОРЛ
+62,Russian_Federation_Sqr,Курская область,Kurskaya,RU-КУР
+63,Russian_Federation_Sqr,Тульская область,Tulskaya,RU-ТУЛ
+64,Russian_Federation_Sqr,Липецкая область,Lipetskaya,RU-ЛИП
+65,Russian_Federation_Sqr,Белгородская область,Belgorodskaya,RU-БЕЛ
+66,Russian_Federation_Sqr,Краснодарский край,Krasnodarskiy,RU-КРДР
+67,Russian_Federation_Sqr,Ставропольский край,Stavropolskiy,RU-СТАВ
+68,Russian_Federation_Sqr,Чеченская Республика,Chechnya,RU-ЧЕЧ
+69,Russian_Federation_Sqr,Ростовская область,Rostovskaya,RU-РОС
+70,Russian_Federation_Sqr,Республика Калмыкия,Kalmykia,RU-КАЛМ
+71,Russian_Federation_Sqr,Воронежская область,Voronezhskaya,RU-ВОР
+72,Russian_Federation_Sqr,Тамбовская область,Tambovskaya,RU-ТАМ
+73,Russian_Federation_Sqr,Пензенская область,Penzenskaya,RU-ПЕН
+74,Russian_Federation_Sqr,Рязанская область,Razanskaya,RU-РЯЗ
+75,Russian_Federation_Sqr,Республика Мордовия,Mordovia,RU-МОР
+76,Russian_Federation_Sqr,Чувашская Республика,Chuvashia,RU-ЧУВ
+77,Russian_Federation_Sqr,Ульяновская область,Ulyanovskaya,RU-УЛЬ
+78,Russian_Federation_Sqr,Самарская область,Samarskaya,RU-САМ
+79,Russian_Federation_Sqr,Республика Татарстан,Tatarstan,RU-ТАТ
+80,Russian_Federation_Sqr,Удмуртская Республика,Udmurtia,RU-УДМ
+81,Russian_Federation_Sqr,Свердловская область,Sverdlovskaya,RU-СВЕР
+82,Russian_Federation_Sqr,Курганская область,Kurganskaya,RU-КУРГ
+83,Russian_Federation_Sqr,Новосибирская область,Novosibirskaya,RU-НОВО
+84,Russian_Federation_Sqr,Алтайский край,Altayskiy,RU-АЛТК
+85,Russian_Federation_Sqr,Республика Хакасия,Hakasia,RU-ХАК
+86,Russian_Federation_Sqr,Республика Бурятия,Buryatia,RU-БУР
+87,Russian_Federation_Sqr,Санкт-Петербург,SanktPeterburg,RU-СПБ
+88,Russian_Federation_Sqr,Севастополь,Sevastopol,RU-СВС
+89,Russian_Federation_Sqr,Москва,Moscow,RU-МСК
