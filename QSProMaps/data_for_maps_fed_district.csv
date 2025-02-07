@@ -1,0 +1,90 @@
+id,map,fed_district,region,region_key,iso_code
+1,Central_Federal_District,Центральный федеральный округ,Тверская обл.,Tverskaya,RU-TVE
+2,Central_Federal_District,Центральный федеральный округ,Смоленская обл.,Smolenskaya,RU-SMO
+3,Central_Federal_District,Центральный федеральный округ,Ярославская обл.,Yaroslavskaya,RU-YAR
+4,Central_Federal_District,Центральный федеральный округ,Брянская обл.,Bryanskaya,RU-BRY
+5,Central_Federal_District,Центральный федеральный округ,Калужская область,Kaluzhskaya,RU-KLU
+6,Central_Federal_District,Центральный федеральный округ,Московская обл.,Moskovskaya,RU-MOS
+7,Central_Federal_District,Центральный федеральный округ,Москва,Moscow,RU-MOW
+8,Central_Federal_District,Центральный федеральный округ,Владимирская обл.,Vladimirskaya,RU-VLA
+9,Central_Federal_District,Центральный федеральный округ,Ивановская обл.,Ivanovskaya,RU-IVA
+10,Central_Federal_District,Центральный федеральный округ,Костромская обл.,Kostromskaya,RU-KOS
+11,Central_Federal_District,Центральный федеральный округ,Курская обл.,Kurskaya,RU-KRS
+12,Central_Federal_District,Центральный федеральный округ,Орловская обл.,Orlovskaya,RU-ORL
+13,Central_Federal_District,Центральный федеральный округ,Тульская обл.,Tulskaya,RU-TUL
+14,Central_Federal_District,Центральный федеральный округ,Рязанская обл.,Razanskaya,RU-RYA
+15,Central_Federal_District,Центральный федеральный округ,Белгородская обл.,Belgorodskaya,RU-BEL
+16,Central_Federal_District,Центральный федеральный округ,Воронежская обл.,Voronezhskaya,RU-VOR
+17,Central_Federal_District,Центральный федеральный округ,Липецкая обл.,Lipetskaya,RU-LIP
+18,Central_Federal_District,Центральный федеральный округ,Тамбовская обл.,Tambovskaya,RU-TAM
+19,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Амурская обл.,Amurskaya,RU-AMU
+20,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Респ. Бурятия,Buryatia,RU-BU
+21,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Еврейская АО,Evreyskaya,RU-YEV
+22,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Забайкальский край,Zabaykalskiy,RU-ZAB
+23,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Камчатский край,Kamchatskiy,RU-KAM
+24,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Магаданская обл.,Magadanskaya,RU-MAG
+25,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Приморский край,Primorskiy,RU-PRI
+26,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Сахалинская обл.,Sahalinskaya,RU-SAK
+27,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Чукотский АО,Chukotskiy,RU-CHU
+28,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Хабаровский край,Habarovskiy,RU-KHA
+29,Far_Eastern_Federal_District,Дальневосточный федеральный округ,Респ. Саха (Якутия),Yakutia,RU-SA
+30,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Респ. Дагестан,Dagestan,RU-DA
+31,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Чеченская Респ.,Chechnya,RU-CE
+32,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Респ. Ингушетия,Ingushetia,RU-IN
+33,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Респ. Северная Осетия–Алания,SevernayaOsetia,RU-SE
+34,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Кабардино-Балкарская Респ.,KabardinoBalkaria,RU-KB
+35,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Карачаево-Черкесская Респ.,KarachaevoCherkessia,RU-KC
+36,North_Caucasus_Federal_District,Северо-Кавказский федеральный округ,Ставропольский край,Stavropolskiy,RU-STA
+37,North_Western_Federal_District,Северо-Западный федеральный округ,Архангельская обл.,Arhangelskaya,RU-ARK
+38,North_Western_Federal_District,Северо-Западный федеральный округ,Вологодская обл.,Vologodskaya,RU-VLG
+39,North_Western_Federal_District,Северо-Западный федеральный округ,Калининградская обл.,Kaliningradskaya,RU-KGD
+40,North_Western_Federal_District,Северо-Западный федеральный округ,Респ. Карелия,Karelia,RU-KR
+41,North_Western_Federal_District,Северо-Западный федеральный округ,Респ. Коми,Komi,RU-KO
+42,North_Western_Federal_District,Северо-Западный федеральный округ,Ленинградская обл.,Leningradskaya,RU-LEN
+43,North_Western_Federal_District,Северо-Западный федеральный округ,Мурманская обл.,Murmanskaya,RU-MUR
+44,North_Western_Federal_District,Северо-Западный федеральный округ,Ненецкий АО,Nenetskiy,RU-NEN
+45,North_Western_Federal_District,Северо-Западный федеральный округ,Новгородская обл.,Novgorodskaya,RU-NGR
+46,North_Western_Federal_District,Северо-Западный федеральный округ,Псковская обл.,Pskovskaya,RU-PSK
+47,North_Western_Federal_District,Северо-Западный федеральный округ,Санкт-Петербург,SanktPeterburg,RU-SPE
+48,Siberian_Federal_District,Сибирский федеральный округ,Алтайский край,Altayskiy,RU-ALT
+49,Siberian_Federal_District,Сибирский федеральный округ,Респ. Алтай,Altay,RU-AL
+50,Siberian_Federal_District,Сибирский федеральный округ,Иркутская обл.,Irkutskaya,RU-IRK
+51,Siberian_Federal_District,Сибирский федеральный округ,Кемеровская обл.,Kemerovskaya,RU-KEM
+52,Siberian_Federal_District,Сибирский федеральный округ,Красноярский край,Krasnoyarskiy,RU-KYA
+53,Siberian_Federal_District,Сибирский федеральный округ,Новосибирская обл.,Novosibirskaya,RU-NVS
+54,Siberian_Federal_District,Сибирский федеральный округ,Омская обл.,Omskaya,RU-OMS
+55,Siberian_Federal_District,Сибирский федеральный округ,Томская обл.,Tomskaya,RU-TOM
+56,Siberian_Federal_District,Сибирский федеральный округ,Респ. Тыва,Tyva,RU-TY
+57,Siberian_Federal_District,Сибирский федеральный округ,Респ. Хакасия,Hakasia,RU-KK
+58,Southern_Federal_District,Южный федеральный округ,Астраханская обл.,Astrahanskaya,RU-AST
+59,Southern_Federal_District,Южный федеральный округ,Респ. Калмыкия,Kalmykia,RU-KL
+60,Southern_Federal_District,Южный федеральный округ,Волгоградская обл.,Volgogradskaya,RU-VGG
+61,Southern_Federal_District,Южный федеральный округ,Ростовская обл.,Rostovskaya,RU-ROS
+62,Southern_Federal_District,Южный федеральный округ,Респ. Адыгея,Adygeya,RU-AD
+63,Southern_Federal_District,Южный федеральный округ,Краснодарский край,Krasnodarskiy,RU-KDA
+64,Southern_Federal_District,Южный федеральный округ,Респ. Крым,Crimea,RU-CRI
+65,Southern_Federal_District,Южный федеральный округ,Севастополь,Sevastopol,RU-SEV
+66,Southern_Federal_District,Южный федеральный округ,Херсонская обл.,Khersonskaya,RU-KHR
+67,Southern_Federal_District,Южный федеральный округ,ЛНР,Luganskaya,RU-LNR
+68,Southern_Federal_District,Южный федеральный округ,ДНР,Donetskaya,RU-DNR
+69,Southern_Federal_District,Южный федеральный округ,Запорожская обл.,Zaporozhskaya,RU-ZPR
+70,Ural_Federal_District,Уральский федеральный округ,Курганская обл.,Kurganskaya,RU-KGN
+71,Ural_Federal_District,Уральский федеральный округ,Свердловская обл.,Sverdlovskaya,RU-SVE
+72,Ural_Federal_District,Уральский федеральный округ,Тюменская обл.,Tumenskaya,RU-TYU
+73,Ural_Federal_District,Уральский федеральный округ,Ханты-Мансийский АО,HantyMansiyskiy,RU-KHM
+74,Ural_Federal_District,Уральский федеральный округ,Челябинская обл.,Chelabinskaya,RU-CHE
+75,Ural_Federal_District,Уральский федеральный округ,Ямало-Ненецкий АО,YamaloNenetskiy,RU-YAN
+76,Volga_Federal_District,Приволжский федеральный округ,Респ. Башкортостан,Bashkiria,RU-BA
+77,Volga_Federal_District,Приволжский федеральный округ,Кировская обл.,Kirovskaya,RU-KIR
+78,Volga_Federal_District,Приволжский федеральный округ,Респ. Марий Эл,MariyEl,RU-ME
+79,Volga_Federal_District,Приволжский федеральный округ,Респ. Мордовия,Mordovia,RU-MO
+80,Volga_Federal_District,Приволжский федеральный округ,Нижегородская обл.,Nizhegorodskaya,RU-NIZ
+81,Volga_Federal_District,Приволжский федеральный округ,Оренбургская обл.,Orenburgskaya,RU-ORE
+82,Volga_Federal_District,Приволжский федеральный округ,Пензенская обл.,Penzenskaya,RU-PNZ
+83,Volga_Federal_District,Приволжский федеральный округ,Пермский край,Permskiy,RU-PER
+84,Volga_Federal_District,Приволжский федеральный округ,Самарская обл.,Samarskaya,RU-SAM
+85,Volga_Federal_District,Приволжский федеральный округ,Саратовская обл.,Saratovskaya,RU-SAR
+86,Volga_Federal_District,Приволжский федеральный округ,Респ. Татарстан,Tatarstan,RU-TA
+87,Volga_Federal_District,Приволжский федеральный округ,Удмуртская Респ.,Udmurtia,RU-UD
+88,Volga_Federal_District,Приволжский федеральный округ,Ульяновская обл.,Ulyanovskaya,RU-ULY
+89,Volga_Federal_District,Приволжский федеральный округ,Чувашская Респ.,Chuvashia,RU-CU
