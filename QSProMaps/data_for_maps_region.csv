@@ -76,7 +76,7 @@ id,map,region,district,district_key,iso_okato
 75,Amur_Region,Амурская область,Благовещенск,Blagoveshchensk,RU-AMU-10401000000
 76,Amur_Region,Амурская область,Благовещенский,Blagoveshchensky,RU-AMU-10211000000
 77,Amur_Region,Амурская область,Бурейский,Bureysky,RU-AMU-10215000000
-78,Amur_Region,Амурская область,Ивановский,Ивановский,RU-AMU-10228000000
+78,Amur_Region,Амурская область,Ивановский,Ivanovsky,RU-AMU-10228000000
 79,Amur_Region,Амурская область,Константиновский,Konstantinovsky,RU-AMU-10230000000
 80,Amur_Region,Амурская область,Магдагачинский,Magdagachinsky,RU-AMU-10231000000
 81,Amur_Region,Амурская область,Мазановский,Mazanovsky,RU-AMU-10232000000
@@ -86,9 +86,9 @@ id,map,region,district,district_key,iso_okato
 85,Amur_Region,Амурская область,Райчихинск,Raychikhinsk,RU-AMU-10420000000
 86,Amur_Region,Амурская область,Ромненский,Romnensky,RU-AMU-10240000000
 87,Amur_Region,Амурская область,Селемджинский,Selemdzhinsky,RU-AMU-10245000000
-88,Amur_Region,Амурская область,Серышевский,Серышевский,RU-AMU-10247000000
+88,Amur_Region,Амурская область,Серышевский,Seryshevsky,RU-AMU-10247000000
 89,Amur_Region,Амурская область,Шимановск,Shimanovsk,RU-AMU-10440000000
-90,Amur_Region,Амурская область,Шимановский,Шимановский,RU-AMU-10255000000
+90,Amur_Region,Амурская область,Шимановский,Shimanovsky,RU-AMU-10255000000
 91,Amur_Region,Амурская область,Сковородинский,Skovorodinsky,RU-AMU-10249000000
 92,Amur_Region,Амурская область,Свободненский,Svobodnensky,RU-AMU-10242000000
 93,Amur_Region,Амурская область,Свободный,Svobodny,RU-AMU-10430000000
@@ -512,7 +512,7 @@ id,map,region,district,district_key,iso_okato
 511,Khabarovsk_Territory,Хабаровский край,Тугуро-Чумиканский,TuguroChumikansky,RU-KHA-08246000000
 512,Khabarovsk_Territory,Хабаровский край,Ульчский,Ulchsky,RU-KHA-08250000000
 513,Khabarovsk_Territory,Хабаровский край,Ванинский,Vaninsky,RU-KHA-08212000000
-514,Khabarovsk_Territory,Хабаровский край,Верхнебуреинский,Верхнебуреинский,RU-KHA-08214000000
+514,Khabarovsk_Territory,Хабаровский край,Верхнебуреинский,Verkhnebureinsky,RU-KHA-08214000000
 515,Khabarovsk_Territory,Хабаровский край,Вяземский,Vyazemsky,RU-KHA-08217000000
 516,Khanty_Mansi_Autonomous_Area,Ханты-Мансийский автономный округ – Югра,Белоярский,Beloyarsky,RU-KHM-71111000000
 517,Khanty_Mansi_Autonomous_Area,Ханты-Мансийский автономный округ – Югра,Берёзовский,Berezovsky,RU-KHM-71112000000
@@ -575,12 +575,12 @@ id,map,region,district,district_key,iso_okato
 574,Kirov_Region,Кировская область,Подосиновский,Podosinovsky,RU-KIR-33232000000
 575,Kirov_Region,Кировская область,Санчурский,Sanchursky,RU-KIR-33233000000
 576,Kirov_Region,Кировская область,Шабалинский,Shabalinsky,RU-KIR-33247000000
-577,Kirov_Region,Кировская область,Слободской,Slobodsk,RU-KIR-33413000000
+577,Kirov_Region,Кировская область,г. Слободской,Slobodsk,RU-KIR-33413000000
 578,Kirov_Region,Кировская область,Слободской,Slobodskoy,RU-KIR-33235000000
 579,Kirov_Region,Кировская область,Советский,Sovetsky,RU-KIR-33236000000
 580,Kirov_Region,Кировская область,Сунский,Sunsky,RU-KIR-33237000000
 581,Kirov_Region,Кировская область,Свечинский,Svechinsky,RU-KIR-33234000000
-582,Kirov_Region,Кировская область,Тужинский,Тужинский,RU-KIR-33238000000
+582,Kirov_Region,Кировская область,Тужинский,Tuzhinsky,RU-KIR-33238000000
 583,Kirov_Region,Кировская область,Унинский,Uninsky,RU-KIR-33240000000
 584,Kirov_Region,Кировская область,Уржумский,Urzhumsky,RU-KIR-33241000000
 585,Kirov_Region,Кировская область,Верхнекамский,Verkhnekamsky,RU-KIR-33207000000
@@ -588,7 +588,7 @@ id,map,region,district,district_key,iso_okato
 587,Kirov_Region,Кировская область,Вятские Поляны,VyatskiyePolyany,RU-KIR-33404000000
 588,Kirov_Region,Кировская область,Вятско-Полянский,VyatskoPolyansky,RU-KIR-33210000000
 589,Kirov_Region,Кировская область,ЗАТО Первомайский,Pervomaysky,RU-KIR-33587000000
-590,Kirov_Region,Кировская область,Зуевский,Зуевский,RU-KIR-33214000000
+590,Kirov_Region,Кировская область,Зуевский,Zuevsky,RU-KIR-33214000000
 591,Komi_Republic,Республика Коми,Сыктывдинский,Syktyvdinsky,RU-KO-87228000000
 592,Komi_Republic,Республика Коми,Троицко-Печорский,Troitsko_Pechorsky,RU-KO-87236000000
 593,Komi_Republic,Республика Коми,Княжпогостский,Knyazhpogostsky,RU-KO-87208000000
@@ -685,7 +685,7 @@ id,map,region,district,district_key,iso_okato
 684,Krasnodar_Territory,Краснодарский край,Мостовский,Mostovsky,RU-KDA-03233000000
 685,Krasnoyarsk_Territory,Красноярский край,Абанский,Abansky,RU-KYA-04201000000
 686,Krasnoyarsk_Territory,Красноярский край,Ачинск,Achinsk,RU-KYA-04403000000
-687,Krasnoyarsk_Territory,Красноярский край,Ачинский,Ачинский,RU-KYA-04203000000
+687,Krasnoyarsk_Territory,Красноярский край,Ачинский,Achinsky,RU-KYA-04203000000
 688,Krasnoyarsk_Territory,Красноярский край,Балахтинский,Balakhtinsky,RU-KYA-04204000000
 689,Krasnoyarsk_Territory,Красноярский край,Берёзовский,Berezovsky,RU-KYA-04205000000
 690,Krasnoyarsk_Territory,Красноярский край,Бирилюсский,Birilyussky,RU-KYA-04206000000
@@ -2064,7 +2064,7 @@ id,map,region,district,district_key,iso_okato
 2063,Smolensk_Region,Смоленская область,Починковский,Pochinkovsky,RU-SMO-66233000000
 2064,Smolensk_Region,Смоленская область,Рославльский,Roslavlsky,RU-SMO-66236000000
 2065,Smolensk_Region,Смоленская область,Руднянский,Rudnyansky,RU-SMO-66238000000
-2066,Smolensk_Region,Смоленская область,Сафоновский,Сафоновский,RU-SMO-66241000000
+2066,Smolensk_Region,Смоленская область,Сафоновский,Safonovsky,RU-SMO-66241000000
 2067,Smolensk_Region,Смоленская область,Шумячский,Shumyachsky,RU-SMO-66256000000
 2068,Smolensk_Region,Смоленская область,Смоленск,Smolensk,RU-SMO-66401000000
 2069,Smolensk_Region,Смоленская область,Смоленский,Smolensky,RU-SMO-66244000000
@@ -2110,7 +2110,7 @@ id,map,region,district,district_key,iso_okato
 2109,Sverdlovsk_Region,Свердловская область,Арамиль,Aramil,RU-SVE-65241503000
 2110,Sverdlovsk_Region,Свердловская область,Ачитский,Achitsky,RU-SVE-65204000000
 2111,Sverdlovsk_Region,Свердловская область,Алапаевский,Alapayevsky,RU-SVE-65201000000
-2112,Sverdlovsk_Region,Свердловская область,Артинский,Артинский,RU-SVE-65203000000
+2112,Sverdlovsk_Region,Свердловская область,Артинский,Artinsky,RU-SVE-65203000000
 2113,Sverdlovsk_Region,Свердловская область,Артемовский,Artemovsky,RU-SVE-65202000000
 2114,Sverdlovsk_Region,Свердловская область,Асбест,Asbest,RU-SVE-65409000000
 2115,Sverdlovsk_Region,Свердловская область,Байкаловский,Baikalovsky,RU-SVE-65208000000
@@ -2193,12 +2193,12 @@ id,map,region,district,district_key,iso_okato
 2192,Tambov_Region,Тамбовская область,Мичуринский,Michurinsky,RU-TAM-68212000000
 2193,Tambov_Region,Тамбовская область,Мордовский,Mordovskiy,RU-TAM-68214000000
 2194,Tambov_Region,Тамбовская область,Моршанский,Morshansky,RU-TAM-68216000000
-2195,Tambov_Region,Тамбовская область,Мучкапский,Мучкапский,RU-TAM-68218000000
+2195,Tambov_Region,Тамбовская область,Мучкапский,Muchkapsky,RU-TAM-68218000000
 2196,Tambov_Region,Тамбовская область,Никифоровский,Nikiforovsky,RU-TAM-68220000000
 2197,Tambov_Region,Тамбовская область,Первомайский,Pervomaysky,RU-TAM-68222000000
 2198,Tambov_Region,Тамбовская область,Петровский,Petrovsky,RU-TAM-68224000000
 2199,Tambov_Region,Тамбовская область,Пичаевский,Pichaevsky,RU-TAM-68226000000
-2200,Tambov_Region,Тамбовская область,Рассказовский,Рассказовский,RU-TAM-68228000000
+2200,Tambov_Region,Тамбовская область,Рассказовский,Rasskazovsky,RU-TAM-68228000000
 2201,Tambov_Region,Тамбовская область,Ржаксинский,Rzhaksinsky,RU-TAM-68230000000
 2202,Tambov_Region,Тамбовская область,Сампурский,Sampursky,RU-TAM-68232000000
 2203,Tambov_Region,Тамбовская область,Сосновский,Sosnovsky,RU-TAM-68234000000
@@ -2314,7 +2314,7 @@ id,map,region,district,district_key,iso_okato
 2313,Tver_Region,Тверская область,Оленинский,Oleninsky,RU-TVE-28244000000
 2314,Tver_Region,Тверская область,Осташковский,Ostashkovsky,RU-TVE-28245000000
 2315,Tver_Region,Тверская область,Озерный,Ozerny,RU-TVE-28553000000
-2316,Tver_Region,Тверская область,Пеновский,Пеновский,RU-TVE-28246000000
+2316,Tver_Region,Тверская область,Пеновский,Penovsky,RU-TVE-28246000000
 2317,Tver_Region,Тверская область,Рамешковский,Rameshkovsky,RU-TVE-28247000000
 2318,Tver_Region,Тверская область,Ржев,Rzhev,RU-TVE-28445000000
 2319,Tver_Region,Тверская область,Ржевский,Rzhevsky,RU-TVE-28248000000
@@ -2342,7 +2342,7 @@ id,map,region,district,district_key,iso_okato
 2341,Tyumen_Region,Тюменская область,Ишим,Ishim,RU-TYU-71405000000
 2342,Tyumen_Region,Тюменская область,Ишимский,Ishimsky,RU-TYU-71226000000
 2343,Tyumen_Region,Тюменская область,Ялуторовск,Yalutorovsk,RU-TYU-71415000000
-2344,Tyumen_Region,Тюменская область,Ялуторовский,Yalutorovsky,RU-TYU-71256000000ы
+2344,Tyumen_Region,Тюменская область,Ялуторовский,Yalutorovsky,RU-TYU-71256000000
 2345,Tyumen_Region,Тюменская область,Ярковский,Yarkovsky,RU-TYU-71258000000
 2346,Tyumen_Region,Тюменская область,Юргинский,Yurginsky,RU-TYU-71253000000
 2347,Tyumen_Region,Тюменская область,Казанский,Kazansky,RU-TYU-71230000000
@@ -2369,7 +2369,7 @@ id,map,region,district,district_key,iso_okato
 2368,Udmurtian_Republic,Удмуртская Республика,Игринский,Igrinsky,RU-UD-94218000000
 2369,Udmurtian_Republic,Удмуртская Республика,Ижевск,Izhevsk,RU-UD-94401000000
 2370,Udmurtian_Republic,Удмуртская Республика,Якшур-Бодьинский,YakshurBodinsky,RU-UD-94250000000
-2371,Udmurtian_Republic,Удмуртская Республика,Ярский,Ярский,RU-UD-94252000000
+2371,Udmurtian_Republic,Удмуртская Республика,Ярский,Yarsky,RU-UD-94252000000
 2372,Udmurtian_Republic,Удмуртская Республика,Юкаменский,Yukamensky,RU-UD-94248000000
 2373,Udmurtian_Republic,Удмуртская Республика,Камбарский,Kambarsky,RU-UD-94220000000
 2374,Udmurtian_Republic,Удмуртская Республика,Каракулинский,Karakulinsky,RU-UD-94222000000
